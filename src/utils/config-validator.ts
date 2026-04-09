@@ -16,7 +16,7 @@ class ConfigValidator {
       required: true,
       type: 'string',
       description: 'GitHub API token for repository access',
-      validate: (value) => value.length > 0 && value.startsWith('ghp_'),
+      validate: (value) => value.length > 20,
     },
     {
       name: 'LOG_LEVEL',
