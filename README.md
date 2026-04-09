@@ -39,7 +39,7 @@ Tracks trending AI products and tools (optional).
 ## Setup
 
 ### Prerequisites
-- Node.js 18+
+- Node.js 18.17+ (or Node.js 20+)
 - GitHub repository with Actions enabled
 - GitHub token with appropriate permissions
 
