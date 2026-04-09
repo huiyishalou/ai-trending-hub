@@ -113,4 +113,13 @@ export class DiscussionPublisher {
   }
 }
 
-export const discussionPublisher = new DiscussionPublisher();
+let instance: DiscussionPublisher | null = null;
+
+export const discussionPublisher = {
+  async publish(digest: DailyDigest): Promise<void> {
+    if (!instance) {
+      instance = new DiscussionPublisher();
+    }
+    return instance.publish(digest);
+  },
+};

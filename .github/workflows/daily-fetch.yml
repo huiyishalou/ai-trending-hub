@@ -33,7 +33,7 @@ jobs:
       - name: Run trending fetch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REPOSITORY: ${{ secrets.repository }}
           LOG_LEVEL: info
           MAX_ITEMS_PER_SOURCE: 30
           AI_RELEVANCE_THRESHOLD: 0.7
