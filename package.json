@@ -1,0 +1,37 @@
+{
+  "name": "ai-trending-hub",
+  "version": "1.0.0",
+  "description": "Daily AI/LLM trending content aggregator and publisher for GitHub",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "fetch": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "test": "vitest",
+    "lint": "eslint src --ext .ts"
+  },
+  "keywords": [
+    "ai",
+    "trending",
+    "github-actions",
+    "llm",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0",
+    "octokit": "^2.0.0",
+    "dotenv": "^16.0.0",
+    "pino": "^8.0.0",
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0",
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "pino-pretty": "^10.0.0"
+  }
+}
