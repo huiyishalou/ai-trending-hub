@@ -13,6 +13,42 @@
 ## Latest Trending
 
 <!-- TRENDING_START -->
+
+### 2026-04-09
+
+1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 10513)
+   - The agent that grows with you
+   - Source: github
+
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 3674)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+3. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 1300)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   - Source: github
+
+4. **[TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)** `LLM`, `Research`, `Core` (⭐ 1231)
+   - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+   - Source: github
+
+5. **[MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091)** `LLM`, `Core` (⭐ 689)
+   - By chrsw | 303 points
+   - Source: hackernews
+
+6. **[YishenTu/claudian](https://github.com/YishenTu/claudian)** `LLM`, `Core` (⭐ 340)
+   - An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
+   - Source: github
+
+7. **[Claude mixes up who said what and that's not OK](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)** `LLM`, `Core` (⭐ 261)
+   - By sixhobbits | 85 points
+   - Source: hackernews
+
+8. **[Process Manager for Autonomous AI Agents](https://botctl.dev/)** `RL`, `Robotics`, `Core` (⭐ 215)
+   - By ankitg12 | 46 points
+   - Source: hackernews
+
+
 <!-- TRENDING_END -->
 
 ## Data Sources
