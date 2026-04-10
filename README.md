@@ -32,20 +32,28 @@
    - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
    - Source: github
 
-5. **[YishenTu/claudian](https://github.com/YishenTu/claudian)** `LLM`, `Core` (⭐ 387)
+5. **[Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)** `Vision`, `RL` (⭐ 472)
+   - By rickcarlino | 222 points
+   - Source: hackernews
+
+6. **[Research-Driven Agents: When an agent reads before it codes](https://blog.skypilot.co/research-driven-agents/)** `RL`, `Research` (⭐ 403)
+   - By hopechong | 177 points
+   - Source: hackernews
+
+7. **[Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID)** `LLM`, `Vision` (⭐ 400)
+   - By _tk_ | 149 points
+   - Source: hackernews
+
+8. **[YishenTu/claudian](https://github.com/YishenTu/claudian)** `LLM`, `Core` (⭐ 387)
    - An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
    - Source: github
 
-6. **[Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID)** `LLM`, `Vision` (⭐ 337)
-   - By _tk_ | 114 points
+9. **[The Raft consensus algorithm explained through "Mean Girls" (2019)](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)** `RL`, `Core` (⭐ 228)
+   - By vermilingua | 80 points
    - Source: hackernews
 
-7. **[Research-Driven Agents: When an agent reads before it codes](https://blog.skypilot.co/research-driven-agents/)** `RL`, `Research` (⭐ 320)
-   - By hopechong | 131 points
-   - Source: hackernews
-
-8. **[Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)** `Vision`, `RL` (⭐ 299)
-   - By rickcarlino | 126 points
+10. **[An AI robot in my home](https://allevato.me/2026/04/07/an-ai-robot-in-my-home)** `Robotics`, `Core` (⭐ 145)
+   - By kukanani | 34 points
    - Source: hackernews
 
 
