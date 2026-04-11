@@ -14,46 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-10
+### 2026-04-11
 
-1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 11757)
+1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 13892)
    - The agent that grows with you
    - Source: github
 
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 4162)
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 3894)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-3. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 2491)
+3. **[multica-ai/multica](https://github.com/multica-ai/multica)** `RL`, `Core` (⭐ 2759)
+   - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+   - Source: github
+
+4. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 2646)
    - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
    - Source: github
 
-4. **[TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)** `LLM`, `Research`, `Core` (⭐ 1368)
-   - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+5. **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** `LLM`, `Core` (⭐ 2360)
+   - practice made claude perfect
    - Source: github
 
-5. **[Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)** `Vision`, `RL` (⭐ 472)
-   - By rickcarlino | 222 points
-   - Source: hackernews
-
-6. **[Research-Driven Agents: When an agent reads before it codes](https://blog.skypilot.co/research-driven-agents/)** `RL`, `Research` (⭐ 403)
-   - By hopechong | 177 points
-   - Source: hackernews
-
-7. **[Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID)** `LLM`, `Vision` (⭐ 400)
-   - By _tk_ | 149 points
-   - Source: hackernews
-
-8. **[YishenTu/claudian](https://github.com/YishenTu/claudian)** `LLM`, `Core` (⭐ 387)
-   - An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
-   - Source: github
-
-9. **[The Raft consensus algorithm explained through "Mean Girls" (2019)](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)** `RL`, `Core` (⭐ 228)
-   - By vermilingua | 80 points
-   - Source: hackernews
-
-10. **[An AI robot in my home](https://allevato.me/2026/04/07/an-ai-robot-in-my-home)** `Robotics`, `Core` (⭐ 145)
-   - By kukanani | 34 points
+6. **[Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)** `RL`, `Core` (⭐ 212)
+   - By lermontov | 71 points
    - Source: hackernews
 
 
