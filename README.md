@@ -14,31 +14,35 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-11
+### 2026-04-12
 
-1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 13892)
+1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 11672)
    - The agent that grows with you
    - Source: github
 
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 3894)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-3. **[multica-ai/multica](https://github.com/multica-ai/multica)** `RL`, `Core` (⭐ 2759)
+2. **[multica-ai/multica](https://github.com/multica-ai/multica)** `RL`, `Core` (⭐ 3554)
    - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
    - Source: github
 
-4. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 2646)
-   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2888)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-5. **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** `LLM`, `Core` (⭐ 2360)
+4. **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** `LLM`, `Core` (⭐ 2763)
    - practice made claude perfect
    - Source: github
 
-6. **[Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)** `RL`, `Core` (⭐ 212)
-   - By lermontov | 71 points
+5. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 1955)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   - Source: github
+
+6. **[How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)** `RL`, `Research`, `Core` (⭐ 779)
+   - By Anon84 | 366 points
    - Source: hackernews
+
+7. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 758)
+   - 所有小初高、大学PDF教材。
+   - Source: github
 
 
 <!-- TRENDING_END -->
