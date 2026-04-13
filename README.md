@@ -14,35 +14,43 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-12
+### 2026-04-13
 
-1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 11672)
+1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 13501)
    - The agent that grows with you
    - Source: github
 
-2. **[multica-ai/multica](https://github.com/multica-ai/multica)** `RL`, `Core` (⭐ 3554)
-   - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-   - Source: github
-
-3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2888)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-4. **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** `LLM`, `Core` (⭐ 2763)
-   - practice made claude perfect
-   - Source: github
-
-5. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 1955)
+2. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 4300)
    - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
    - Source: github
 
-6. **[How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)** `RL`, `Research`, `Core` (⭐ 779)
-   - By Anon84 | 366 points
+3. **[multica-ai/multica](https://github.com/multica-ai/multica)** `RL`, `Core` (⭐ 2944)
+   - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+   - Source: github
+
+4. **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** `LLM`, `Core` (⭐ 2894)
+   - practice made claude perfect
+   - Source: github
+
+5. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1463)
+   - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+   - Source: github
+
+6. **[Exploiting the most prominent AI agent benchmarks](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)** `RL`, `Research`, `Core` (⭐ 1065)
+   - By Anon84 | 525 points
    - Source: hackernews
 
-7. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 758)
+7. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 925)
    - 所有小初高、大学PDF教材。
    - Source: github
+
+8. **[snarktank/ralph](https://github.com/snarktank/ralph)** `RL`, `Robotics`, `Core` (⭐ 866)
+   - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
+   - Source: github
+
+9. **[Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902)** `Vision`, `Core` (⭐ 235)
+   - By mpweiher | 77 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
