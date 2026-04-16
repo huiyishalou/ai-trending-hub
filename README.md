@@ -14,27 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-15
+### 2026-04-16
 
-1. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 16709)
+1. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 17399)
    - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
    - Source: github
 
-2. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 15026)
-   - The agent that grows with you
-   - Source: github
-
-3. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 5503)
+2. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 4257)
    - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
    - Source: github
 
-4. **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** `LLM`, `RL`, `Core` (⭐ 4769)
-   - from vibe coding to agentic engineering - practice makes claude perfect
-   - Source: github
-
-5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 3478)
+3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 3723)
    - An agentic skills framework & software development methodology that works.
    - Source: github
+
+4. **[google/magika](https://github.com/google/magika)** `Vision`, `Core` (⭐ 1406)
+   - Fast and accurate AI powered file content types detection
+   - Source: github
+
+5. **[lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)** `RL`, `Robotics` (⭐ 863)
+   - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+   - Source: github
+
+6. **[ChatGPT for Excel](https://chatgpt.com/apps/spreadsheets/)** `LLM` (⭐ 502)
+   - By armcat | 199 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
