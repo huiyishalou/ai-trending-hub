@@ -14,30 +14,50 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-16
+### 2026-04-17
 
-1. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 17399)
+1. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 14362)
    - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
    - Source: github
 
-2. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 4257)
+2. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 3523)
    - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
    - Source: github
 
-3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 3723)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
+3. **[Qwen3.6-35B-A3B: Agentic coding power, now open to all](https://qwen.ai/blog?id=qwen3.6-35b-a3b)** `LLM`, `RL` (⭐ 2073)
+   - By cmitsakis | 1085 points
+   - Source: hackernews
 
-4. **[google/magika](https://github.com/google/magika)** `Vision`, `Core` (⭐ 1406)
-   - Fast and accurate AI powered file content types detection
-   - Source: github
-
-5. **[lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)** `RL`, `Robotics` (⭐ 863)
+4. **[lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)** `RL`, `Robotics` (⭐ 1630)
    - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
    - Source: github
 
-6. **[ChatGPT for Excel](https://chatgpt.com/apps/spreadsheets/)** `LLM` (⭐ 502)
-   - By armcat | 199 points
+5. **[google/magika](https://github.com/google/magika)** `Vision`, `Core` (⭐ 1561)
+   - Fast and accurate AI powered file content types detection
+   - Source: github
+
+6. **[EvoMap/evolver](https://github.com/EvoMap/evolver)** `RL`, `Core` (⭐ 1483)
+   - The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+   - Source: github
+
+7. **[SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)** `LLM`, `RL` (⭐ 705)
+   - Claude Code skill to support Android app's reverse engineering
+   - Source: github
+
+8. **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** `Framework`, `RL`, `Core` (⭐ 406)
+   - A lightweight, powerful framework for multi-agent workflows
+   - Source: github
+
+9. **[CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/)** `Framework`, `Core` (⭐ 331)
+   - By gregsadetsky | 137 points
+   - Source: hackernews
+
+10. **[topoteretes/cognee](https://github.com/topoteretes/cognee)** `RL`, `Core` (⭐ 327)
+   - Knowledge Engine for AI Agent Memory in 6 lines of code
+   - Source: github
+
+11. **[ReBot-DevArm: open-source Robotic Arm](https://github.com/Seeed-Projects/reBot-DevArm)** `RL`, `Robotics` (⭐ 157)
+   - By rickcarlino | 54 points
    - Source: hackernews
 
 
