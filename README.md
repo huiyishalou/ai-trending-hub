@@ -14,35 +14,27 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-18
+### 2026-04-19
 
-1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 3107)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-2. **[google/magika](https://github.com/google/magika)** `Vision`, `Core` (⭐ 1745)
-   - Fast and accurate AI powered file content types detection
-   - Source: github
-
-3. **[lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)** `RL`, `Robotics` (⭐ 1581)
-   - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-   - Source: github
-
-4. **[EvoMap/evolver](https://github.com/EvoMap/evolver)** `RL`, `Core` (⭐ 1348)
+1. **[EvoMap/evolver](https://github.com/EvoMap/evolver)** `RL`, `Core` (⭐ 2057)
    - The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
    - Source: github
 
-5. **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** `Framework`, `RL`, `Core` (⭐ 1221)
+2. **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** `Framework`, `RL`, `Core` (⭐ 942)
    - A lightweight, powerful framework for multi-agent workflows
    - Source: github
 
-6. **[SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)** `LLM`, `RL` (⭐ 998)
+3. **[thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)** `Robotics`, `Core` (⭐ 835)
+   - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
+   - Source: github
+
+4. **[SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)** `LLM`, `RL` (⭐ 755)
    - Claude Code skill to support Android app's reverse engineering
    - Source: github
 
-7. **[Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)** `RL`, `Core` (⭐ 437)
-   - By louiereederson | 196 points
-   - Source: hackernews
+5. **[deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)** `LLM`, `Core` (⭐ 164)
+   - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+   - Source: github
 
 
 <!-- TRENDING_END -->
