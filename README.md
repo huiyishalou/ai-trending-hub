@@ -14,27 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-19
+### 2026-04-20
 
-1. **[EvoMap/evolver](https://github.com/EvoMap/evolver)** `RL`, `Core` (⭐ 2057)
-   - The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
-   - Source: github
-
-2. **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** `Framework`, `RL`, `Core` (⭐ 942)
+1. **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** `Framework`, `RL`, `Core` (⭐ 1450)
    - A lightweight, powerful framework for multi-agent workflows
    - Source: github
 
-3. **[thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)** `Robotics`, `Core` (⭐ 835)
+2. **[thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)** `Robotics`, `Core` (⭐ 1281)
    - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
    - Source: github
 
-4. **[SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)** `LLM`, `RL` (⭐ 755)
-   - Claude Code skill to support Android app's reverse engineering
+3. **[EvoMap/evolver](https://github.com/EvoMap/evolver)** `RL`, `Core` (⭐ 970)
+   - The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
    - Source: github
 
-5. **[deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)** `LLM`, `Core` (⭐ 164)
-   - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+4. **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `RL`, `Research` (⭐ 803)
+   - A community-supported supercharged document management system: scan, index and archive all your documents
    - Source: github
+
+5. **[Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)** `LLM`, `NLP`, `Tools` (⭐ 687)
+   - By pretext | 320 points
+   - Source: hackernews
+
+6. **[Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/)** `LLM`, `Core` (⭐ 308)
+   - By twapi | 111 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
