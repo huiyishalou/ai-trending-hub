@@ -14,30 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-20
+### 2026-04-21
 
-1. **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** `Framework`, `RL`, `Core` (⭐ 1450)
+1. **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** `Framework`, `RL`, `Core` (⭐ 1725)
    - A lightweight, powerful framework for multi-agent workflows
    - Source: github
 
-2. **[thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)** `Robotics`, `Core` (⭐ 1281)
+2. **[thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)** `Robotics`, `Core` (⭐ 1245)
    - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
    - Source: github
 
-3. **[EvoMap/evolver](https://github.com/EvoMap/evolver)** `RL`, `Core` (⭐ 970)
-   - The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
-   - Source: github
-
-4. **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `RL`, `Research` (⭐ 803)
+3. **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `RL`, `Research` (⭐ 1187)
    - A community-supported supercharged document management system: scan, index and archive all your documents
    - Source: github
 
-5. **[Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)** `LLM`, `NLP`, `Tools` (⭐ 687)
-   - By pretext | 320 points
+4. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 626)
+   - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+   - Source: github
+
+5. **[Anthropic says OpenClaw-style Claude CLI usage is allowed again](https://docs.openclaw.ai/providers/anthropic)** `LLM`, `Core` (⭐ 439)
+   - By jmsflknr | 184 points
    - Source: hackernews
 
-6. **[Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/)** `LLM`, `Core` (⭐ 308)
-   - By twapi | 111 points
+6. **[deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)** `LLM`, `Core` (⭐ 304)
+   - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+   - Source: github
+
+7. **[Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness](https://mediator.ai/)** `LLM`, `Core` (⭐ 216)
+   - By sanity | 60 points
    - Source: hackernews
 
 
