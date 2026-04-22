@@ -14,34 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-21
+### 2026-04-22
 
-1. **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** `Framework`, `RL`, `Core` (⭐ 1725)
-   - A lightweight, powerful framework for multi-agent workflows
-   - Source: github
+1. **[Framework Laptop 13 Pro](https://frame.work/laptop13pro)** `LLM`, `Framework` (⭐ 2303)
+   - By Trollmann | 1243 points
+   - Source: hackernews
 
-2. **[thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)** `Robotics`, `Core` (⭐ 1245)
+2. **[ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)** `LLM`, `Vision` (⭐ 1642)
+   - By wahnfrieden | 799 points
+   - Source: hackernews
+
+3. **[thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)** `Robotics`, `Core` (⭐ 1103)
    - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
    - Source: github
 
-3. **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `RL`, `Research` (⭐ 1187)
-   - A community-supported supercharged document management system: scan, index and archive all your documents
+4. **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** `LLM`, `NLP`, `RL` (⭐ 448)
+   - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
    - Source: github
 
-4. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 626)
-   - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+5. **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** `RL`, `Core` (⭐ 444)
+   - 12 Lessons to Get Started Building AI Agents
    - Source: github
 
-5. **[Anthropic says OpenClaw-style Claude CLI usage is allowed again](https://docs.openclaw.ai/providers/anthropic)** `LLM`, `Core` (⭐ 439)
-   - By jmsflknr | 184 points
-   - Source: hackernews
-
-6. **[deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)** `LLM`, `Core` (⭐ 304)
-   - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+6. **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** `LLM`, `RL` (⭐ 334)
+   - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
    - Source: github
 
-7. **[Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness](https://mediator.ai/)** `LLM`, `Core` (⭐ 216)
-   - By sanity | 60 points
+7. **[CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap)** `LLM`, `RL` (⭐ 320)
+   - By pedrofranceschi | 111 points
    - Source: hackernews
 
 
