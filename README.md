@@ -14,34 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-22
+### 2026-04-23
 
-1. **[Framework Laptop 13 Pro](https://frame.work/laptop13pro)** `LLM`, `Framework` (⭐ 2303)
-   - By Trollmann | 1243 points
-   - Source: hackernews
-
-2. **[ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)** `LLM`, `Vision` (⭐ 1642)
-   - By wahnfrieden | 799 points
-   - Source: hackernews
-
-3. **[thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)** `Robotics`, `Core` (⭐ 1103)
-   - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-   - Source: github
-
-4. **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** `LLM`, `NLP`, `RL` (⭐ 448)
+1. **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** `LLM`, `NLP`, `RL` (⭐ 1712)
    - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
    - Source: github
 
-5. **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** `RL`, `Core` (⭐ 444)
-   - 12 Lessons to Get Started Building AI Agents
+2. **[Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)** `LLM`, `Core` (⭐ 1629)
+   - By mfiguiere | 845 points
+   - Source: hackernews
+
+3. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 820)
+   - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
    - Source: github
 
-6. **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** `LLM`, `RL` (⭐ 334)
-   - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+4. **[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)** `Robotics`, `Core`, `Tools` (⭐ 697)
+   - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
    - Source: github
 
-7. **[CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap)** `LLM`, `RL` (⭐ 320)
-   - By pedrofranceschi | 111 points
+5. **[Workspace Agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt/)** `LLM`, `RL` (⭐ 439)
+   - By mfiguiere | 137 points
+   - Source: hackernews
+
+6. **[langfuse/langfuse](https://github.com/langfuse/langfuse)** `LLM`, `Framework`, `Research`, `Core`, `Tools` (⭐ 322)
+   - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+   - Source: github
+
+7. **[Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)** `RL`, `Core` (⭐ 172)
+   - By zdw | 49 points
    - Source: hackernews
 
 
