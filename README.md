@@ -14,34 +14,50 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-23
+### 2026-04-24
 
-1. **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** `LLM`, `NLP`, `RL` (⭐ 1712)
+1. **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** `LLM`, `NLP`, `RL` (⭐ 1964)
    - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
    - Source: github
 
-2. **[Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)** `LLM`, `Core` (⭐ 1629)
-   - By mfiguiere | 845 points
+2. **[huggingface/ml-intern](https://github.com/huggingface/ml-intern)** `Research`, `Core` (⭐ 1323)
+   - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+   - Source: github
+
+3. **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** `Vision`, `Core` (⭐ 644)
+   - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+   - Source: github
+
+4. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 579)
+   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+   - Source: github
+
+5. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 518)
+   - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
+   - Source: github
+
+6. **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** `LLM`, `RL` (⭐ 494)
+   - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+   - Source: github
+
+7. **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** `RL`, `Core` (⭐ 458)
+   - 12 Lessons to Get Started Building AI Agents
+   - Source: github
+
+8. **[chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)** `RL`, `Core` (⭐ 435)
+   - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
+   - Source: github
+
+9. **[cline/cline](https://github.com/cline/cline)** `RL`, `Robotics` (⭐ 245)
+   - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+   - Source: github
+
+10. **[Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture](https://ynarwal.github.io/how-llms-work/)** `LLM`, `Vision` (⭐ 191)
+   - By ynarwal__ | 33 points
    - Source: hackernews
 
-3. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 820)
-   - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-   - Source: github
-
-4. **[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)** `Robotics`, `Core`, `Tools` (⭐ 697)
-   - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
-   - Source: github
-
-5. **[Workspace Agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt/)** `LLM`, `RL` (⭐ 439)
-   - By mfiguiere | 137 points
-   - Source: hackernews
-
-6. **[langfuse/langfuse](https://github.com/langfuse/langfuse)** `LLM`, `Framework`, `Research`, `Core`, `Tools` (⭐ 322)
-   - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-   - Source: github
-
-7. **[Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)** `RL`, `Core` (⭐ 172)
-   - By zdw | 49 points
+11. **[S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no)** `Vision`, `Core` (⭐ 109)
+   - By giuliomagnifico | 7 points
    - Source: hackernews
 
 
