@@ -14,50 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-24
+### 2026-04-25
 
-1. **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** `LLM`, `NLP`, `RL` (⭐ 1964)
-   - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-   - Source: github
-
-2. **[huggingface/ml-intern](https://github.com/huggingface/ml-intern)** `Research`, `Core` (⭐ 1323)
+1. **[huggingface/ml-intern](https://github.com/huggingface/ml-intern)** `Research`, `Core` (⭐ 5400)
    - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
    - Source: github
 
-3. **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** `Vision`, `Core` (⭐ 644)
+2. **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** `Vision`, `Core` (⭐ 1591)
    - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
    - Source: github
 
-4. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 579)
-   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+3. **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** `LLM`, `NLP`, `RL` (⭐ 1415)
+   - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
    - Source: github
 
-5. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 518)
-   - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
-   - Source: github
-
-6. **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** `LLM`, `RL` (⭐ 494)
-   - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
-   - Source: github
-
-7. **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** `RL`, `Core` (⭐ 458)
-   - 12 Lessons to Get Started Building AI Agents
-   - Source: github
-
-8. **[chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)** `RL`, `Core` (⭐ 435)
-   - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
-   - Source: github
-
-9. **[cline/cline](https://github.com/cline/cline)** `RL`, `Robotics` (⭐ 245)
-   - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-   - Source: github
-
-10. **[Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture](https://ynarwal.github.io/how-llms-work/)** `LLM`, `Vision` (⭐ 191)
-   - By ynarwal__ | 33 points
+4. **[Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://alash3al.github.io/stash?_v01)** `LLM`, `RL`, `Core` (⭐ 350)
+   - By alash3al | 28 points
    - Source: hackernews
 
-11. **[S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no)** `Vision`, `Core` (⭐ 109)
-   - By giuliomagnifico | 7 points
+5. **["Plain text has been around for decades and it's here to stay." – Unsung](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)** `NLP`, `Core` (⭐ 249)
+   - By rbanffy | 85 points
+   - Source: hackernews
+
+6. **[deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)** `LLM`, `Framework`, `Core` (⭐ 214)
+   - DeepEP: an efficient expert-parallel communication library
+   - Source: github
+
+7. **[Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)** `LLM`, `RL`, `Core` (⭐ 165)
+   - By najmuzzaman | 5 points
    - Source: hackernews
 
 
