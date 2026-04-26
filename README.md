@@ -14,35 +14,27 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-25
+### 2026-04-26
 
-1. **[huggingface/ml-intern](https://github.com/huggingface/ml-intern)** `Research`, `Core` (⭐ 5400)
+1. **[huggingface/ml-intern](https://github.com/huggingface/ml-intern)** `Research`, `Core` (⭐ 2259)
    - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
    - Source: github
 
-2. **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** `Vision`, `Core` (⭐ 1591)
-   - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 2077)
+   - My personal directory of skills, straight from my .claude directory.
    - Source: github
 
-3. **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** `LLM`, `NLP`, `RL` (⭐ 1415)
-   - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-   - Source: github
-
-4. **[Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://alash3al.github.io/stash?_v01)** `LLM`, `RL`, `Core` (⭐ 350)
-   - By alash3al | 28 points
+3. **[Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)** `LLM` (⭐ 781)
+   - By pr337h4m | 354 points
    - Source: hackernews
 
-5. **["Plain text has been around for decades and it's here to stay." – Unsung](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)** `NLP`, `Core` (⭐ 249)
-   - By rbanffy | 85 points
-   - Source: hackernews
-
-6. **[deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)** `LLM`, `Framework`, `Core` (⭐ 214)
+4. **[deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)** `LLM`, `Framework`, `Core` (⭐ 460)
    - DeepEP: an efficient expert-parallel communication library
    - Source: github
 
-7. **[Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)** `LLM`, `RL`, `Core` (⭐ 165)
-   - By najmuzzaman | 5 points
-   - Source: hackernews
+5. **[RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)** `RL`, `Core` (⭐ 124)
+   - Roo Code gives you a whole dev team of AI agents in your code editor.
+   - Source: github
 
 
 <!-- TRENDING_END -->
