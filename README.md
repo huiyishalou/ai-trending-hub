@@ -14,26 +14,18 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-26
+### 2026-04-27
 
-1. **[huggingface/ml-intern](https://github.com/huggingface/ml-intern)** `Research`, `Core` (⭐ 2259)
-   - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `RL`, `Core` (⭐ 4573)
+   - Agent Skills for real engineers. Straight from my .claude directory.
    - Source: github
 
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 2077)
-   - My personal directory of skills, straight from my .claude directory.
+2. **[trycua/cua](https://github.com/trycua/cua)** `RL`, `Robotics`, `Research`, `Core` (⭐ 370)
+   - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
    - Source: github
 
-3. **[Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)** `LLM` (⭐ 781)
-   - By pr337h4m | 354 points
-   - Source: hackernews
-
-4. **[deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)** `LLM`, `Framework`, `Core` (⭐ 460)
-   - DeepEP: an efficient expert-parallel communication library
-   - Source: github
-
-5. **[RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)** `RL`, `Core` (⭐ 124)
-   - Roo Code gives you a whole dev team of AI agents in your code editor.
+3. **[curl/curl](https://github.com/curl/curl)** `Framework`, `RL` (⭐ 126)
+   - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
    - Source: github
 
 
