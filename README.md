@@ -14,18 +14,22 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-27
+### 2026-04-28
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `RL`, `Core` (⭐ 4573)
-   - Agent Skills for real engineers. Straight from my .claude directory.
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 10188)
+   - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-2. **[trycua/cua](https://github.com/trycua/cua)** `RL`, `Robotics`, `Research`, `Core` (⭐ 370)
-   - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+2. **[Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)** `NLP`, `Core` (⭐ 766)
+   - By jekude | 372 points
+   - Source: hackernews
+
+3. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 560)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
    - Source: github
 
-3. **[curl/curl](https://github.com/curl/curl)** `Framework`, `RL` (⭐ 126)
-   - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+4. **[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** `LLM`, `Core` (⭐ 254)
+   - No description
    - Source: github
 
 
