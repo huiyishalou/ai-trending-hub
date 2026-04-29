@@ -14,23 +14,19 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-28
+### 2026-04-29
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 10188)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 13205)
    - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-2. **[Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)** `NLP`, `Core` (⭐ 766)
-   - By jekude | 372 points
+2. **[Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)** `NLP`, `Core` (⭐ 1374)
+   - By jekude | 710 points
    - Source: hackernews
 
-3. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 560)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
-   - Source: github
-
-4. **[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** `LLM`, `Core` (⭐ 254)
-   - No description
-   - Source: github
+3. **[How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)** `LLM` (⭐ 761)
+   - By lmbbuchodi | 343 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
