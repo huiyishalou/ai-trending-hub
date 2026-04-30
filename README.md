@@ -14,18 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-29
+### 2026-04-30
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 13205)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 13131)
    - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-2. **[Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)** `NLP`, `Core` (⭐ 1374)
-   - By jekude | 710 points
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2999)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+3. **[The Zig project's rationale for their anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)** `RL`, `Core` (⭐ 597)
+   - By lumpa | 285 points
    - Source: hackernews
 
-3. **[How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)** `LLM` (⭐ 761)
-   - By lmbbuchodi | 343 points
+4. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 583)
+   - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+   - Source: github
+
+5. **[Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models)** `NLP`, `Core`, `Tools` (⭐ 502)
+   - By embedding-shape | 247 points
+   - Source: hackernews
+
+6. **[Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)** `Vision`, `NLP` (⭐ 302)
+   - By the-mitr | 101 points
    - Source: hackernews
 
 
