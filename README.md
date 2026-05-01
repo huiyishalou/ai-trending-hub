@@ -14,31 +14,27 @@
 
 <!-- TRENDING_START -->
 
-### 2026-04-30
+### 2026-05-01
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 13131)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 11164)
    - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2999)
+2. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 3755)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+   - Source: github
+
+3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2962)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-3. **[The Zig project's rationale for their anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)** `RL`, `Core` (⭐ 597)
-   - By lumpa | 285 points
+4. **[Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)** `Framework`, `Core` (⭐ 881)
+   - By j12y | 396 points
    - Source: hackernews
 
-4. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 583)
-   - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+5. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 154)
+   - Claude Agent SDK with a web browsing tool
    - Source: github
-
-5. **[Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models)** `NLP`, `Core`, `Tools` (⭐ 502)
-   - By embedding-shape | 247 points
-   - Source: hackernews
-
-6. **[Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)** `Vision`, `NLP` (⭐ 302)
-   - By the-mitr | 101 points
-   - Source: hackernews
 
 
 <!-- TRENDING_END -->
