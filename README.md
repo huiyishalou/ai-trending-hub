@@ -14,26 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-01
+### 2026-05-02
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 11164)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 6588)
    - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-2. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 3755)
+2. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 3916)
    - TradingAgents: Multi-Agents LLM Financial Trading Framework
    - Source: github
 
-3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2962)
+3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1997)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-4. **[Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)** `Framework`, `Core` (⭐ 881)
-   - By j12y | 396 points
+4. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 631)
+   - Claude Agent SDK with a web browsing tool
+   - Source: github
+
+5. **[Eka’s robotic claw feels like we're approaching a ChatGPT moment](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)** `LLM`, `Robotics` (⭐ 442)
+   - By zdw | 139 points
    - Source: hackernews
 
-5. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 154)
-   - Claude Agent SDK with a web browsing tool
+6. **[simstudioai/sim](https://github.com/simstudioai/sim)** `RL`, `Core` (⭐ 149)
+   - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
    - Source: github
 
 
