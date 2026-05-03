@@ -14,31 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-02
+### 2026-05-03
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 6588)
-   - Skills for Real Engineers. Straight from my .claude directory.
-   - Source: github
-
-2. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 3916)
+1. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 4119)
    - TradingAgents: Multi-Agents LLM Financial Trading Framework
    - Source: github
 
-3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1997)
-   - An agentic skills framework & software development methodology that works.
+2. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 2395)
+   - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
    - Source: github
 
-4. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 631)
+3. **[Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)** `LLM` (⭐ 702)
+   - By bazlightyear | 270 points
+   - Source: hackernews
+
+4. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 653)
    - Claude Agent SDK with a web browsing tool
    - Source: github
 
-5. **[Eka’s robotic claw feels like we're approaching a ChatGPT moment](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)** `LLM`, `Robotics` (⭐ 442)
-   - By zdw | 139 points
-   - Source: hackernews
-
-6. **[simstudioai/sim](https://github.com/simstudioai/sim)** `RL`, `Core` (⭐ 149)
-   - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+5. **[ShareX/ShareX](https://github.com/ShareX/ShareX)** `Vision`, `NLP`, `RL` (⭐ 316)
+   - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
    - Source: github
+
+6. **[When Dawkins met Claude – Could this AI be conscious?](https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/)** `LLM`, `Core` (⭐ 158)
+   - By pentestercrab | 28 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
