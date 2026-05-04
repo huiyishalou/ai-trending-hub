@@ -14,31 +14,27 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-03
+### 2026-05-04
 
-1. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 4119)
+1. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 6077)
    - TradingAgents: Multi-Agents LLM Financial Trading Framework
    - Source: github
 
-2. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 2395)
-   - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+2. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 3369)
+   - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
    - Source: github
 
-3. **[Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)** `LLM` (⭐ 702)
-   - By bazlightyear | 270 points
+3. **[DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)** `LLM`, `RL` (⭐ 1038)
+   - By alattaran | 470 points
    - Source: hackernews
 
-4. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 653)
+4. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** `LLM`, `RL`, `Core` (⭐ 710)
+   - Coding agent for DeepSeek models that runs in your terminal
+   - Source: github
+
+5. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 610)
    - Claude Agent SDK with a web browsing tool
    - Source: github
-
-5. **[ShareX/ShareX](https://github.com/ShareX/ShareX)** `Vision`, `NLP`, `RL` (⭐ 316)
-   - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
-   - Source: github
-
-6. **[When Dawkins met Claude – Could this AI be conscious?](https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/)** `LLM`, `Core` (⭐ 158)
-   - By pentestercrab | 28 points
-   - Source: hackernews
 
 
 <!-- TRENDING_END -->
