@@ -14,27 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-04
+### 2026-05-05
 
-1. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 6077)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
-   - Source: github
-
-2. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 3369)
+1. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 4733)
    - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
    - Source: github
 
-3. **[DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)** `LLM`, `RL` (⭐ 1038)
-   - By alattaran | 470 points
-   - Source: hackernews
+2. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 4042)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+   - Source: github
 
-4. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** `LLM`, `RL`, `Core` (⭐ 710)
+3. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** `LLM`, `RL`, `Core` (⭐ 2386)
    - Coding agent for DeepSeek models that runs in your terminal
    - Source: github
 
-5. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 610)
+4. **[virattt/dexter](https://github.com/virattt/dexter)** `RL`, `Robotics`, `Research` (⭐ 769)
+   - An autonomous agent for deep financial research
+   - Source: github
+
+5. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 606)
    - Claude Agent SDK with a web browsing tool
    - Source: github
+
+6. **[Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)** `LLM`, `Core` (⭐ 549)
+   - By kristianpaul | 245 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
