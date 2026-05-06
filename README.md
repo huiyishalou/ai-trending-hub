@@ -14,31 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-05
+### 2026-05-06
 
-1. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 4733)
-   - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-   - Source: github
-
-2. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 4042)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
-   - Source: github
-
-3. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** `LLM`, `RL`, `Core` (⭐ 2386)
+1. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** `LLM`, `RL`, `Core` (⭐ 4474)
    - Coding agent for DeepSeek models that runs in your terminal
    - Source: github
 
-4. **[virattt/dexter](https://github.com/virattt/dexter)** `RL`, `Robotics`, `Research` (⭐ 769)
+2. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 4435)
+   - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+   - Source: github
+
+3. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 4372)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   - Source: github
+
+4. **[virattt/dexter](https://github.com/virattt/dexter)** `RL`, `Robotics`, `Research` (⭐ 1219)
    - An autonomous agent for deep financial research
    - Source: github
 
-5. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 606)
+5. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 590)
    - Claude Agent SDK with a web browsing tool
    - Source: github
 
-6. **[Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)** `LLM`, `Core` (⭐ 549)
-   - By kristianpaul | 245 points
+6. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 587)
+   - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
+   - Source: github
+
+7. **[Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)** `RL`, `Core`, `Tools` (⭐ 434)
+   - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
+   - Source: github
+
+8. **[Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)** `RL`, `Core` (⭐ 365)
+   - By debo_ | 156 points
    - Source: hackernews
+
+9. **[GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752)** `RL`, `Core` (⭐ 352)
+   - By gmays | 149 points
+   - Source: hackernews
+
+10. **[PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)** `RL`, `Core` (⭐ 160)
+   - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
+   - Source: github
 
 
 <!-- TRENDING_END -->
