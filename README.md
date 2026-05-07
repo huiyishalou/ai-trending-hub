@@ -14,47 +14,55 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-06
+### 2026-05-07
 
-1. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** `LLM`, `RL`, `Core` (⭐ 4474)
+1. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** `LLM`, `RL`, `Core` (⭐ 11208)
    - Coding agent for DeepSeek models that runs in your terminal
    - Source: github
 
-2. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 4435)
+2. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 4003)
    - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
    - Source: github
 
-3. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** `LLM` (⭐ 4372)
-   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+3. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1497)
+   - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-4. **[virattt/dexter](https://github.com/virattt/dexter)** `RL`, `Robotics`, `Research` (⭐ 1219)
+4. **[virattt/dexter](https://github.com/virattt/dexter)** `RL`, `Robotics`, `Research` (⭐ 1232)
    - An autonomous agent for deep financial research
    - Source: github
 
-5. **[browserbase/skills](https://github.com/browserbase/skills)** `LLM`, `RL` (⭐ 590)
-   - Claude Agent SDK with a web browsing tool
+5. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `RL`, `Research`, `Tools` (⭐ 634)
+   - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
    - Source: github
 
-6. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 587)
-   - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
-   - Source: github
-
-7. **[Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)** `RL`, `Core`, `Tools` (⭐ 434)
-   - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
-   - Source: github
-
-8. **[Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)** `RL`, `Core` (⭐ 365)
-   - By debo_ | 156 points
-   - Source: hackernews
-
-9. **[GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752)** `RL`, `Core` (⭐ 352)
-   - By gmays | 149 points
-   - Source: hackernews
-
-10. **[PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)** `RL`, `Core` (⭐ 160)
+6. **[PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)** `RL`, `Core` (⭐ 449)
    - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
    - Source: github
+
+7. **[cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)** `LLM`, `Core` (⭐ 437)
+   - A list of free LLM inference resources accessible via API.
+   - Source: github
+
+8. **[Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)** `Vision`, `Core` (⭐ 343)
+   - By benanne | 137 points
+   - Source: hackernews
+
+9. **[Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)** `LLM`, `Core` (⭐ 223)
+   - By segmenta | 44 points
+   - Source: hackernews
+
+10. **[ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)** `NLP`, `Core` (⭐ 188)
+   - By jonbaer | 51 points
+   - Source: hackernews
+
+11. **[BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** `RL`, `Core` (⭐ 124)
+   - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
+   - Source: github
+
+12. **[ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math](https://firethering.com/zaya1-8b-open-source-math-coding-model/)** `LLM`, `Core` (⭐ 124)
+   - By steveharing1 | 9 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
