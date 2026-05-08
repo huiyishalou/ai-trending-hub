@@ -14,54 +14,54 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-07
+### 2026-05-08
 
-1. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** `LLM`, `RL`, `Core` (⭐ 11208)
+1. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** `LLM`, `RL`, `Core` (⭐ 10531)
    - Coding agent for DeepSeek models that runs in your terminal
    - Source: github
 
-2. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 4003)
-   - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-   - Source: github
-
-3. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1497)
+2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 5569)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-4. **[virattt/dexter](https://github.com/virattt/dexter)** `RL`, `Robotics`, `Research` (⭐ 1232)
-   - An autonomous agent for deep financial research
+3. **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** `RL`, `Core`, `Tools` (⭐ 1757)
+   - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
    - Source: github
 
-5. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `RL`, `Research`, `Tools` (⭐ 634)
-   - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+4. **[Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)** `RL`, `Robotics`, `Tools` (⭐ 955)
+   - By bsuh | 464 points
+   - Source: hackernews
+
+5. **[DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4)** `LLM`, `Core` (⭐ 806)
+   - By tamnd | 388 points
+   - Source: hackernews
+
+6. **[aaif-goose/goose](https://github.com/aaif-goose/goose)** `LLM`, `RL`, `Core` (⭐ 768)
+   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
    - Source: github
 
-6. **[PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)** `RL`, `Core` (⭐ 449)
+7. **[Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)** `LLM`, `NLP` (⭐ 687)
+   - By instagraham | 275 points
+   - Source: hackernews
+
+8. **[AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)** `LLM`, `RL` (⭐ 656)
+   - By berlianta | 291 points
+   - Source: hackernews
+
+9. **[PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)** `RL`, `Core` (⭐ 471)
    - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
    - Source: github
 
-7. **[cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)** `LLM`, `Core` (⭐ 437)
-   - A list of free LLM inference resources accessible via API.
+10. **[decolua/9router](https://github.com/decolua/9router)** `LLM`, `Core` (⭐ 349)
+   - 🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
    - Source: github
 
-8. **[Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)** `Vision`, `Core` (⭐ 343)
-   - By benanne | 137 points
+11. **[A polynomial autoencoder beats PCA on transformer embeddings](https://ivanpleshkov.dev/blog/polynomial-autoencoder/)** `NLP`, `Tools` (⭐ 147)
+   - By timvisee | 35 points
    - Source: hackernews
 
-9. **[Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)** `LLM`, `Core` (⭐ 223)
-   - By segmenta | 44 points
-   - Source: hackernews
-
-10. **[ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)** `NLP`, `Core` (⭐ 188)
-   - By jonbaer | 51 points
-   - Source: hackernews
-
-11. **[BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** `RL`, `Core` (⭐ 124)
-   - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
-   - Source: github
-
-12. **[ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math](https://firethering.com/zaya1-8b-open-source-math-coding-model/)** `LLM`, `Core` (⭐ 124)
-   - By steveharing1 | 9 points
+12. **[The surprisingly complex journey to text-selectable client-side generated PDFs](https://sdocs.dev/blogs/journey-to-pdf-generation)** `NLP`, `Core` (⭐ 82)
+   - By FailMore | 7 points
    - Source: hackernews
 
 
