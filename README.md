@@ -14,54 +14,38 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-08
+### 2026-05-09
 
-1. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** `LLM`, `RL`, `Core` (⭐ 10531)
+1. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** `LLM`, `RL`, `Core` (⭐ 6809)
    - Coding agent for DeepSeek models that runs in your terminal
    - Source: github
 
-2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 5569)
+2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 3464)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-3. **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** `RL`, `Core`, `Tools` (⭐ 1757)
-   - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+3. **[decolua/9router](https://github.com/decolua/9router)** `LLM`, `Core` (⭐ 1975)
+   - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
    - Source: github
 
-4. **[Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)** `RL`, `Robotics`, `Tools` (⭐ 955)
-   - By bsuh | 464 points
+4. **[A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)** `LLM` (⭐ 646)
+   - By _alternator_ | 279 points
    - Source: hackernews
 
-5. **[DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4)** `LLM`, `Core` (⭐ 806)
-   - By tamnd | 388 points
-   - Source: hackernews
-
-6. **[aaif-goose/goose](https://github.com/aaif-goose/goose)** `LLM`, `RL`, `Core` (⭐ 768)
-   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+5. **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** `RL`, `Core` (⭐ 412)
+   - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
    - Source: github
 
-7. **[Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)** `LLM`, `NLP` (⭐ 687)
-   - By instagraham | 275 points
+6. **[Teaching Claude Why](https://www.anthropic.com/research/teaching-claude-why)** `LLM`, `NLP` (⭐ 379)
+   - By pretext | 162 points
    - Source: hackernews
 
-8. **[AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)** `LLM`, `RL` (⭐ 656)
-   - By berlianta | 291 points
+7. **[Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)** `LLM`, `NLP` (⭐ 314)
+   - By pretext | 126 points
    - Source: hackernews
 
-9. **[PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)** `RL`, `Core` (⭐ 471)
-   - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
-   - Source: github
-
-10. **[decolua/9router](https://github.com/decolua/9router)** `LLM`, `Core` (⭐ 349)
-   - 🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-   - Source: github
-
-11. **[A polynomial autoencoder beats PCA on transformer embeddings](https://ivanpleshkov.dev/blog/polynomial-autoencoder/)** `NLP`, `Tools` (⭐ 147)
-   - By timvisee | 35 points
-   - Source: hackernews
-
-12. **[The surprisingly complex journey to text-selectable client-side generated PDFs](https://sdocs.dev/blogs/journey-to-pdf-generation)** `NLP`, `Core` (⭐ 82)
-   - By FailMore | 7 points
+8. **[Can LLMs model real-world systems in TLA+?](https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/)** `LLM`, `RL`, `Core` (⭐ 300)
+   - By mad | 80 points
    - Source: hackernews
 
 
