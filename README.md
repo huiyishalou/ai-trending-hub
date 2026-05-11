@@ -14,39 +14,43 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-10
+### 2026-05-11
 
-1. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 5473)
-   - Production-grade engineering skills for AI coding agents.
+1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 2777)
+   - The agent that grows with you
    - Source: github
 
-2. **[decolua/9router](https://github.com/decolua/9router)** `LLM`, `Core` (⭐ 1937)
+2. **[decolua/9router](https://github.com/decolua/9router)** `LLM`, `Core` (⭐ 1526)
    - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
    - Source: github
 
-3. **[A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)** `LLM` (⭐ 1280)
-   - By _alternator_ | 631 points
-   - Source: hackernews
-
-4. **[EU Parliamentary Research Service calls VPNs "a loophole that needs closing"](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/)** `RL`, `Research` (⭐ 1067)
-   - By muse900 | 546 points
-   - Source: hackernews
-
-5. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** `RL`, `Research`, `Core` (⭐ 1037)
+3. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** `RL`, `Research`, `Core` (⭐ 1257)
    - #1 Persistent memory for AI coding agents based on real-world benchmarks
    - Source: github
 
-6. **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** `RL`, `Core` (⭐ 1024)
+4. **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** `RL`, `Core` (⭐ 1234)
    - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
    - Source: github
 
-7. **[Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)** `LLM`, `NLP` (⭐ 915)
-   - By pretext | 460 points
+5. **[The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)** `Vision`, `Core` (⭐ 449)
+   - By susam | 196 points
    - Source: hackernews
 
-8. **[The hypocrisy of cyberlibertarianism](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/)** `Vision`, `RL` (⭐ 704)
-   - By ColinWright | 331 points
+6. **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)** `RL`, `Core` (⭐ 419)
+   - By cratermoon | 186 points
    - Source: hackernews
+
+7. **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** `LLM`, `Framework` (⭐ 374)
+   - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+   - Source: github
+
+8. **[Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)** `LLM`, `RL` (⭐ 194)
+   - By adamthegoalie | 41 points
+   - Source: hackernews
+
+9. **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** `Vision` (⭐ 127)
+   - Stable Diffusion web UI
+   - Source: github
 
 
 <!-- TRENDING_END -->
