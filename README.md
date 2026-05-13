@@ -14,39 +14,35 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-12
+### 2026-05-13
 
-1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 3801)
-   - The agent that grows with you
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 6988)
+   - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-2. **[decolua/9router](https://github.com/decolua/9router)** `LLM`, `Core` (⭐ 1775)
-   - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-   - Source: github
-
-3. **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** `RL`, `Core` (⭐ 1751)
-   - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-   - Source: github
-
-4. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** `RL`, `Research`, `Core` (⭐ 852)
+2. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** `RL`, `Research`, `Core` (⭐ 1964)
    - #1 Persistent memory for AI coding agents based on real-world benchmarks
    - Source: github
 
-5. **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** `LLM`, `Framework` (⭐ 727)
+3. **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** `LLM`, `Framework` (⭐ 1510)
    - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    - Source: github
 
-6. **[Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html)** `LLM`, `Core` (⭐ 580)
-   - By zdw | 242 points
+4. **[Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)** `RL`, `Core` (⭐ 1110)
+   - By nilirl | 590 points
    - Source: hackernews
 
-7. **[Show HN: TikTok but for scientific papers](https://andreaturchet.github.io/website/index.html)** `RL`, `Research` (⭐ 280)
-   - By ciwrl | 129 points
+5. **[Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)** `LLM`, `Core` (⭐ 958)
+   - By HenryNdubuaku | 472 points
    - Source: hackernews
 
-8. **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** `Vision` (⭐ 145)
-   - Stable Diffusion web UI
+6. **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** `RL`, `Core` (⭐ 460)
+   - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
    - Source: github
+
+7. **[Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)** `RL`, `Core` (⭐ 223)
+   - By sai18 | 77 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
