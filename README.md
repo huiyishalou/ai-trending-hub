@@ -14,35 +14,39 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-13
+### 2026-05-14
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 6988)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 6133)
    - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-2. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** `RL`, `Research`, `Core` (⭐ 1964)
+2. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** `RL`, `Research`, `Core` (⭐ 2560)
    - #1 Persistent memory for AI coding agents based on real-world benchmarks
    - Source: github
 
-3. **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** `LLM`, `Framework` (⭐ 1510)
+3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2546)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+4. **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** `LLM`, `Framework` (⭐ 1598)
    - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    - Source: github
 
-4. **[Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)** `RL`, `Core` (⭐ 1110)
-   - By nilirl | 590 points
+5. **[Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)** `LLM`, `Core` (⭐ 1325)
+   - By HenryNdubuaku | 676 points
    - Source: hackernews
 
-5. **[Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)** `LLM`, `Core` (⭐ 958)
-   - By HenryNdubuaku | 472 points
-   - Source: hackernews
-
-6. **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** `RL`, `Core` (⭐ 460)
-   - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
+6. **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** `RL`, `Core` (⭐ 831)
+   - Agentic AI Infrastructure for magnifying HUMAN capabilities.
    - Source: github
 
-7. **[Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)** `RL`, `Core` (⭐ 223)
-   - By sai18 | 77 points
-   - Source: hackernews
+7. **[trycua/cua](https://github.com/trycua/cua)** `RL`, `Robotics`, `Research`, `Core` (⭐ 483)
+   - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+   - Source: github
+
+8. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** `RL`, `Research`, `Core` (⭐ 271)
+   - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+   - Source: github
 
 
 <!-- TRENDING_END -->
