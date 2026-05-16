@@ -14,50 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-15
+### 2026-05-16
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 5404)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 5665)
    - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-2. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** `RL`, `Research`, `Core` (⭐ 3460)
-   - #1 Persistent memory for AI coding agents based on real-world benchmarks
-   - Source: github
-
-3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 3228)
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2990)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-4. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** `RL`, `Research`, `Core` (⭐ 1270)
+3. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** `RL`, `Research`, `Core` (⭐ 1256)
    - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
    - Source: github
 
-5. **[New arXiv policy: 1-year ban for hallucinated references](https://twitter.com/tdietterich/status/2055000956144935055)** `RL`, `Research` (⭐ 997)
-   - By gjuggler | 507 points
-   - Source: hackernews
+4. **[joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)** `LLM`, `RL` (⭐ 818)
+   - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
+   - Source: github
 
-6. **[Codex is now in the ChatGPT mobile app](https://openai.com/index/work-with-codex-from-anywhere/)** `LLM` (⭐ 754)
-   - By mikeevans | 339 points
-   - Source: hackernews
-
-7. **[RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude](https://relax.ai/docs)** `LLM`, `Core` (⭐ 292)
-   - By benjamintnorris | 42 points
-   - Source: hackernews
-
-8. **[LLM Policy for Rust Compiler](https://github.com/rust-lang/rust-forge/pull/1040)** `LLM`, `RL` (⭐ 271)
-   - By liyanage | 84 points
-   - Source: hackernews
-
-9. **[NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization)** `Vision`, `NLP`, `RL`, `Core` (⭐ 235)
+5. **[NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization)** `Vision`, `NLP`, `RL`, `Core` (⭐ 677)
    - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
    - Source: github
 
-10. **[Show HN: GlycemicGPT – Open-source AI-powered diabetes management](https://github.com/GlycemicGPT/GlycemicGPT)** `LLM`, `Core` (⭐ 158)
-   - By jlengelbrecht | 28 points
-   - Source: hackernews
-
-11. **[Show HN: Find the best local LLM for your hardware, ranked by benchmarks](https://github.com/Andyyyy64/whichllm)** `LLM`, `Research` (⭐ 119)
-   - By andyyyy64 | 6 points
+6. **[Gaining control of every projector and camera on campus](https://www.edna.land/blogs/posts/scanning/)** `Robotics`, `Core` (⭐ 127)
+   - By ednaordinary | 24 points
    - Source: hackernews
 
 
