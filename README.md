@@ -14,30 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-16
+### 2026-05-17
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 5665)
-   - Skills for Real Engineers. Straight from my .claude directory.
-   - Source: github
-
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2990)
+1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2373)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-3. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** `RL`, `Research`, `Core` (⭐ 1256)
+2. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** `RL`, `Research`, `Core` (⭐ 1304)
    - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
    - Source: github
 
-4. **[joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)** `LLM`, `RL` (⭐ 818)
-   - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
+3. **[SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/)** `RL`, `Core` (⭐ 694)
+   - By mjgil | 339 points
+   - Source: hackernews
+
+4. **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** `Vision`, `Core` (⭐ 646)
+   - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
    - Source: github
 
-5. **[NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization)** `Vision`, `NLP`, `RL`, `Core` (⭐ 677)
-   - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
-   - Source: github
+5. **[OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)** `LLM`, `Core` (⭐ 518)
+   - By bookofjoe | 188 points
+   - Source: hackernews
 
-6. **[Gaining control of every projector and camera on campus](https://www.edna.land/blogs/posts/scanning/)** `Robotics`, `Core` (⭐ 127)
-   - By ednaordinary | 24 points
+6. **[δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)** `NLP`, `Core` (⭐ 481)
+   - By 44za12 | 214 points
    - Source: hackernews
 
 
