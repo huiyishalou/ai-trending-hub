@@ -14,30 +14,46 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-17
+### 2026-05-18
 
-1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2373)
-   - An agentic skills framework & software development methodology that works.
+1. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 2398)
+   - Academic Research Skills for Claude Code: research → write → review → revise → finalize
    - Source: github
 
-2. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** `RL`, `Research`, `Core` (⭐ 1304)
+2. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** `RL`, `Research`, `Core` (⭐ 1465)
    - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
    - Source: github
 
-3. **[SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/)** `RL`, `Core` (⭐ 694)
-   - By mjgil | 339 points
-   - Source: hackernews
-
-4. **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** `Vision`, `Core` (⭐ 646)
-   - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+3. **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** `RL`, `Core` (⭐ 957)
+   - 12 Lessons to Get Started Building AI Agents
    - Source: github
 
-5. **[OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)** `LLM`, `Core` (⭐ 518)
-   - By bookofjoe | 188 points
-   - Source: hackernews
+4. **[NVlabs/Sana](https://github.com/NVlabs/Sana)** `Vision` (⭐ 880)
+   - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+   - Source: github
 
-6. **[δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)** `NLP`, `Core` (⭐ 481)
-   - By 44za12 | 214 points
+5. **[humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** `LLM`, `RL` (⭐ 712)
+   - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+   - Source: github
+
+6. **[BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** `RL`, `Core` (⭐ 647)
+   - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
+   - Source: github
+
+7. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 576)
+   - LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+   - Source: github
+
+8. **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** `LLM`, `RL`, `Core` (⭐ 498)
+   - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+   - Source: github
+
+9. **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** `LLM`, `Core` (⭐ 421)
+   - LLM inference in C/C++
+   - Source: github
+
+10. **[WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)** `LLM`, `Core` (⭐ 328)
+   - By HellMood | 152 points
    - Source: hackernews
 
 
