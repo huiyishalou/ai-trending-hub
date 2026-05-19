@@ -14,46 +14,46 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-18
+### 2026-05-19
 
-1. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 2398)
+1. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 3697)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   - Source: github
+
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2940)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+3. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 2644)
    - Academic Research Skills for Claude Code: research → write → review → revise → finalize
    - Source: github
 
-2. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** `RL`, `Research`, `Core` (⭐ 1465)
-   - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+4. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** `RL`, `Research`, `Core` (⭐ 2317)
+   - #1 Persistent memory for AI coding agents based on real-world benchmarks
    - Source: github
 
-3. **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** `RL`, `Core` (⭐ 957)
+5. **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** `RL`, `Core` (⭐ 1906)
    - 12 Lessons to Get Started Building AI Agents
    - Source: github
 
-4. **[NVlabs/Sana](https://github.com/NVlabs/Sana)** `Vision` (⭐ 880)
-   - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+6. **[rtk-ai/rtk](https://github.com/rtk-ai/rtk)** `LLM`, `Core` (⭐ 1255)
+   - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
    - Source: github
 
-5. **[humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** `LLM`, `RL` (⭐ 712)
+7. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** `LLM`, `RL` (⭐ 1061)
+   - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+   - Source: github
+
+8. **[humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** `LLM`, `RL` (⭐ 784)
    - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
    - Source: github
 
-6. **[BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** `RL`, `Core` (⭐ 647)
-   - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
-   - Source: github
+9. **[AI eats the world (Spring 26) [pdf]](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)** `RL`, `Core` (⭐ 521)
+   - By topherjaynes | 243 points
+   - Source: hackernews
 
-7. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 576)
-   - LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
-   - Source: github
-
-8. **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** `LLM`, `RL`, `Core` (⭐ 498)
-   - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
-   - Source: github
-
-9. **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** `LLM`, `Core` (⭐ 421)
-   - LLM inference in C/C++
-   - Source: github
-
-10. **[WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)** `LLM`, `Core` (⭐ 328)
-   - By HellMood | 152 points
+10. **[Agora-1: The Multi-Agent World Model](https://odyssey.ml/introducing-agora-1)** `RL`, `Core` (⭐ 335)
+   - By olivercameron | 113 points
    - Source: hackernews
 
 
