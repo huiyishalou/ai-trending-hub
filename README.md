@@ -14,47 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-19
+### 2026-05-20
 
-1. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 3697)
-   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-   - Source: github
-
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2940)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-3. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 2644)
+1. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 5749)
    - Academic Research Skills for Claude Code: research → write → review → revise → finalize
    - Source: github
 
-4. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** `RL`, `Research`, `Core` (⭐ 2317)
+2. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 3591)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   - Source: github
+
+3. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** `RL`, `Research`, `Core` (⭐ 2974)
    - #1 Persistent memory for AI coding agents based on real-world benchmarks
    - Source: github
 
-5. **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** `RL`, `Core` (⭐ 1906)
-   - 12 Lessons to Get Started Building AI Agents
+4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2945)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-6. **[rtk-ai/rtk](https://github.com/rtk-ai/rtk)** `LLM`, `Core` (⭐ 1255)
-   - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+5. **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** `LLM`, `Core` (⭐ 1087)
+   - LLM inference in C/C++
    - Source: github
 
-7. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** `LLM`, `RL` (⭐ 1061)
-   - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-   - Source: github
-
-8. **[humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** `LLM`, `RL` (⭐ 784)
-   - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-   - Source: github
-
-9. **[AI eats the world (Spring 26) [pdf]](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)** `RL`, `Core` (⭐ 521)
-   - By topherjaynes | 243 points
+6. **[Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge)** `RL`, `Core` (⭐ 1031)
+   - By zambelli | 506 points
    - Source: hackernews
 
-10. **[Agora-1: The Multi-Agent World Model](https://odyssey.ml/introducing-agora-1)** `RL`, `Core` (⭐ 335)
-   - By olivercameron | 113 points
+7. **[Remove-AI-Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)** `Vision`, `Framework`, `Core` (⭐ 670)
+   - By janalsncm | 292 points
    - Source: hackernews
+
+8. **[OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)** `Vision`, `Core` (⭐ 613)
+   - By smooke | 287 points
+   - Source: hackernews
+
+9. **[Mistral AI acquires Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)** `LLM`, `Core` (⭐ 590)
+   - By doener | 268 points
+   - Source: hackernews
+
+10. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 448)
+   - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+   - Source: github
 
 
 <!-- TRENDING_END -->
