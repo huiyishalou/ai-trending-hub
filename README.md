@@ -14,46 +14,46 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-20
+### 2026-05-21
 
-1. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 5749)
-   - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-   - Source: github
-
-2. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 3591)
+1. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 4894)
    - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
    - Source: github
 
-3. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** `RL`, `Research`, `Core` (⭐ 2974)
-   - #1 Persistent memory for AI coding agents based on real-world benchmarks
-   - Source: github
-
-4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2945)
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 3161)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-5. **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** `LLM`, `Core` (⭐ 1087)
-   - LLM inference in C/C++
+3. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 3055)
+   - Academic Research Skills for Claude Code: research → write → review → revise → finalize
    - Source: github
 
-6. **[Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge)** `RL`, `Core` (⭐ 1031)
-   - By zambelli | 506 points
+4. **[multica-ai/multica](https://github.com/multica-ai/multica)** `RL`, `Core` (⭐ 968)
+   - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+   - Source: github
+
+5. **[antoinezambelli/forge](https://github.com/antoinezambelli/forge)** `LLM`, `Framework`, `RL` (⭐ 850)
+   - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
+   - Source: github
+
+6. **[Google’s AI is being manipulated. The search giant is quietly fighting back](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)** `RL`, `Core` (⭐ 624)
+   - By tigerlily | 320 points
    - Source: hackernews
 
-7. **[Remove-AI-Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)** `Vision`, `Framework`, `Core` (⭐ 670)
-   - By janalsncm | 292 points
-   - Source: hackernews
-
-8. **[OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)** `Vision`, `Core` (⭐ 613)
-   - By smooke | 287 points
-   - Source: hackernews
-
-9. **[Mistral AI acquires Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)** `LLM`, `Core` (⭐ 590)
-   - By doener | 268 points
-   - Source: hackernews
-
-10. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 448)
+7. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 507)
    - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+   - Source: github
+
+8. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 392)
+   - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+   - Source: github
+
+9. **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** `LLM`, `RL`, `Core` (⭐ 367)
+   - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+   - Source: github
+
+10. **[dotnet/skills](https://github.com/dotnet/skills)** `RL`, `Core` (⭐ 194)
+   - Repository for skills to assist AI coding agents with .NET and C#
    - Source: github
 
 
