@@ -14,45 +14,29 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-21
+### 2026-05-22
 
-1. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 4894)
-   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-   - Source: github
-
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 3161)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-3. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 3055)
-   - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-   - Source: github
-
-4. **[multica-ai/multica](https://github.com/multica-ai/multica)** `RL`, `Core` (⭐ 968)
-   - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-   - Source: github
-
-5. **[antoinezambelli/forge](https://github.com/antoinezambelli/forge)** `LLM`, `Framework`, `RL` (⭐ 850)
-   - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
-   - Source: github
-
-6. **[Google’s AI is being manipulated. The search giant is quietly fighting back](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)** `RL`, `Core` (⭐ 624)
-   - By tigerlily | 320 points
+1. **[Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)** `Robotics`, `Core` (⭐ 1794)
+   - By speleo | 950 points
    - Source: hackernews
 
-7. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 507)
-   - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-   - Source: github
-
-8. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 392)
+2. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 1253)
    - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
    - Source: github
 
-9. **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** `LLM`, `RL`, `Core` (⭐ 367)
-   - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+3. **[Throwing AI-generated walls of text into conversations](https://noslopgrenade.com/)** `NLP`, `Core` (⭐ 1223)
+   - By napolux | 626 points
+   - Source: hackernews
+
+4. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 921)
+   - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
    - Source: github
 
-10. **[dotnet/skills](https://github.com/dotnet/skills)** `RL`, `Core` (⭐ 194)
+5. **[Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)** `LLM`, `Research`, `Tools` (⭐ 334)
+   - By atomicthumbs | 112 points
+   - Source: hackernews
+
+6. **[dotnet/skills](https://github.com/dotnet/skills)** `RL`, `Core` (⭐ 253)
    - Repository for skills to assist AI coding agents with .NET and C#
    - Source: github
 
