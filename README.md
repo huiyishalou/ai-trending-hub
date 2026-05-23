@@ -14,31 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-22
+### 2026-05-23
 
-1. **[Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)** `Robotics`, `Core` (⭐ 1794)
-   - By speleo | 950 points
-   - Source: hackernews
+1. **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** `LLM`, `RL` (⭐ 6661)
+   - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+   - Source: github
 
-2. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 1253)
+2. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 2561)
    - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
    - Source: github
 
-3. **[Throwing AI-generated walls of text into conversations](https://noslopgrenade.com/)** `NLP`, `Core` (⭐ 1223)
-   - By napolux | 626 points
-   - Source: hackernews
-
-4. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 921)
+3. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 844)
    - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
    - Source: github
 
-5. **[Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)** `LLM`, `Research`, `Tools` (⭐ 334)
-   - By atomicthumbs | 112 points
+4. **[Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)** `LLM`, `Research` (⭐ 803)
+   - By jetter | 386 points
    - Source: hackernews
 
-6. **[dotnet/skills](https://github.com/dotnet/skills)** `RL`, `Core` (⭐ 253)
+5. **[dotnet/skills](https://github.com/dotnet/skills)** `RL`, `Core` (⭐ 721)
    - Repository for skills to assist AI coding agents with .NET and C#
    - Source: github
+
+6. **[Microsoft starts canceling Claude Code licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad)** `LLM`, `RL` (⭐ 557)
+   - By robertkarl | 263 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
