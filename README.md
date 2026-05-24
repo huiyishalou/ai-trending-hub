@@ -14,31 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-23
+### 2026-05-24
 
-1. **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** `LLM`, `RL` (⭐ 6661)
+1. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 6385)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   - Source: github
+
+2. **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** `LLM`, `RL` (⭐ 4451)
    - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
    - Source: github
 
-2. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 2561)
+3. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 4192)
    - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
    - Source: github
 
-3. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 844)
-   - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+4. **[multica-ai/multica](https://github.com/multica-ai/multica)** `RL`, `Core` (⭐ 786)
+   - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
    - Source: github
 
-4. **[Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)** `LLM`, `Research` (⭐ 803)
-   - By jetter | 386 points
-   - Source: hackernews
+5. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 593)
+   - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+   - Source: github
 
-5. **[dotnet/skills](https://github.com/dotnet/skills)** `RL`, `Core` (⭐ 721)
+6. **[dotnet/skills](https://github.com/dotnet/skills)** `RL`, `Core` (⭐ 500)
    - Repository for skills to assist AI coding agents with .NET and C#
    - Source: github
-
-6. **[Microsoft starts canceling Claude Code licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad)** `LLM`, `RL` (⭐ 557)
-   - By robertkarl | 263 points
-   - Source: hackernews
 
 
 <!-- TRENDING_END -->
