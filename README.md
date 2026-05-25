@@ -14,30 +14,50 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-24
+### 2026-05-25
 
-1. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 6385)
-   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-   - Source: github
-
-2. **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** `LLM`, `RL` (⭐ 4451)
-   - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-   - Source: github
-
-3. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 4192)
+1. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 7252)
    - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
    - Source: github
 
-4. **[multica-ai/multica](https://github.com/multica-ai/multica)** `RL`, `Core` (⭐ 786)
-   - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+2. **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** `LLM`, `RL` (⭐ 5435)
+   - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
    - Source: github
 
-5. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 593)
+3. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 4664)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   - Source: github
+
+4. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 3742)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   - Source: github
+
+5. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 1761)
    - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
    - Source: github
 
-6. **[dotnet/skills](https://github.com/dotnet/skills)** `RL`, `Core` (⭐ 500)
-   - Repository for skills to assist AI coding agents with .NET and C#
+6. **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** `RL`, `Core` (⭐ 1301)
+   - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+   - Source: github
+
+7. **[DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)** `LLM`, `RL` (⭐ 1173)
+   - By Alifatisk | 585 points
+   - Source: hackernews
+
+8. **[Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)** `RL`, `Core` (⭐ 804)
+   - By intelkishan | 400 points
+   - Source: hackernews
+
+9. **[Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445)** `LLM`, `RL`, `Core`, `Tools` (⭐ 623)
+   - By wek | 246 points
+   - Source: hackernews
+
+10. **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `RL`, `Research` (⭐ 368)
+   - A community-supported supercharged document management system: scan, index and archive all your documents
+   - Source: github
+
+11. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 118)
+   - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
    - Source: github
 
 
