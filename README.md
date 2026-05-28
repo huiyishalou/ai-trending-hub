@@ -14,50 +14,42 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-25
+### 2026-05-28
 
-1. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 7252)
+1. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 8091)
    - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
    - Source: github
 
-2. **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** `LLM`, `RL` (⭐ 5435)
-   - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-   - Source: github
-
-3. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 4664)
-   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-   - Source: github
-
-4. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 3742)
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 3760)
    - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-5. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 1761)
-   - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+3. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `LLM`, `Core` (⭐ 3163)
+   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
    - Source: github
 
-6. **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** `RL`, `Core` (⭐ 1301)
-   - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2744)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-7. **[DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)** `LLM`, `RL` (⭐ 1173)
-   - By Alifatisk | 585 points
-   - Source: hackernews
-
-8. **[Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)** `RL`, `Core` (⭐ 804)
-   - By intelkishan | 400 points
-   - Source: hackernews
-
-9. **[Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445)** `LLM`, `RL`, `Core`, `Tools` (⭐ 623)
-   - By wek | 246 points
-   - Source: hackernews
-
-10. **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `RL`, `Research` (⭐ 368)
-   - A community-supported supercharged document management system: scan, index and archive all your documents
+5. **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `LLM`, `Core` (⭐ 432)
+   - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
    - Source: github
 
-11. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 118)
-   - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+6. **[Stress disrupts hippocampal integration of overlapping events, memory inference](https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08)** `RL`, `Core` (⭐ 368)
+   - By gmays | 131 points
+   - Source: hackernews
+
+7. **[Investigating how prompt politeness affects LLM accuracy (2025)](https://arxiv.org/abs/2510.04950)** `LLM`, `Tools` (⭐ 244)
+   - By KnuthIsGod | 82 points
+   - Source: hackernews
+
+8. **[revfactory/harness](https://github.com/revfactory/harness)** `RL`, `Core` (⭐ 143)
+   - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+   - Source: github
+
+9. **[OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)** `RL`, `Core` (⭐ 125)
+   - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
    - Source: github
 
 
