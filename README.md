@@ -14,43 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-28
+### 2026-05-29
 
-1. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** `LLM` (⭐ 8091)
-   - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-   - Source: github
-
-2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 3760)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-3. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `LLM`, `Core` (⭐ 3163)
+1. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `LLM`, `Core` (⭐ 8483)
    - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
    - Source: github
 
-4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2744)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-5. **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `LLM`, `Core` (⭐ 432)
-   - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-   - Source: github
-
-6. **[Stress disrupts hippocampal integration of overlapping events, memory inference](https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08)** `RL`, `Core` (⭐ 368)
-   - By gmays | 131 points
+2. **[Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)** `LLM`, `Core` (⭐ 2905)
+   - By craigmart | 1569 points
    - Source: hackernews
 
-7. **[Investigating how prompt politeness affects LLM accuracy (2025)](https://arxiv.org/abs/2510.04950)** `LLM`, `Tools` (⭐ 244)
-   - By KnuthIsGod | 82 points
+3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2541)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   - Source: github
+
+4. **[galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)** `RL`, `Research`, `Core` (⭐ 761)
+   - A platform for reproducible world model research and evaluation
+   - Source: github
+
+5. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 682)
+   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+   - Source: github
+
+6. **[Real-time LLM Inference on Standard GPUs: 3k tokens/s per request](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/)** `LLM`, `Core` (⭐ 158)
+   - By NicoConstant | 28 points
    - Source: hackernews
-
-8. **[revfactory/harness](https://github.com/revfactory/harness)** `RL`, `Core` (⭐ 143)
-   - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
-   - Source: github
-
-9. **[OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)** `RL`, `Core` (⭐ 125)
-   - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
-   - Source: github
 
 
 <!-- TRENDING_END -->
