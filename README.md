@@ -14,30 +14,42 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-29
+### 2026-05-30
 
-1. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `LLM`, `Core` (⭐ 8483)
+1. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `LLM`, `Core` (⭐ 6448)
    - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
    - Source: github
 
-2. **[Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)** `LLM`, `Core` (⭐ 2905)
-   - By craigmart | 1569 points
-   - Source: hackernews
-
-3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2541)
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2579)
    - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-4. **[galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)** `RL`, `Research`, `Core` (⭐ 761)
-   - A platform for reproducible world model research and evaluation
-   - Source: github
-
-5. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 682)
+3. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 819)
    - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
    - Source: github
 
-6. **[Real-time LLM Inference on Standard GPUs: 3k tokens/s per request](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/)** `LLM`, `Core` (⭐ 158)
-   - By NicoConstant | 28 points
+4. **[galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)** `RL`, `Research`, `Core` (⭐ 790)
+   - A platform for reproducible world model research and evaluation
+   - Source: github
+
+5. **[Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit)** `LLM`, `Core` (⭐ 787)
+   - By vnglst | 377 points
+   - Source: hackernews
+
+6. **[Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm)** `LLM`, `Core` (⭐ 376)
+   - By yu3zhou4 | 149 points
+   - Source: hackernews
+
+7. **[The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/)** `LLM`, `Core` (⭐ 344)
+   - By freediver | 131 points
+   - Source: hackernews
+
+8. **[Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)** `Robotics`, `Core` (⭐ 340)
+   - By evilsimon | 142 points
+   - Source: hackernews
+
+9. **[The Kaiser and a "Mediocre Man" Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)** `Vision`, `Core` (⭐ 110)
+   - By baud147258 | 8 points
    - Source: hackernews
 
 
