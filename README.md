@@ -14,38 +14,46 @@
 
 <!-- TRENDING_START -->
 
-### 2026-05-31
+### 2026-06-01
 
-1. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `LLM`, `Core` (⭐ 5009)
+1. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `LLM`, `Core` (⭐ 6012)
    - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
    - Source: github
 
-2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1682)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-3. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1174)
-   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-   - Source: github
-
-4. **[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)** `LLM`, `NLP`, `Core` (⭐ 721)
+2. **[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)** `LLM`, `NLP`, `Core` (⭐ 1680)
    - A straightforward method for training your LLM, from downloading data to generating text.
    - Source: github
 
-5. **[galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)** `RL`, `Research`, `Core` (⭐ 710)
-   - A platform for reproducible world model research and evaluation
+3. **[revfactory/harness](https://github.com/revfactory/harness)** `RL`, `Core` (⭐ 970)
+   - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
    - Source: github
 
-6. **[Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)** `NLP`, `Research` (⭐ 283)
-   - By sohkamyung | 104 points
+4. **[1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)** `Vision`, `Core` (⭐ 916)
+   - By modinfo | 422 points
    - Source: hackernews
 
-7. **[OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)** `RL`, `Core` (⭐ 142)
-   - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
+5. **[United Airlines 767 returns to Newark after Bluetooth name sparks alert](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)** `RL`, `Core` (⭐ 779)
+   - By Eridanus2 | 386 points
+   - Source: hackernews
+
+6. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 625)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
    - Source: github
 
-8. **[revfactory/harness](https://github.com/revfactory/harness)** `RL`, `Core` (⭐ 120)
-   - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+7. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 620)
+   - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+   - Source: github
+
+8. **[ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)** `LLM` (⭐ 616)
+   - By hackerBanana | 262 points
+   - Source: hackernews
+
+9. **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `NLP`, `Core` (⭐ 458)
+   - Fully automatic censorship removal for language models
+   - Source: github
+
+10. **[dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)** `RL`, `Core` (⭐ 239)
+   - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
    - Source: github
 
 
