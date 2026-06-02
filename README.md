@@ -14,45 +14,41 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-01
+### 2026-06-02
 
-1. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `LLM`, `Core` (⭐ 6012)
+1. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `LLM`, `Core` (⭐ 6102)
    - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
    - Source: github
 
-2. **[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)** `LLM`, `NLP`, `Core` (⭐ 1680)
+2. **[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)** `LLM`, `NLP`, `Core` (⭐ 1682)
    - A straightforward method for training your LLM, from downloading data to generating text.
    - Source: github
 
-3. **[revfactory/harness](https://github.com/revfactory/harness)** `RL`, `Core` (⭐ 970)
+3. **[CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)** `NLP`, `Core` (⭐ 980)
+   - By kristianpaul | 491 points
+   - Source: hackernews
+
+4. **[revfactory/harness](https://github.com/revfactory/harness)** `RL`, `Core` (⭐ 964)
    - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
    - Source: github
 
-4. **[1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)** `Vision`, `Core` (⭐ 916)
-   - By modinfo | 422 points
+5. **[AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)** `RL`, `Core` (⭐ 867)
+   - By prakashqwerty | 435 points
    - Source: hackernews
 
-5. **[United Airlines 767 returns to Newark after Bluetooth name sparks alert](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)** `RL`, `Core` (⭐ 779)
-   - By Eridanus2 | 386 points
-   - Source: hackernews
-
-6. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 625)
+6. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 652)
    - TradingAgents: Multi-Agents LLM Financial Trading Framework
    - Source: github
 
-7. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 620)
+7. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 624)
    - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
    - Source: github
 
-8. **[ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)** `LLM` (⭐ 616)
-   - By hackerBanana | 262 points
-   - Source: hackernews
-
-9. **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `NLP`, `Core` (⭐ 458)
+8. **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `NLP`, `Core` (⭐ 472)
    - Fully automatic censorship removal for language models
    - Source: github
 
-10. **[dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)** `RL`, `Core` (⭐ 239)
+9. **[dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)** `RL`, `Core` (⭐ 264)
    - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
    - Source: github
 
