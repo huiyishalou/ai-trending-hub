@@ -14,43 +14,35 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-02
+### 2026-06-03
 
-1. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `LLM`, `Core` (⭐ 6102)
-   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+1. **[chopratejas/headroom](https://github.com/chopratejas/headroom)** `LLM`, `Framework`, `Tools` (⭐ 6386)
+   - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
    - Source: github
 
-2. **[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)** `LLM`, `NLP`, `Core` (⭐ 1682)
-   - A straightforward method for training your LLM, from downloading data to generating text.
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 3913)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-3. **[CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)** `NLP`, `Core` (⭐ 980)
-   - By kristianpaul | 491 points
+3. **[jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)** `RL`, `Core`, `Tools` (⭐ 778)
+   - No description
+   - Source: github
+
+4. **[AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)** `RL`, `Research`, `Core` (⭐ 624)
+   - By berlianta | 300 points
    - Source: hackernews
 
-4. **[revfactory/harness](https://github.com/revfactory/harness)** `RL`, `Core` (⭐ 964)
-   - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
-   - Source: github
-
-5. **[AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)** `RL`, `Core` (⭐ 867)
-   - By prakashqwerty | 435 points
+5. **[How we index images for RAG](https://www.kapa.ai/blog/how-we-index-images-for-rag)** `Vision`, `Tools` (⭐ 377)
+   - By mooreds | 163 points
    - Source: hackernews
 
-6. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 652)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
-   - Source: github
+6. **[DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors](https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot)** `Robotics`, `Core` (⭐ 145)
+   - By sohkamyung | 34 points
+   - Source: hackernews
 
-7. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** `RL`, `Core` (⭐ 624)
-   - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-   - Source: github
-
-8. **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `NLP`, `Core` (⭐ 472)
-   - Fully automatic censorship removal for language models
-   - Source: github
-
-9. **[dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)** `RL`, `Core` (⭐ 264)
-   - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
-   - Source: github
+7. **[Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)](https://dl.acm.org/doi/pdf/10.1145/1995966.1996008)** `NLP`, `Tools` (⭐ 118)
+   - By aragonite | 29 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
