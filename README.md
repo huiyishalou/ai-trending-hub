@@ -14,35 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-03
+### 2026-06-04
 
-1. **[chopratejas/headroom](https://github.com/chopratejas/headroom)** `LLM`, `Framework`, `Tools` (⭐ 6386)
+1. **[chopratejas/headroom](https://github.com/chopratejas/headroom)** `LLM`, `Framework`, `Tools` (⭐ 6390)
    - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
    - Source: github
 
-2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 3913)
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 3902)
    - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-3. **[jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)** `RL`, `Core`, `Tools` (⭐ 778)
-   - No description
+3. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 3207)
+   - The agent that grows with you
    - Source: github
 
-4. **[AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)** `RL`, `Research`, `Core` (⭐ 624)
-   - By berlianta | 300 points
+4. **[The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)** `LLM`, `Core` (⭐ 362)
+   - By jbredeche | 141 points
    - Source: hackernews
 
-5. **[How we index images for RAG](https://www.kapa.ai/blog/how-we-index-images-for-rag)** `Vision`, `Tools` (⭐ 377)
-   - By mooreds | 163 points
+5. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 341)
+   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+   - Source: github
+
+6. **[NVIDIA/cosmos](https://github.com/NVIDIA/cosmos)** `RL`, `Robotics`, `Research`, `Core` (⭐ 311)
+   - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
+   - Source: github
+
+7. **[UK media fails to disclose defence sector links in nearly 60% of cases](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/)** `RL`, `Core` (⭐ 305)
+   - By XzetaU8 | 123 points
    - Source: hackernews
 
-6. **[DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors](https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot)** `Robotics`, `Core` (⭐ 145)
-   - By sohkamyung | 34 points
+8. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `LLM`, `Vision`, `RL`, `Core` (⭐ 303)
+   - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+   - Source: github
+
+9. **[Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites](https://uruky.com/?il=en)** `Vision`, `RL` (⭐ 239)
+   - By BrunoBernardino | 73 points
    - Source: hackernews
 
-7. **[Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)](https://dl.acm.org/doi/pdf/10.1145/1995966.1996008)** `NLP`, `Tools` (⭐ 118)
-   - By aragonite | 29 points
-   - Source: hackernews
+10. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 129)
+   - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+   - Source: github
 
 
 <!-- TRENDING_END -->
