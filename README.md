@@ -14,45 +14,49 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-04
+### 2026-06-05
 
-1. **[chopratejas/headroom](https://github.com/chopratejas/headroom)** `LLM`, `Framework`, `Tools` (⭐ 6390)
+1. **[chopratejas/headroom](https://github.com/chopratejas/headroom)** `LLM`, `Framework`, `Tools` (⭐ 5692)
    - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
    - Source: github
 
-2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 3902)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-3. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 3207)
+2. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 3527)
    - The agent that grows with you
    - Source: github
 
-4. **[The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)** `LLM`, `Core` (⭐ 362)
-   - By jbredeche | 141 points
+3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 3198)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   - Source: github
+
+4. **[Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)** `Framework`, `Core` (⭐ 881)
+   - By binyu | 443 points
    - Source: hackernews
 
-5. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 341)
+5. **[Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)** `Framework`, `Research` (⭐ 401)
+   - By Anon84 | 176 points
+   - Source: hackernews
+
+6. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 388)
    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
 
-6. **[NVIDIA/cosmos](https://github.com/NVIDIA/cosmos)** `RL`, `Robotics`, `Research`, `Core` (⭐ 311)
-   - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
-   - Source: github
-
-7. **[UK media fails to disclose defence sector links in nearly 60% of cases](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/)** `RL`, `Core` (⭐ 305)
-   - By XzetaU8 | 123 points
-   - Source: hackernews
-
-8. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `LLM`, `Vision`, `RL`, `Core` (⭐ 303)
+7. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `LLM`, `Vision`, `RL`, `Core` (⭐ 368)
    - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
    - Source: github
 
-9. **[Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites](https://uruky.com/?il=en)** `Vision`, `RL` (⭐ 239)
-   - By BrunoBernardino | 73 points
+8. **[NVIDIA/cosmos](https://github.com/NVIDIA/cosmos)** `RL`, `Robotics`, `Research`, `Core` (⭐ 302)
+   - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
+   - Source: github
+
+9. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 286)
+   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+   - Source: github
+
+10. **[Magenta RealTime 2: Open and Local Live Music Models](https://magenta.withgoogle.com/magenta-realtime-2)** `RL`, `Core` (⭐ 170)
+   - By selvan | 48 points
    - Source: hackernews
 
-10. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 129)
+11. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 152)
    - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
    - Source: github
 
