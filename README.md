@@ -14,42 +14,50 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-06
+### 2026-06-07
 
-1. **[chopratejas/headroom](https://github.com/chopratejas/headroom)** `LLM`, `Framework`, `Tools` (⭐ 4487)
-   - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-   - Source: github
-
-2. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 3405)
-   - The agent that grows with you
-   - Source: github
-
-3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2498)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-4. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `LLM`, `Vision`, `RL`, `Core` (⭐ 1459)
-   - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-   - Source: github
-
-5. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 1346)
-   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-   - Source: github
-
-6. **[NVIDIA/cosmos](https://github.com/NVIDIA/cosmos)** `RL`, `Robotics`, `Research`, `Core` (⭐ 925)
-   - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
-   - Source: github
-
-7. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 640)
-   - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-   - Source: github
-
-8. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 323)
+1. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1286)
    - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
    - Source: github
 
-9. **[withastro/flue](https://github.com/withastro/flue)** `Framework`, `RL` (⭐ 251)
-   - The sandbox agent framework.
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1284)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+3. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `LLM`, `Vision`, `RL`, `Core` (⭐ 893)
+   - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+   - Source: github
+
+4. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 820)
+   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+   - Source: github
+
+5. **[Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)** `RL`, `Tools` (⭐ 480)
+   - By pramodbiligiri | 200 points
+   - Source: hackernews
+
+6. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 374)
+   - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+   - Source: github
+
+7. **[Public Domain Image Archive](https://pdimagearchive.org/)** `Vision`, `Core` (⭐ 325)
+   - By davidbarker | 127 points
+   - Source: hackernews
+
+8. **[openai/whisper](https://github.com/openai/whisper)** `Vision`, `Core` (⭐ 321)
+   - Robust Speech Recognition via Large-Scale Weak Supervision
+   - Source: github
+
+9. **[Biohub releases a world model of protein biology](https://biohub.org/news/world-model-of-protein-biology/)** `RL`, `Core` (⭐ 232)
+   - By gmays | 82 points
+   - Source: hackernews
+
+10. **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** `RL`, `Core` (⭐ 174)
+   - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+   - Source: github
+
+11. **[microsoft/mxc](https://github.com/microsoft/mxc)** `RL`, `Core` (⭐ 136)
+   - Policy-driven, layered isolation and containment
    - Source: github
 
 
