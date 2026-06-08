@@ -14,51 +14,59 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-07
+### 2026-06-08
 
-1. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1286)
-   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-   - Source: github
-
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1284)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-3. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `LLM`, `Vision`, `RL`, `Core` (⭐ 893)
-   - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-   - Source: github
-
-4. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 820)
+1. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 6434)
    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
 
-5. **[Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)** `RL`, `Tools` (⭐ 480)
-   - By pramodbiligiri | 200 points
-   - Source: hackernews
+2. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1787)
+   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+   - Source: github
 
-6. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 374)
+3. **[aaif-goose/goose](https://github.com/aaif-goose/goose)** `LLM`, `RL`, `Core` (⭐ 1324)
+   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+   - Source: github
+
+4. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 1224)
    - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
    - Source: github
 
-7. **[Public Domain Image Archive](https://pdimagearchive.org/)** `Vision`, `Core` (⭐ 325)
-   - By davidbarker | 127 points
-   - Source: hackernews
-
-8. **[openai/whisper](https://github.com/openai/whisper)** `Vision`, `Core` (⭐ 321)
-   - Robust Speech Recognition via Large-Scale Weak Supervision
+5. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 1175)
+   - 所有小初高、大学PDF教材。
    - Source: github
 
-9. **[Biohub releases a world model of protein biology](https://biohub.org/news/world-model-of-protein-biology/)** `RL`, `Core` (⭐ 232)
-   - By gmays | 82 points
+6. **[Show HN: Lathe – Use LLMs to learn a new domain, not skip past it](https://github.com/devenjarvis/lathe)** `LLM`, `Core` (⭐ 715)
+   - By devenjarvis | 337 points
    - Source: hackernews
 
-10. **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** `RL`, `Core` (⭐ 174)
+7. **[DeepSeek V4 Pro beats GPT-5.5 Pro on precision](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision)** `LLM` (⭐ 704)
+   - By yogthos | 311 points
+   - Source: hackernews
+
+8. **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** `RL`, `Core` (⭐ 655)
    - Agentic AI Infrastructure for magnifying HUMAN capabilities.
    - Source: github
 
-11. **[microsoft/mxc](https://github.com/microsoft/mxc)** `RL`, `Core` (⭐ 136)
-   - Policy-driven, layered isolation and containment
+9. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** `LLM`, `Vision`, `RL` (⭐ 376)
+   - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
    - Source: github
+
+10. **[Playing with Vision Embeddings](https://prestonbjensen.com/posts/playing-with-vision-embeddings)** `Vision`, `NLP`, `Tools` (⭐ 295)
+   - By prestoj | 84 points
+   - Source: hackernews
+
+11. **[Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm)** `LLM`, `Research` (⭐ 266)
+   - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
+   - Source: github
+
+12. **[Tiny hackable CUDA language model implementation](https://github.com/markusheimerl/gpt)** `NLP`, `RL`, `Core` (⭐ 180)
+   - By markusheimerl | 40 points
+   - Source: hackernews
+
+13. **[Nvidia partners with LG robotics to build humanoid robots in South Korea](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/)** `Robotics` (⭐ 101)
+   - By spwa4 | 3 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
