@@ -14,59 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-08
+### 2026-06-09
 
 1. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 6434)
    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
 
-2. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1787)
-   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-   - Source: github
-
-3. **[aaif-goose/goose](https://github.com/aaif-goose/goose)** `LLM`, `RL`, `Core` (⭐ 1324)
+2. **[aaif-goose/goose](https://github.com/aaif-goose/goose)** `LLM`, `RL`, `Core` (⭐ 1324)
    - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
    - Source: github
 
-4. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 1224)
-   - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
-   - Source: github
+3. **[Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)** `LLM`, `Core` (⭐ 1246)
+   - By unclefuzzy | 612 points
+   - Source: hackernews
 
-5. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 1175)
+4. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 1174)
    - 所有小初高、大学PDF教材。
    - Source: github
 
-6. **[Show HN: Lathe – Use LLMs to learn a new domain, not skip past it](https://github.com/devenjarvis/lathe)** `LLM`, `Core` (⭐ 715)
-   - By devenjarvis | 337 points
-   - Source: hackernews
-
-7. **[DeepSeek V4 Pro beats GPT-5.5 Pro on precision](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision)** `LLM` (⭐ 704)
-   - By yogthos | 311 points
-   - Source: hackernews
-
-8. **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** `RL`, `Core` (⭐ 655)
-   - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+5. **[opencv/opencv](https://github.com/opencv/opencv)** `Vision`, `Framework` (⭐ 738)
+   - Open Source Computer Vision Library
    - Source: github
 
-9. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** `LLM`, `Vision`, `RL` (⭐ 376)
-   - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+6. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 683)
+   - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-10. **[Playing with Vision Embeddings](https://prestonbjensen.com/posts/playing-with-vision-embeddings)** `Vision`, `NLP`, `Tools` (⭐ 295)
-   - By prestoj | 84 points
+7. **[Apple Core AI Framework](https://developer.apple.com/documentation/coreai/)** `Framework`, `Core` (⭐ 640)
+   - By hmokiguess | 309 points
    - Source: hackernews
 
-11. **[Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm)** `LLM`, `Research` (⭐ 266)
+8. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 581)
+   - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+   - Source: github
+
+9. **[Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm)** `LLM`, `Research` (⭐ 338)
    - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
    - Source: github
 
-12. **[Tiny hackable CUDA language model implementation](https://github.com/markusheimerl/gpt)** `NLP`, `RL`, `Core` (⭐ 180)
-   - By markusheimerl | 40 points
-   - Source: hackernews
-
-13. **[Nvidia partners with LG robotics to build humanoid robots in South Korea](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/)** `Robotics` (⭐ 101)
-   - By spwa4 | 3 points
-   - Source: hackernews
+10. **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** `LLM`, `RL`, `Core`, `Tools` (⭐ 245)
+   - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+   - Source: github
 
 
 <!-- TRENDING_END -->
