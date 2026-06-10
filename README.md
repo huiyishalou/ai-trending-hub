@@ -14,46 +14,38 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-09
+### 2026-06-10
 
-1. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 6434)
+1. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 5774)
    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
 
-2. **[aaif-goose/goose](https://github.com/aaif-goose/goose)** `LLM`, `RL`, `Core` (⭐ 1324)
-   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+2. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `LLM`, `Core` (⭐ 2675)
+   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
    - Source: github
 
-3. **[Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)** `LLM`, `Core` (⭐ 1246)
-   - By unclefuzzy | 612 points
-   - Source: hackernews
-
-4. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 1174)
-   - 所有小初高、大学PDF教材。
+3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1844)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-5. **[opencv/opencv](https://github.com/opencv/opencv)** `Vision`, `Framework` (⭐ 738)
-   - Open Source Computer Vision Library
-   - Source: github
-
-6. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 683)
+4. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 854)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-7. **[Apple Core AI Framework](https://developer.apple.com/documentation/coreai/)** `Framework`, `Core` (⭐ 640)
-   - By hmokiguess | 309 points
-   - Source: hackernews
-
-8. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 581)
-   - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+5. **[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)** `LLM`, `NLP`, `Core` (⭐ 566)
+   - A straightforward method for training your LLM, from downloading data to generating text.
    - Source: github
 
-9. **[Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm)** `LLM`, `Research` (⭐ 338)
-   - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
+6. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** `LLM`, `Vision`, `RL` (⭐ 466)
+   - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
    - Source: github
 
-10. **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** `LLM`, `RL`, `Core`, `Tools` (⭐ 245)
+7. **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** `LLM`, `RL`, `Core`, `Tools` (⭐ 268)
    - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+   - Source: github
+
+8. **[activeloopai/hivemind](https://github.com/activeloopai/hivemind)** `RL`, `Core` (⭐ 133)
+   - One brain for all your agents
    - Source: github
 
 
