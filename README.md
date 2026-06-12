@@ -14,47 +14,43 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-11
+### 2026-06-12
 
-1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2011)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1535)
+1. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 5957)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-3. **[AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)** `RL`, `Core` (⭐ 883)
-   - By tanelpoder | 444 points
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2404)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+3. **[AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)** `RL`, `Core` (⭐ 1385)
+   - By xiaoyu2006 | 723 points
    - Source: hackernews
 
-4. **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** `LLM`, `RL`, `Core`, `Tools` (⭐ 833)
+4. **[Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)** `LLM`, `Core` (⭐ 895)
+   - By rarisma | 437 points
+   - Source: hackernews
+
+5. **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** `LLM`, `RL`, `Core`, `Tools` (⭐ 788)
    - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
    - Source: github
 
-5. **[Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)** `Robotics`, `Core` (⭐ 754)
-   - By vrganj | 372 points
-   - Source: hackernews
-
-6. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 729)
-   - 所有小初高、大学PDF教材。
-   - Source: github
-
-7. **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** `RL`, `Core` (⭐ 575)
+6. **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** `RL`, `Core` (⭐ 595)
    - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
    - Source: github
 
-8. **[hexo-ai/sia](https://github.com/hexo-ai/sia)** `Framework`, `RL`, `Robotics`, `Research`, `Core` (⭐ 409)
+7. **[hexo-ai/sia](https://github.com/hexo-ai/sia)** `Framework`, `RL`, `Robotics`, `Research`, `Core` (⭐ 448)
    - SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
    - Source: github
 
-9. **[kenn-io/agentsview](https://github.com/kenn-io/agentsview)** `LLM`, `RL` (⭐ 254)
+8. **[kenn-io/agentsview](https://github.com/kenn-io/agentsview)** `LLM`, `RL` (⭐ 283)
    - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
    - Source: github
 
-10. **[Build a Basic AI Agent from Scratch: Long Task Planning](https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d)** `RL`, `Core` (⭐ 156)
-   - By ruxudev | 40 points
-   - Source: hackernews
+9. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 266)
+   - 所有小初高、大学PDF教材。
+   - Source: github
 
 
 <!-- TRENDING_END -->
