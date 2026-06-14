@@ -14,23 +14,23 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-13
+### 2026-06-14
 
-1. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 4838)
-   - Production-grade engineering skills for AI coding agents.
+1. **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** `RL`, `Core` (⭐ 1468)
+   - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
    - Source: github
 
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2319)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-3. **[iptv-org/iptv](https://github.com/iptv-org/iptv)** `RL`, `Core` (⭐ 343)
+2. **[iptv-org/iptv](https://github.com/iptv-org/iptv)** `RL`, `Core` (⭐ 975)
    - Collection of publicly available IPTV channels from all over the world
    - Source: github
 
-4. **[Show HN: Skill for your agent to visualize your gbrain and Obsidian](https://github.com/vladignatyev/brain-map-skill)** `Vision`, `RL`, `Core` (⭐ 158)
-   - By v_ignatyev | 8 points
-   - Source: hackernews
+3. **[Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)** `Robotics` (⭐ 593)
+   - Introduction to Autonomous Robots
+   - Source: github
+
+4. **[pytest-dev/pytest](https://github.com/pytest-dev/pytest)** `Framework`, `RL` (⭐ 38)
+   - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+   - Source: github
 
 
 <!-- TRENDING_END -->
