@@ -14,22 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-14
+### 2026-06-15
 
-1. **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** `RL`, `Core` (⭐ 1468)
-   - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-   - Source: github
-
-2. **[iptv-org/iptv](https://github.com/iptv-org/iptv)** `RL`, `Core` (⭐ 975)
+1. **[iptv-org/iptv](https://github.com/iptv-org/iptv)** `RL`, `Core` (⭐ 4791)
    - Collection of publicly available IPTV channels from all over the world
    - Source: github
 
-3. **[Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)** `Robotics` (⭐ 593)
+2. **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** `RL`, `Core` (⭐ 1963)
+   - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+   - Source: github
+
+3. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1938)
+   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+   - Source: github
+
+4. **[Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)** `Robotics` (⭐ 974)
    - Introduction to Autonomous Robots
    - Source: github
 
-4. **[pytest-dev/pytest](https://github.com/pytest-dev/pytest)** `Framework`, `RL` (⭐ 38)
-   - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+5. **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)** `LLM`, `Core` (⭐ 785)
+   - By unrvl22 | 376 points
+   - Source: hackernews
+
+6. **[trycua/cua](https://github.com/trycua/cua)** `RL`, `Robotics`, `Research`, `Core` (⭐ 145)
+   - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
    - Source: github
 
 
