@@ -14,43 +14,35 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-17
+### 2026-06-18
 
-1. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 3702)
-   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-   - Source: github
-
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 3355)
-   - Skills for Real Engineers. Straight from my .claude directory.
-   - Source: github
-
-3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2020)
+1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2056)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-4. **[GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)** `LLM`, `NLP`, `RL`, `Core` (⭐ 621)
-   - By root-parent | 225 points
-   - Source: hackernews
-
-5. **[Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence](https://qwen.ai/blog?id=qwen-robotsuite)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 550)
-   - By ilreb | 192 points
-   - Source: hackernews
-
-6. **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** `RL`, `Core` (⭐ 296)
-   - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-   - Source: github
-
-7. **[google-research/timesfm](https://github.com/google-research/timesfm)** `Research`, `Core` (⭐ 205)
+2. **[google-research/timesfm](https://github.com/google-research/timesfm)** `Research`, `Core` (⭐ 1145)
    - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
    - Source: github
 
-8. **[alexzhang13/rlm](https://github.com/alexzhang13/rlm)** `NLP`, `Framework`, `RL`, `Core` (⭐ 172)
-   - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
+3. **[zai-org/GLM-5](https://github.com/zai-org/GLM-5)** `RL`, `Core` (⭐ 563)
+   - GLM-5: From Vibe Coding to Agentic Engineering
    - Source: github
 
-9. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 161)
-   - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+4. **[DeepSeek Introduces Vision](https://chat.deepseek.com/)** `LLM`, `Vision` (⭐ 485)
+   - By RIshabh235 | 196 points
+   - Source: hackernews
+
+5. **[withastro/flue](https://github.com/withastro/flue)** `Framework`, `RL` (⭐ 319)
+   - The sandbox agent framework.
    - Source: github
+
+6. **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** `Core` (⭐ 112)
+   - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
+   - Source: github
+
+7. **[Vinyl Cache and Varnish Cache](https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish)** `NLP`, `Tools` (⭐ 43)
+   - By embedding-shape | 12 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
