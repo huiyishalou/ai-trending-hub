@@ -14,34 +14,50 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-18
+### 2026-06-19
 
-1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2056)
-   - An agentic skills framework & software development methodology that works.
+1. **[chopratejas/headroom](https://github.com/chopratejas/headroom)** `LLM`, `Framework`, `Tools` (⭐ 7124)
+   - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
    - Source: github
 
-2. **[google-research/timesfm](https://github.com/google-research/timesfm)** `Research`, `Core` (⭐ 1145)
+2. **[google-research/timesfm](https://github.com/google-research/timesfm)** `Research`, `Core` (⭐ 2783)
    - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
    - Source: github
 
-3. **[zai-org/GLM-5](https://github.com/zai-org/GLM-5)** `RL`, `Core` (⭐ 563)
+3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2027)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+4. **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** `LLM`, `Core` (⭐ 1429)
+   - macOS video editor built for AI
+   - Source: github
+
+5. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 1361)
+   - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+   - Source: github
+
+6. **[zai-org/GLM-5](https://github.com/zai-org/GLM-5)** `RL`, `Core` (⭐ 908)
    - GLM-5: From Vibe Coding to Agentic Engineering
    - Source: github
 
-4. **[DeepSeek Introduces Vision](https://chat.deepseek.com/)** `LLM`, `Vision` (⭐ 485)
-   - By RIshabh235 | 196 points
-   - Source: hackernews
-
-5. **[withastro/flue](https://github.com/withastro/flue)** `Framework`, `RL` (⭐ 319)
+7. **[withastro/flue](https://github.com/withastro/flue)** `Framework`, `RL` (⭐ 573)
    - The sandbox agent framework.
    - Source: github
 
-6. **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** `Core` (⭐ 112)
+8. **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** `Core` (⭐ 380)
    - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
    - Source: github
 
-7. **[Vinyl Cache and Varnish Cache](https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish)** `NLP`, `Tools` (⭐ 43)
-   - By embedding-shape | 12 points
+9. **[BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)** `Framework`, `RL` (⭐ 370)
+   - A framework for building agent-native applications.
+   - Source: github
+
+10. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 296)
+   - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+   - Source: github
+
+11. **[Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/)** `Robotics`, `Research` (⭐ 292)
+   - By mplappert | 89 points
    - Source: hackernews
 
 
