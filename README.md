@@ -14,51 +14,51 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-20
+### 2026-06-21
 
-1. **[chopratejas/headroom](https://github.com/chopratejas/headroom)** `LLM`, `Framework`, `Tools` (⭐ 7245)
+1. **[chopratejas/headroom](https://github.com/chopratejas/headroom)** `LLM`, `Framework`, `Tools` (⭐ 6867)
    - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
    - Source: github
 
-2. **[google-research/timesfm](https://github.com/google-research/timesfm)** `Research`, `Core` (⭐ 2772)
-   - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 2538)
+   - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2022)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-4. **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** `LLM`, `Core` (⭐ 1442)
+3. **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** `LLM`, `Core` (⭐ 1705)
    - macOS video editor built for AI
    - Source: github
 
-5. **[zai-org/GLM-5](https://github.com/zai-org/GLM-5)** `RL`, `Core` (⭐ 912)
-   - GLM-5: From Vibe Coding to Agentic Engineering
+4. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 1252)
+   - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
    - Source: github
 
-6. **[withastro/flue](https://github.com/withastro/flue)** `Framework`, `RL` (⭐ 580)
-   - The sandbox agent framework.
-   - Source: github
-
-7. **[Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/)** `Robotics`, `Research` (⭐ 402)
-   - By mplappert | 150 points
-   - Source: hackernews
-
-8. **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** `Core` (⭐ 380)
-   - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
-   - Source: github
-
-9. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 338)
+5. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 1196)
    - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
    - Source: github
 
-10. **[BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)** `Framework`, `RL` (⭐ 325)
-   - A framework for building agent-native applications.
+6. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 988)
+   - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
    - Source: github
 
-11. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 314)
-   - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+7. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `RL`, `Research`, `Tools` (⭐ 774)
+   - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
    - Source: github
+
+8. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 769)
+   - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+   - Source: github
+
+9. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 704)
+   - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+   - Source: github
+
+10. **[topoteretes/cognee](https://github.com/topoteretes/cognee)** `RL`, `Core` (⭐ 671)
+   - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+   - Source: github
+
+11. **[Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)** `RL`, `Core` (⭐ 280)
+   - By sarangk90 | 109 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
