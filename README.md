@@ -14,43 +14,63 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-22
+### 2026-06-23
 
-1. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 5316)
+1. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 5321)
    - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
    - Source: github
 
-2. **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** `LLM`, `Core` (⭐ 4513)
+2. **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** `LLM`, `Core` (⭐ 4514)
    - macOS video editor built for AI
    - Source: github
 
-3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 3719)
-   - Skills for Real Engineers. Straight from my .claude directory.
-   - Source: github
-
-4. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 2862)
+3. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 2857)
    - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
    - Source: github
 
-5. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 1810)
-   - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+4. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 1808)
+   - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
    - Source: github
 
-6. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `RL`, `Research`, `Tools` (⭐ 1352)
+5. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 1763)
+   - The agent that grows with you
+   - Source: github
+
+6. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `RL`, `Research`, `Tools` (⭐ 1355)
    - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
    - Source: github
 
-7. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 980)
-   - AirLLM 70B inference with single 4GB GPU
+7. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1096)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-8. **[Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)** `LLM` (⭐ 452)
-   - By dev-experiments | 171 points
+8. **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** `LLM`, `RL`, `Core` (⭐ 712)
+   - from vibe coding to agentic engineering - practice makes claude perfect
+   - Source: github
+
+9. **[Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)** `Vision`, `Core` (⭐ 667)
+   - By DSemba | 297 points
    - Source: hackernews
 
-9. **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** `RL`, `Core` (⭐ 161)
+10. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 559)
+   - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+   - Source: github
+
+11. **[OpenAI DayBreak – GPT-5.5-Cyber](https://openai.com/index/daybreak-securing-the-world/)** `LLM`, `Core` (⭐ 328)
+   - By AaronO | 122 points
+   - Source: hackernews
+
+12. **[revfactory/harness](https://github.com/revfactory/harness)** `RL`, `Core` (⭐ 242)
+   - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+   - Source: github
+
+13. **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** `RL`, `Core` (⭐ 228)
    - Clone any website with one command using AI coding agents
    - Source: github
+
+14. **[Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)** `Vision`, `Core` (⭐ 179)
+   - By teleforce | 46 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
