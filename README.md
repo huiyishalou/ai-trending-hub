@@ -14,43 +14,59 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-24
+### 2026-06-25
 
-1. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 6499)
+1. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 6727)
    - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
    - Source: github
 
-2. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 2068)
-   - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+2. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 1943)
+   - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
    - Source: github
 
-3. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 1769)
-   - The agent that grows with you
+3. **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** `LLM`, `RL`, `Core` (⭐ 1326)
+   - from vibe coding to agentic engineering - practice makes claude perfect
    - Source: github
 
-4. **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** `RL`, `Core` (⭐ 1535)
+4. **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** `RL`, `Core` (⭐ 1294)
    - Clone any website with one command using AI coding agents
    - Source: github
 
-5. **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** `Vision`, `RL` (⭐ 934)
+5. **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** `Vision`, `RL` (⭐ 1141)
    - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
    - Source: github
 
-6. **[stablyai/orca](https://github.com/stablyai/orca)** `RL`, `Core` (⭐ 525)
-   - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+6. **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** `LLM`, `RL` (⭐ 973)
+   - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
    - Source: github
 
-7. **[Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)** `LLM`, `RL`, `Core` (⭐ 416)
-   - By ilreb | 118 points
+7. **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)** `LLM`, `Core` (⭐ 934)
+   - By htrp | 439 points
    - Source: hackernews
 
-8. **[interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)** `RL`, `Core` (⭐ 331)
-   - AI agent to evaluate and score resumes.
+8. **[RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/)** `LLM`, `Framework`, `Core` (⭐ 862)
+   - By doener | 392 points
+   - Source: hackernews
+
+9. **[Krea 2: SOTA open-weights 12B image model](https://www.krea.ai/blog/krea-2-technical-report)** `Vision`, `Core` (⭐ 791)
+   - By mattnewton | 386 points
+   - Source: hackernews
+
+10. **[PR spam today looks like email spam in the early 2000s](https://www.greptile.com/blog/prs-on-openclaw)** `RL`, `Core` (⭐ 493)
+   - By dakshgupta | 227 points
+   - Source: hackernews
+
+11. **[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)** `LLM`, `Framework`, `RL`, `Research`, `Core` (⭐ 449)
+   - AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
    - Source: github
 
-9. **[revfactory/harness](https://github.com/revfactory/harness)** `RL`, `Core` (⭐ 251)
-   - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
-   - Source: github
+12. **[Mixing Visual and Textual Code](https://arxiv.org/abs/2603.15855)** `Vision`, `NLP` (⭐ 210)
+   - By doppioandante | 50 points
+   - Source: hackernews
+
+13. **[Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported](https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported)** `RL`, `Core`, `Tools` (⭐ 117)
+   - By ragebol | 15 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
