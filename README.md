@@ -14,50 +14,38 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-27
+### 2026-06-28
 
-1. **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** `Vision`, `RL` (⭐ 4360)
+1. **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** `Vision`, `RL` (⭐ 2801)
    - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
    - Source: github
 
-2. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 3190)
-   - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+2. **[DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)** `LLM`, `Core` (⭐ 1480)
+   - By aurenvale | 762 points
+   - Source: hackernews
+
+3. **[topoteretes/cognee](https://github.com/topoteretes/cognee)** `RL`, `Core` (⭐ 1425)
+   - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
    - Source: github
 
-3. **[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)** `LLM`, `Framework`, `RL`, `Research`, `Core` (⭐ 2380)
-   - AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
-   - Source: github
-
-4. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 2206)
-   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-   - Source: github
-
-5. **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** `RL`, `Core` (⭐ 2006)
+4. **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** `RL`, `Core` (⭐ 1398)
    - Clone any website with one command using AI coding agents
    - Source: github
 
-6. **[U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)** `LLM`, `Core` (⭐ 1940)
-   - By alain94040 | 1033 points
-   - Source: hackernews
-
-7. **[Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)** `LLM`, `Core` (⭐ 1926)
-   - By minimaxir | 1010 points
-   - Source: hackernews
-
-8. **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** `LLM`, `RL` (⭐ 1758)
-   - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+5. **[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)** `LLM`, `Framework`, `RL`, `Research`, `Core` (⭐ 1320)
+   - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
    - Source: github
 
-9. **[Show HN: Smart model routing directly in Claude, Codex and Cursor](https://github.com/workweave/router)** `LLM`, `Core` (⭐ 410)
-   - By adchurch | 168 points
-   - Source: hackernews
-
-10. **[DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)** `LLM`, `Core` (⭐ 335)
-   - By aurenvale | 106 points
-   - Source: hackernews
-
-11. **[commaai/openpilot](https://github.com/commaai/openpilot)** `RL`, `Robotics`, `Core` (⭐ 216)
+6. **[commaai/openpilot](https://github.com/commaai/openpilot)** `RL`, `Robotics`, `Core` (⭐ 652)
    - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+   - Source: github
+
+7. **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** `Vision`, `Core` (⭐ 534)
+   - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+   - Source: github
+
+8. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** `LLM`, `Vision`, `RL` (⭐ 353)
+   - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
    - Source: github
 
 
