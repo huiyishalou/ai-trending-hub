@@ -14,38 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-28
+### 2026-06-29
 
-1. **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** `Vision`, `RL` (⭐ 2801)
-   - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
-   - Source: github
-
-2. **[DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)** `LLM`, `Core` (⭐ 1480)
-   - By aurenvale | 762 points
-   - Source: hackernews
-
-3. **[topoteretes/cognee](https://github.com/topoteretes/cognee)** `RL`, `Core` (⭐ 1425)
-   - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
-   - Source: github
-
-4. **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** `RL`, `Core` (⭐ 1398)
-   - Clone any website with one command using AI coding agents
-   - Source: github
-
-5. **[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)** `LLM`, `Framework`, `RL`, `Research`, `Core` (⭐ 1320)
+1. **[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)** `LLM`, `Framework`, `RL`, `Research`, `Core` (⭐ 2602)
    - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
    - Source: github
 
-6. **[commaai/openpilot](https://github.com/commaai/openpilot)** `RL`, `Robotics`, `Core` (⭐ 652)
+2. **[GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)** `LLM`, `Research` (⭐ 1764)
+   - By jms703 | 920 points
+   - Source: hackernews
+
+3. **[commaai/openpilot](https://github.com/commaai/openpilot)** `RL`, `Robotics`, `Core` (⭐ 909)
    - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
    - Source: github
 
-7. **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** `Vision`, `Core` (⭐ 534)
-   - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-   - Source: github
+4. **[Model Training as Code](https://aleph-alpha.com/en/blog/model-training-as-code/)** `Core` (⭐ 414)
+   - By peterBlue75 | 170 points
+   - Source: hackernews
 
-8. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** `LLM`, `Vision`, `RL` (⭐ 353)
-   - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+5. **[Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)** `NLP`, `Core`, `Tools` (⭐ 314)
+   - By babelfish | 108 points
+   - Source: hackernews
+
+6. **[Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)** `RL`, `Core` (⭐ 210)
+   - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
    - Source: github
 
 
