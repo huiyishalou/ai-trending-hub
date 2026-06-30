@@ -14,31 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-29
+### 2026-06-30
 
-1. **[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)** `LLM`, `Framework`, `RL`, `Research`, `Core` (⭐ 2602)
+1. **[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)** `LLM`, `Framework`, `RL`, `Research`, `Core` (⭐ 2582)
    - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
    - Source: github
 
-2. **[GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)** `LLM`, `Research` (⭐ 1764)
-   - By jms703 | 920 points
-   - Source: hackernews
-
-3. **[commaai/openpilot](https://github.com/commaai/openpilot)** `RL`, `Robotics`, `Core` (⭐ 909)
-   - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1615)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-4. **[Model Training as Code](https://aleph-alpha.com/en/blog/model-training-as-code/)** `Core` (⭐ 414)
-   - By peterBlue75 | 170 points
-   - Source: hackernews
-
-5. **[Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)** `NLP`, `Core`, `Tools` (⭐ 314)
-   - By babelfish | 108 points
-   - Source: hackernews
-
-6. **[Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)** `RL`, `Core` (⭐ 210)
-   - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
+3. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 1192)
+   - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
    - Source: github
+
+4. **[.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)** `RL`, `Core` (⭐ 1051)
+   - By HumanCCF | 537 points
+   - Source: hackernews
+
+5. **[Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)** `RL`, `Core` (⭐ 473)
+   - By danboarder | 216 points
+   - Source: hackernews
+
+6. **[Memory Safe Context Switching](https://fil-c.org/context_switches)** `NLP`, `Core` (⭐ 330)
+   - By modeless | 145 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
