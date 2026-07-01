@@ -14,31 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-06-30
+### 2026-07-01
 
-1. **[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)** `LLM`, `Framework`, `RL`, `Research`, `Core` (⭐ 2582)
-   - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+1. **[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)** `Vision`, `Research`, `Core` (⭐ 2477)
+   - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
    - Source: github
 
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1615)
-   - An agentic skills framework & software development methodology that works.
+2. **[Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)** `LLM`, `Robotics`, `Tools` (⭐ 1440)
+   - By Pragmata | 730 points
+   - Source: hackernews
+
+3. **[0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)** `LLM`, `Core` (⭐ 887)
+   - 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council
    - Source: github
 
-3. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 1192)
-   - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+4. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 778)
+   - Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
    - Source: github
 
-4. **[.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)** `RL`, `Core` (⭐ 1051)
-   - By HumanCCF | 537 points
-   - Source: hackernews
+5. **[allenai/olmocr](https://github.com/allenai/olmocr)** `LLM`, `Vision`, `Research`, `Core` (⭐ 663)
+   - Toolkit for linearizing PDFs for LLM datasets/training
+   - Source: github
 
-5. **[Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)** `RL`, `Core` (⭐ 473)
-   - By danboarder | 216 points
-   - Source: hackernews
-
-6. **[Memory Safe Context Switching](https://fil-c.org/context_switches)** `NLP`, `Core` (⭐ 330)
-   - By modeless | 145 points
-   - Source: hackernews
+6. **[Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)** `RL`, `Core` (⭐ 242)
+   - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
+   - Source: github
 
 
 <!-- TRENDING_END -->
