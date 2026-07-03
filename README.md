@@ -14,39 +14,43 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-02
+### 2026-07-03
 
-1. **[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)** `Vision`, `Research`, `Core` (⭐ 4506)
+1. **[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)** `Vision`, `Research`, `Core` (⭐ 1748)
    - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
    - Source: github
 
-2. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 1899)
-   - Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1639)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-3. **[allenai/olmocr](https://github.com/allenai/olmocr)** `LLM`, `Vision`, `Research`, `Core` (⭐ 733)
-   - Toolkit for linearizing PDFs for LLM datasets/training
+3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 923)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-4. **[Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries](https://www.weaverobotics.com/isaac-1)** `Robotics` (⭐ 431)
-   - By ryanmerket | 186 points
+4. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 697)
+   - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+   - Source: github
+
+5. **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** `LLM`, `Core` (⭐ 688)
+   - Use Codex from Claude Code to review code or delegate tasks.
+   - Source: github
+
+6. **[Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** `LLM`, `Core` (⭐ 400)
+   - By cortexosmain | 137 points
    - Source: hackernews
 
-5. **[Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)** `LLM`, `Core` (⭐ 418)
-   - By unliftedq | 172 points
-   - Source: hackernews
-
-6. **[0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)** `LLM`, `Core` (⭐ 326)
-   - 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council
+7. **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** `RL`, `Core` (⭐ 259)
+   - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
    - Source: github
 
-7. **[Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)** `RL`, `Core` (⭐ 259)
-   - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
-   - Source: github
-
-8. **[Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)** `RL`, `Research` (⭐ 255)
-   - By matt_d | 95 points
+8. **[14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)** `NLP`, `Tools` (⭐ 176)
+   - By snikolaev | 51 points
    - Source: hackernews
+
+9. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** `Framework`, `Core` (⭐ 174)
+   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+   - Source: github
 
 
 <!-- TRENDING_END -->
