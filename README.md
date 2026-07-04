@@ -14,42 +14,22 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-03
+### 2026-07-04
 
-1. **[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)** `Vision`, `Research`, `Core` (⭐ 1748)
-   - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
-   - Source: github
-
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1639)
+1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2200)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 923)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-4. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 697)
-   - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
-   - Source: github
-
-5. **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** `LLM`, `Core` (⭐ 688)
+2. **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** `LLM`, `Core` (⭐ 1195)
    - Use Codex from Claude Code to review code or delegate tasks.
    - Source: github
 
-6. **[Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** `LLM`, `Core` (⭐ 400)
-   - By cortexosmain | 137 points
-   - Source: hackernews
-
-7. **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** `RL`, `Core` (⭐ 259)
-   - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+3. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** `Framework`, `Core` (⭐ 584)
+   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
    - Source: github
 
-8. **[14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)** `NLP`, `Tools` (⭐ 176)
-   - By snikolaev | 51 points
-   - Source: hackernews
-
-9. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** `Framework`, `Core` (⭐ 174)
-   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+4. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 506)
+   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
    - Source: github
 
 
