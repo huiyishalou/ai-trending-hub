@@ -14,22 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-04
+### 2026-07-05
 
-1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2200)
-   - An agentic skills framework & software development methodology that works.
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 1778)
+   - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-2. **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** `LLM`, `Core` (⭐ 1195)
+2. **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** `LLM`, `Core` (⭐ 1346)
    - Use Codex from Claude Code to review code or delegate tasks.
    - Source: github
 
-3. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** `Framework`, `Core` (⭐ 584)
-   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+3. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 983)
+   - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
    - Source: github
 
-4. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 506)
-   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+4. **[GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)** `LLM`, `Core` (⭐ 578)
+   - By maille | 276 points
+   - Source: hackernews
+
+5. **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** `LLM`, `RL`, `Research`, `Core` (⭐ 365)
+   - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+   - Source: github
+
+6. **[CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)** `LLM`, `Robotics`, `Core` (⭐ 163)
+   - Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
+   - Source: github
+
+7. **[dotnet/skills](https://github.com/dotnet/skills)** `RL`, `Core` (⭐ 127)
+   - Repository for skills to assist AI coding agents with .NET and C#
    - Source: github
 
 
