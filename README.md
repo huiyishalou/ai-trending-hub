@@ -14,51 +14,51 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-06
+### 2026-07-07
 
-1. **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** `LLM`, `Core` (⭐ 2812)
-   - Use Codex from Claude Code to review code or delegate tasks.
-   - Source: github
-
-2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 2062)
-   - Production-grade engineering skills for AI coding agents.
-   - Source: github
-
-3. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1901)
+1. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 2615)
    - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
    - Source: github
 
-4. **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** `LLM`, `RL`, `Research`, `Core` (⭐ 826)
-   - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 2059)
+   - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-5. **[Zuckerberg says AI agent development going slower than expected](https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/)** `RL`, `Core` (⭐ 563)
-   - By cwwc | 266 points
-   - Source: hackernews
+3. **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** `LLM`, `Core` (⭐ 1685)
+   - Use Codex from Claude Code to review code or delegate tasks.
+   - Source: github
 
-6. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 457)
+4. **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** `LLM`, `RL`, `Research`, `Core` (⭐ 1218)
+   - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+   - Source: github
+
+5. **[steipete/CodexBar](https://github.com/steipete/CodexBar)** `LLM`, `Core` (⭐ 1103)
+   - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+   - Source: github
+
+6. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 854)
    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
 
-7. **[Does code cleanliness affect coding agents? A controlled minimal-pair study](https://arxiv.org/abs/2605.20049)** `RL`, `Robotics`, `Research`, `Core` (⭐ 436)
-   - By softwaredoug | 149 points
+7. **[A global workspace in language models](https://www.anthropic.com/research/global-workspace)** `NLP`, `Core` (⭐ 793)
+   - By in-silico | 387 points
    - Source: hackernews
 
-8. **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** `Vision`, `NLP`, `Core` (⭐ 359)
+8. **[Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)** `NLP`, `Core`, `Tools` (⭐ 566)
+   - By soycaporal | 248 points
+   - Source: hackernews
+
+9. **[OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://github.com/iOfficeAI/OfficeCLI)** `RL`, `Core` (⭐ 421)
+   - By maxloh | 187 points
+   - Source: hackernews
+
+10. **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** `Vision`, `NLP`, `Core` (⭐ 397)
    - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
    - Source: github
 
-9. **[New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)** `LLM`, `Core` (⭐ 355)
-   - By jonahbard | 167 points
+11. **[Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context)** `NLP`, `Tools` (⭐ 301)
+   - By emil_sorensen | 107 points
    - Source: hackernews
-
-10. **[Real-time map of Great Britain's rail network](https://www.map.signalbox.io)** `RL`, `Core` (⭐ 313)
-   - By scrlk | 147 points
-   - Source: hackernews
-
-11. **[steipete/CodexBar](https://github.com/steipete/CodexBar)** `LLM`, `Core` (⭐ 302)
-   - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-   - Source: github
 
 
 <!-- TRENDING_END -->
