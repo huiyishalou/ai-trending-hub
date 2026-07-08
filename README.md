@@ -14,51 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-07
+### 2026-07-08
 
-1. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 2615)
+1. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 4591)
+   - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
+   - Source: github
+
+2. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 3179)
    - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
    - Source: github
 
-2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 2059)
+3. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 2428)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-3. **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** `LLM`, `Core` (⭐ 1685)
-   - Use Codex from Claude Code to review code or delegate tasks.
+4. **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** `RL`, `Core` (⭐ 1655)
+   - OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
    - Source: github
 
-4. **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** `LLM`, `RL`, `Research`, `Core` (⭐ 1218)
-   - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
-   - Source: github
+5. **[Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)** `Robotics`, `Core` (⭐ 1279)
+   - By gasull | 664 points
+   - Source: hackernews
 
-5. **[steipete/CodexBar](https://github.com/steipete/CodexBar)** `LLM`, `Core` (⭐ 1103)
+6. **[steipete/CodexBar](https://github.com/steipete/CodexBar)** `LLM`, `Core` (⭐ 704)
    - Show usage stats for OpenAI Codex and Claude Code, without having to login.
    - Source: github
 
-6. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 854)
-   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+7. **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)** `RL`, `Core` (⭐ 435)
+   - By ColinEberhardt | 195 points
+   - Source: hackernews
+
+8. **[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** `LLM`, `RL` (⭐ 343)
+   - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
    - Source: github
 
-7. **[A global workspace in language models](https://www.anthropic.com/research/global-workspace)** `NLP`, `Core` (⭐ 793)
-   - By in-silico | 387 points
+9. **[IEEE Rolls Out Large Language Models Training Course](https://spectrum.ieee.org/large-language-models-ieee-course)** `NLP`, `Core` (⭐ 307)
+   - By JeanKage | 77 points
    - Source: hackernews
 
-8. **[Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)** `NLP`, `Core`, `Tools` (⭐ 566)
-   - By soycaporal | 248 points
-   - Source: hackernews
-
-9. **[OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://github.com/iOfficeAI/OfficeCLI)** `RL`, `Core` (⭐ 421)
-   - By maxloh | 187 points
-   - Source: hackernews
-
-10. **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** `Vision`, `NLP`, `Core` (⭐ 397)
-   - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+10. **[dotnet/skills](https://github.com/dotnet/skills)** `RL`, `Core` (⭐ 136)
+   - Repository for skills to assist AI coding agents with .NET and C#
    - Source: github
-
-11. **[Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context)** `NLP`, `Tools` (⭐ 301)
-   - By emil_sorensen | 107 points
-   - Source: hackernews
 
 
 <!-- TRENDING_END -->
