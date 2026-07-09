@@ -14,46 +14,46 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-08
+### 2026-07-09
 
-1. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 4591)
+1. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 9208)
    - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
    - Source: github
 
-2. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 3179)
-   - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-   - Source: github
-
-3. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 2428)
-   - Production-grade engineering skills for AI coding agents.
-   - Source: github
-
-4. **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** `RL`, `Core` (⭐ 1655)
+2. **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** `RL`, `Core` (⭐ 3139)
    - OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
    - Source: github
 
-5. **[Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)** `Robotics`, `Core` (⭐ 1279)
-   - By gasull | 664 points
-   - Source: hackernews
-
-6. **[steipete/CodexBar](https://github.com/steipete/CodexBar)** `LLM`, `Core` (⭐ 704)
-   - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+3. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 2392)
+   - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-7. **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)** `RL`, `Core` (⭐ 435)
-   - By ColinEberhardt | 195 points
-   - Source: hackernews
-
-8. **[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** `LLM`, `RL` (⭐ 343)
-   - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
+4. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 2327)
+   - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
    - Source: github
 
-9. **[IEEE Rolls Out Large Language Models Training Course](https://spectrum.ieee.org/large-language-models-ieee-course)** `NLP`, `Core` (⭐ 307)
-   - By JeanKage | 77 points
+5. **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** `RL`, `Robotics`, `Core` (⭐ 898)
+   - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+   - Source: github
+
+6. **[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)** `Vision`, `RL`, `Core` (⭐ 675)
+   - By chenglong-hn | 295 points
    - Source: hackernews
 
-10. **[dotnet/skills](https://github.com/dotnet/skills)** `RL`, `Core` (⭐ 136)
-   - Repository for skills to assist AI coding agents with .NET and C#
+7. **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `LLM`, `Core` (⭐ 405)
+   - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+   - Source: github
+
+8. **[MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)** `RL`, `Core` (⭐ 266)
+   - By ethanlipson | 81 points
+   - Source: hackernews
+
+9. **[Benchmarking coding agents on Databricks' multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)** `RL`, `Research` (⭐ 257)
+   - By tanelpoder | 96 points
+   - Source: hackernews
+
+10. **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** `LLM`, `Robotics` (⭐ 80)
+   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
    - Source: github
 
 
