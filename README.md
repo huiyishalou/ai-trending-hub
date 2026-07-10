@@ -14,46 +14,46 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-09
+### 2026-07-10
 
-1. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 9208)
-   - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
-   - Source: github
-
-2. **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** `RL`, `Core` (⭐ 3139)
-   - OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-   - Source: github
-
-3. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 2392)
+1. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 4654)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-4. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 2327)
-   - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+2. **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** `RL`, `Core` (⭐ 3520)
+   - OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
    - Source: github
 
-5. **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** `RL`, `Robotics`, `Core` (⭐ 898)
-   - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 3137)
+   - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-6. **[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)** `Vision`, `RL`, `Core` (⭐ 675)
-   - By chenglong-hn | 295 points
+4. **[EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)** `RL`, `Robotics` (⭐ 2648)
+   - By rapnie | 1418 points
    - Source: hackernews
 
-7. **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `LLM`, `Core` (⭐ 405)
-   - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1997)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-8. **[MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)** `RL`, `Core` (⭐ 266)
-   - By ethanlipson | 81 points
+6. **[Girls just wanna have fast MPMC queues with bounded waiting](https://nahla.dev/blog/waitfree_queue/)** `RL`, `Core` (⭐ 403)
+   - By EvgeniyZh | 177 points
    - Source: hackernews
 
-9. **[Benchmarking coding agents on Databricks' multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)** `RL`, `Research` (⭐ 257)
-   - By tanelpoder | 96 points
-   - Source: hackernews
-
-10. **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** `LLM`, `Robotics` (⭐ 80)
+7. **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** `LLM`, `Robotics` (⭐ 363)
    - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+   - Source: github
+
+8. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 242)
+   - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+   - Source: github
+
+9. **[zeux/meshoptimizer](https://github.com/zeux/meshoptimizer)** `Framework`, `Core` (⭐ 176)
+   - Mesh optimization library that makes meshes smaller and faster to render
+   - Source: github
+
+10. **[catchorg/Catch2](https://github.com/catchorg/Catch2)** `Framework`, `RL` (⭐ 148)
+   - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
    - Source: github
 
 
