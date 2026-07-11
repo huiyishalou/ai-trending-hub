@@ -14,47 +14,51 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-10
+### 2026-07-11
 
-1. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 4654)
-   - Production-grade engineering skills for AI coding agents.
-   - Source: github
-
-2. **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** `RL`, `Core` (⭐ 3520)
-   - OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-   - Source: github
-
-3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 3137)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 3109)
    - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-4. **[EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)** `RL`, `Robotics` (⭐ 2648)
-   - By rapnie | 1418 points
-   - Source: hackernews
+2. **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** `RL`, `Core` (⭐ 2251)
+   - OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+   - Source: github
 
-5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1997)
+3. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 2066)
+   - Production-grade engineering skills for AI coding agents.
+   - Source: github
+
+4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1847)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-6. **[Girls just wanna have fast MPMC queues with bounded waiting](https://nahla.dev/blog/waitfree_queue/)** `RL`, `Core` (⭐ 403)
-   - By EvgeniyZh | 177 points
+5. **[GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)** `LLM`, `RL` (⭐ 896)
+   - By scrlk | 451 points
    - Source: hackernews
 
-7. **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** `LLM`, `Robotics` (⭐ 363)
+6. **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** `LLM`, `Robotics` (⭐ 620)
    - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
    - Source: github
 
-8. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 242)
+7. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 271)
    - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
    - Source: github
 
-9. **[zeux/meshoptimizer](https://github.com/zeux/meshoptimizer)** `Framework`, `Core` (⭐ 176)
+8. **[zeux/meshoptimizer](https://github.com/zeux/meshoptimizer)** `Framework`, `Core` (⭐ 185)
    - Mesh optimization library that makes meshes smaller and faster to render
    - Source: github
 
-10. **[catchorg/Catch2](https://github.com/catchorg/Catch2)** `Framework`, `RL` (⭐ 148)
+9. **[catchorg/Catch2](https://github.com/catchorg/Catch2)** `Framework`, `RL` (⭐ 161)
    - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
    - Source: github
+
+10. **[Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)** `Vision`, `Framework` (⭐ 130)
+   - By poupeaua | 12 points
+   - Source: hackernews
+
+11. **[Companies are scrambling to curtail soaring AI costs](https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs)** `NLP`, `Core` (⭐ 94)
+   - By nlpnerd | 24 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
