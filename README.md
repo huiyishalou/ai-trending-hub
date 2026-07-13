@@ -14,34 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-12
+### 2026-07-13
 
-1. **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** `LLM`, `Robotics` (⭐ 1666)
-   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-   - Source: github
-
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1356)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-3. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 672)
-   - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-   - Source: github
-
-4. **[Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)** `LLM`, `Core` (⭐ 571)
-   - By tionis | 257 points
+1. **[Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)** `LLM`, `Tools` (⭐ 1185)
+   - By systima | 605 points
    - Source: hackernews
 
-5. **[catchorg/Catch2](https://github.com/catchorg/Catch2)** `Framework`, `RL` (⭐ 227)
-   - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+2. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 833)
+   - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
    - Source: github
 
-6. **[zeux/meshoptimizer](https://github.com/zeux/meshoptimizer)** `Framework`, `Core` (⭐ 219)
-   - Mesh optimization library that makes meshes smaller and faster to render
+3. **[Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)** `LLM`, `RL`, `Core` (⭐ 539)
+   - By brryant | 213 points
+   - Source: hackernews
+
+4. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 534)
+   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
    - Source: github
 
-7. **[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)** `Vision`, `NLP`, `Core` (⭐ 212)
-   - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+5. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 378)
+   - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+   - Source: github
+
+6. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 163)
+   - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
    - Source: github
 
 
