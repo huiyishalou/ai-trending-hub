@@ -14,29 +14,21 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-13
+### 2026-07-14
 
-1. **[Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)** `LLM`, `Tools` (⭐ 1185)
-   - By systima | 605 points
-   - Source: hackernews
-
-2. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 833)
+1. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1892)
    - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
    - Source: github
 
-3. **[Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)** `LLM`, `RL`, `Core` (⭐ 539)
-   - By brryant | 213 points
-   - Source: hackernews
-
-4. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 534)
-   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-   - Source: github
-
-5. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 378)
+2. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 1528)
    - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
    - Source: github
 
-6. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 163)
+3. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 604)
+   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+   - Source: github
+
+4. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 200)
    - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
    - Source: github
 
