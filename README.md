@@ -14,23 +14,35 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-14
+### 2026-07-15
 
-1. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1892)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 3049)
+   - Skills for Real Engineers. Straight from my .claude directory.
+   - Source: github
+
+2. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 2090)
    - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
    - Source: github
 
-2. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 1528)
+3. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 1926)
    - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
    - Source: github
 
-3. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 604)
-   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-   - Source: github
+4. **[The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)** `RL`, `Core` (⭐ 484)
+   - By _____k | 222 points
+   - Source: hackernews
 
-4. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 200)
-   - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-   - Source: github
+5. **[LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)** `RL`, `Core` (⭐ 334)
+   - By kevinjosethomas | 99 points
+   - Source: hackernews
+
+6. **[Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)** `RL`, `Core` (⭐ 223)
+   - By laalshaitaan | 77 points
+   - Source: hackernews
+
+7. **[The Estranged Worlds of J. G. Ballard](https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/)** `RL`, `Core` (⭐ 174)
+   - By Caiero | 65 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
