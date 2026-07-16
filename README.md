@@ -14,34 +14,38 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-15
+### 2026-07-16
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 3049)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 3861)
    - Skills for Real Engineers. Straight from my .claude directory.
    - Source: github
 
-2. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 2090)
-   - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-   - Source: github
-
-3. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 1926)
+2. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 2398)
    - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
    - Source: github
 
-4. **[The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)** `RL`, `Core` (⭐ 484)
-   - By _____k | 222 points
+3. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 2324)
+   - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+   - Source: github
+
+4. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 678)
+   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+   - Source: github
+
+5. **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** `RL`, `Core` (⭐ 559)
+   - A coding agent for low-cost models
+   - Source: github
+
+6. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 258)
+   - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+   - Source: github
+
+7. **[Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers](https://arxiv.org/abs/2607.11859)** `LLM`, `Research` (⭐ 209)
+   - By Jimmc414 | 56 points
    - Source: hackernews
 
-5. **[LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)** `RL`, `Core` (⭐ 334)
-   - By kevinjosethomas | 99 points
-   - Source: hackernews
-
-6. **[Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)** `RL`, `Core` (⭐ 223)
-   - By laalshaitaan | 77 points
-   - Source: hackernews
-
-7. **[The Estranged Worlds of J. G. Ballard](https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/)** `RL`, `Core` (⭐ 174)
-   - By Caiero | 65 points
+8. **[High-Bandwidth Flash offers efficient storage for model weights](https://spectrum.ieee.org/high-bandwidth-flash)** `Core`, `Tools` (⭐ 152)
+   - By Gaishan | 46 points
    - Source: hackernews
 
 
