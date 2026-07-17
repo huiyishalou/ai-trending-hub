@@ -14,39 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-16
+### 2026-07-17
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 3861)
-   - Skills for Real Engineers. Straight from my .claude directory.
-   - Source: github
-
-2. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 2398)
+1. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 6169)
    - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
    - Source: github
 
-3. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 2324)
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 3735)
+   - Skills for Real Engineers. Straight from my .claude directory.
+   - Source: github
+
+3. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1760)
    - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
    - Source: github
 
-4. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 678)
-   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+4. **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** `RL`, `Core` (⭐ 1211)
+   - A coding agent for open models like Kimi K3
    - Source: github
 
-5. **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** `RL`, `Core` (⭐ 559)
-   - A coding agent for low-cost models
-   - Source: github
-
-6. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 258)
-   - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-   - Source: github
-
-7. **[Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers](https://arxiv.org/abs/2607.11859)** `LLM`, `Research` (⭐ 209)
-   - By Jimmc414 | 56 points
+5. **[$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)** `LLM`, `Core` (⭐ 670)
+   - By hershyb_ | 272 points
    - Source: hackernews
 
-8. **[High-Bandwidth Flash offers efficient storage for model weights](https://spectrum.ieee.org/high-bandwidth-flash)** `Core`, `Tools` (⭐ 152)
-   - By Gaishan | 46 points
+6. **[LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)** `RL`, `Core` (⭐ 572)
+   - By minimaxir | 251 points
    - Source: hackernews
+
+7. **[Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)** `LLM`, `NLP`, `Core` (⭐ 530)
+   - By uneven9434 | 201 points
+   - Source: hackernews
+
+8. **[PostHog/posthog](https://github.com/PostHog/posthog)** `NLP`, `RL`, `Core` (⭐ 187)
+   - 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+   - Source: github
+
+9. **[lobehub/lobehub](https://github.com/lobehub/lobehub)** `RL`, `Core` (⭐ 149)
+   - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+   - Source: github
+
+10. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 107)
+   - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+   - Source: github
 
 
 <!-- TRENDING_END -->
