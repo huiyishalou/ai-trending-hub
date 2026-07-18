@@ -14,47 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-17
+### 2026-07-18
 
-1. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 6169)
+1. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 2772)
    - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
    - Source: github
 
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `LLM`, `Core` (⭐ 3735)
-   - Skills for Real Engineers. Straight from my .claude directory.
-   - Source: github
-
-3. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1760)
-   - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-   - Source: github
-
-4. **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** `RL`, `Core` (⭐ 1211)
-   - A coding agent for open models like Kimi K3
-   - Source: github
-
-5. **[$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)** `LLM`, `Core` (⭐ 670)
-   - By hershyb_ | 272 points
-   - Source: hackernews
-
-6. **[LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)** `RL`, `Core` (⭐ 572)
-   - By minimaxir | 251 points
-   - Source: hackernews
-
-7. **[Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)** `LLM`, `NLP`, `Core` (⭐ 530)
-   - By uneven9434 | 201 points
-   - Source: hackernews
-
-8. **[PostHog/posthog](https://github.com/PostHog/posthog)** `NLP`, `RL`, `Core` (⭐ 187)
+2. **[PostHog/posthog](https://github.com/PostHog/posthog)** `NLP`, `RL`, `Core` (⭐ 836)
    - 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
    - Source: github
 
-9. **[lobehub/lobehub](https://github.com/lobehub/lobehub)** `RL`, `Core` (⭐ 149)
-   - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+3. **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** `RL`, `Core` (⭐ 797)
+   - A coding agent for open models like Kimi K3
    - Source: github
 
-10. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 107)
+4. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 503)
    - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
    - Source: github
+
+5. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** `NLP`, `Research`, `Core` (⭐ 166)
+   - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+   - Source: github
+
+6. **[In-toto: A framework to secure the integrity of software supply chains](https://in-toto.io/)** `Framework`, `Core` (⭐ 129)
+   - By Erenay09 | 25 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
