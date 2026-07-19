@@ -14,31 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-18
+### 2026-07-19
 
-1. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 2772)
-   - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-   - Source: github
+1. **[GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)** `LLM`, `Core`, `Tools` (⭐ 1144)
+   - By mbustamanter | 562 points
+   - Source: hackernews
 
-2. **[PostHog/posthog](https://github.com/PostHog/posthog)** `NLP`, `RL`, `Core` (⭐ 836)
-   - 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-   - Source: github
-
-3. **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** `RL`, `Core` (⭐ 797)
-   - A coding agent for open models like Kimi K3
-   - Source: github
-
-4. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 503)
-   - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-   - Source: github
-
-5. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** `NLP`, `Research`, `Core` (⭐ 166)
+2. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** `NLP`, `Research`, `Core` (⭐ 672)
    - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
    - Source: github
 
-6. **[In-toto: A framework to secure the integrity of software supply chains](https://in-toto.io/)** `Framework`, `Core` (⭐ 129)
-   - By Erenay09 | 25 points
+3. **[PostHog/posthog](https://github.com/PostHog/posthog)** `NLP`, `RL`, `Core` (⭐ 656)
+   - 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+   - Source: github
+
+4. **[Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)** `LLM`, `Robotics` (⭐ 538)
+   - By ykev | 232 points
    - Source: hackernews
+
+5. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 455)
+   - AirLLM 70B inference with single 4GB GPU
+   - Source: github
+
+6. **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** `RL`, `Core` (⭐ 165)
+   - Kimi Code CLI is your next CLI agent.
+   - Source: github
 
 
 <!-- TRENDING_END -->
