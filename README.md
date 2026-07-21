@@ -14,47 +14,55 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-20
+### 2026-07-21
 
-1. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 2525)
-   - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.
+1. **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** `RL`, `Core` (⭐ 8065)
+   - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
    - Source: github
 
-2. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** `NLP`, `Research`, `Core` (⭐ 1226)
+2. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** `NLP`, `Research`, `Core` (⭐ 3332)
    - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
    - Source: github
 
-3. **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** `LLM`, `Framework`, `Core`, `Tools` (⭐ 786)
+3. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 2101)
+   - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.
+   - Source: github
+
+4. **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** `LLM`, `Framework`, `Core`, `Tools` (⭐ 962)
    - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
    - Source: github
 
-4. **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** `RL`, `Core` (⭐ 786)
+5. **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** `RL`, `Core` (⭐ 786)
    - Kimi Code CLI is your next CLI agent.
    - Source: github
 
-5. **[handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)** `NLP`, `Core` (⭐ 755)
+6. **[handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)** `NLP`, `Core` (⭐ 744)
    - ggml speech-to-text inference for 16+ model families
    - Source: github
 
-6. **[topoteretes/cognee](https://github.com/topoteretes/cognee)** `RL`, `Core` (⭐ 566)
-   - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+7. **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** `LLM`, `Framework`, `RL`, `Core` (⭐ 622)
+   - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
    - Source: github
 
-7. **[moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)** `NLP`, `RL`, `Core` (⭐ 538)
+8. **[moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)** `NLP`, `RL`, `Core` (⭐ 571)
    - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
    - Source: github
 
-8. **[Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html)** `Robotics` (⭐ 519)
-   - By ilreb | 235 points
-   - Source: hackernews
-
-9. **[iptv-org/iptv](https://github.com/iptv-org/iptv)** `RL`, `Core` (⭐ 280)
+9. **[iptv-org/iptv](https://github.com/iptv-org/iptv)** `RL`, `Core` (⭐ 453)
    - Collection of publicly available IPTV channels from all over the world
    - Source: github
 
-10. **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** `LLM`, `Framework`, `RL`, `Core` (⭐ 200)
-   - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+10. **[topoteretes/cognee](https://github.com/topoteretes/cognee)** `RL`, `Core` (⭐ 442)
+   - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
    - Source: github
+
+11. **[Agent swarms and the new model economics](https://cursor.com/blog/agent-swarm-model-economics)** `RL`, `Core` (⭐ 442)
+   - By jlaneve | 199 points
+   - Source: hackernews
+
+12. **[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)** `LLM`, `Vision`, `Core` (⭐ 334)
+   - By ilreb | 92 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
