@@ -14,55 +14,67 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-21
+### 2026-07-22
 
-1. **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** `RL`, `Core` (⭐ 8065)
+1. **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** `RL`, `Core` (⭐ 8407)
    - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
    - Source: github
 
-2. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** `NLP`, `Research`, `Core` (⭐ 3332)
+2. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 3769)
+   - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
+   - Source: github
+
+3. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** `NLP`, `Research`, `Core` (⭐ 3498)
    - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
    - Source: github
 
-3. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 2101)
-   - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.
+4. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 2388)
+   - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
    - Source: github
 
-4. **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** `LLM`, `Framework`, `Core`, `Tools` (⭐ 962)
-   - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
-   - Source: github
+5. **[OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)** `Framework`, `Research`, `Core` (⭐ 2285)
+   - By mfiguiere | 1183 points
+   - Source: hackernews
 
-5. **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** `RL`, `Core` (⭐ 786)
-   - Kimi Code CLI is your next CLI agent.
-   - Source: github
+6. **[Advertise in ChatGPT](https://ads.openai.com/)** `LLM`, `RL` (⭐ 1567)
+   - By montecarl | 784 points
+   - Source: hackernews
 
-6. **[handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)** `NLP`, `Core` (⭐ 744)
-   - ggml speech-to-text inference for 16+ model families
-   - Source: github
-
-7. **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** `LLM`, `Framework`, `RL`, `Core` (⭐ 622)
+7. **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** `LLM`, `Framework`, `RL`, `Core` (⭐ 800)
    - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
    - Source: github
 
-8. **[moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)** `NLP`, `RL`, `Core` (⭐ 571)
-   - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
-   - Source: github
-
-9. **[iptv-org/iptv](https://github.com/iptv-org/iptv)** `RL`, `Core` (⭐ 453)
-   - Collection of publicly available IPTV channels from all over the world
-   - Source: github
-
-10. **[topoteretes/cognee](https://github.com/topoteretes/cognee)** `RL`, `Core` (⭐ 442)
-   - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
-   - Source: github
-
-11. **[Agent swarms and the new model economics](https://cursor.com/blog/agent-swarm-model-economics)** `RL`, `Core` (⭐ 442)
-   - By jlaneve | 199 points
+8. **[Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63)** `LLM`, `Core` (⭐ 790)
+   - By BeetleB | 379 points
    - Source: hackernews
 
-12. **[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)** `LLM`, `Vision`, `Core` (⭐ 334)
-   - By ilreb | 92 points
+9. **[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)** `RL`, `Core` (⭐ 662)
+   - By ryanmerket | 321 points
    - Source: hackernews
+
+10. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** `NLP`, `RL`, `Robotics` (⭐ 620)
+   - A collection of agent skills for CAD, robotics and hardware design
+   - Source: github
+
+11. **["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)** `LLM` (⭐ 578)
+   - By hershyb_ | 201 points
+   - Source: hackernews
+
+12. **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** `LLM`, `Core` (⭐ 313)
+   - Hundreds of models & providers. One command to find what runs on your hardware.
+   - Source: github
+
+13. **[Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)** `LLM`, `Core` (⭐ 270)
+   - By greatgib | 90 points
+   - Source: hackernews
+
+14. **[tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)** `LLM`, `Core` (⭐ 232)
+   - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
+   - Source: github
+
+15. **[langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)** `Framework`, `Research`, `Core` (⭐ 161)
+   - No description
+   - Source: github
 
 
 <!-- TRENDING_END -->
