@@ -14,67 +14,35 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-22
+### 2026-07-23
 
-1. **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** `RL`, `Core` (⭐ 8407)
-   - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-   - Source: github
-
-2. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 3769)
-   - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
-   - Source: github
-
-3. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** `NLP`, `Research`, `Core` (⭐ 3498)
-   - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-   - Source: github
-
-4. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 2388)
+1. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 7507)
    - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
    - Source: github
 
-5. **[OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)** `Framework`, `Research`, `Core` (⭐ 2285)
-   - By mfiguiere | 1183 points
-   - Source: hackernews
-
-6. **[Advertise in ChatGPT](https://ads.openai.com/)** `LLM`, `RL` (⭐ 1567)
-   - By montecarl | 784 points
-   - Source: hackernews
-
-7. **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** `LLM`, `Framework`, `RL`, `Core` (⭐ 800)
-   - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+2. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 3080)
+   - Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
    - Source: github
 
-8. **[Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63)** `LLM`, `Core` (⭐ 790)
-   - By BeetleB | 379 points
+3. **[Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)** `LLM` (⭐ 1753)
+   - By gmays | 894 points
    - Source: hackernews
 
-9. **[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)** `RL`, `Core` (⭐ 662)
-   - By ryanmerket | 321 points
+4. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** `NLP`, `Research`, `Core` (⭐ 1621)
+   - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+   - Source: github
+
+5. **[GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)** `NLP`, `Core` (⭐ 1079)
+   - By syrusakbary | 513 points
    - Source: hackernews
 
-10. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** `NLP`, `RL`, `Robotics` (⭐ 620)
-   - A collection of agent skills for CAD, robotics and hardware design
+6. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** `LLM`, `Core` (⭐ 374)
+   - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
    - Source: github
 
-11. **["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)** `LLM` (⭐ 578)
-   - By hershyb_ | 201 points
+7. **[Fairphone 6 wide camera experimental Linux support](https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/)** `RL`, `Core` (⭐ 309)
+   - By helonaut | 125 points
    - Source: hackernews
-
-12. **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** `LLM`, `Core` (⭐ 313)
-   - Hundreds of models & providers. One command to find what runs on your hardware.
-   - Source: github
-
-13. **[Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)** `LLM`, `Core` (⭐ 270)
-   - By greatgib | 90 points
-   - Source: hackernews
-
-14. **[tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)** `LLM`, `Core` (⭐ 232)
-   - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
-   - Source: github
-
-15. **[langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)** `Framework`, `Research`, `Core` (⭐ 161)
-   - No description
-   - Source: github
 
 
 <!-- TRENDING_END -->
