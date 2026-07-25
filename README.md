@@ -14,47 +14,27 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-24
+### 2026-07-25
 
-1. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 5772)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 4073)
+   - Skills for Real Engineers. Straight from my .agents directory.
+   - Source: github
+
+2. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** `RL`, `Core` (⭐ 3988)
    - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
    - Source: github
 
-2. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 3580)
+3. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 3422)
    - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
    - Source: github
 
-3. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** `LLM`, `Core` (⭐ 1226)
+4. **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** `LLM`, `RL`, `Core` (⭐ 1623)
+   - The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+   - Source: github
+
+5. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** `LLM`, `Core` (⭐ 1274)
    - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
    - Source: github
-
-4. **[OpenAI’s accidental attack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/)** `Framework`, `Core` (⭐ 1031)
-   - By abhisek | 526 points
-   - Source: hackernews
-
-5. **[DARPA, U.S. Air Force fly AI-controlled F-16](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)** `Robotics`, `Core` (⭐ 534)
-   - By r2sk5t | 250 points
-   - Source: hackernews
-
-6. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** `NLP`, `RL`, `Robotics` (⭐ 510)
-   - A collection of agent skills for CAD, robotics and hardware design
-   - Source: github
-
-7. **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** `RL`, `Core` (⭐ 466)
-   - The best browser for both you and your AI agents work in parallel.
-   - Source: github
-
-8. **[Show HN: Palmier Pro – Open-source macOS video editor built for AI](https://github.com/palmier-io/palmier-pro)** `LLM`, `Core` (⭐ 398)
-   - By harrisontin | 161 points
-   - Source: hackernews
-
-9. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core`, `Tools` (⭐ 369)
-   - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-   - Source: github
-
-10. **[Claude Cookbook](https://platform.claude.com/cookbook/)** `LLM`, `Core` (⭐ 189)
-   - By saikatsg | 60 points
-   - Source: hackernews
 
 
 <!-- TRENDING_END -->
