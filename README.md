@@ -14,51 +14,19 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-26
+### 2026-07-27
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3153)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-2. **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** `LLM`, `RL`, `Core` (⭐ 1814)
-   - The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-   - Source: github
-
-3. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** `LLM`, `Core` (⭐ 1120)
-   - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-   - Source: github
-
-4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 886)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-5. **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** `LLM`, `Core` (⭐ 823)
-   - macOS video editor built for AI
-   - Source: github
-
-6. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core`, `Tools` (⭐ 821)
+1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1543)
    - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
    - Source: github
 
-7. **[The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)** `LLM`, `NLP`, `Core` (⭐ 764)
-   - By mellosouls | 331 points
-   - Source: hackernews
-
-8. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 727)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+2. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 1057)
+   - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
    - Source: github
 
-9. **[Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai)** `LLM`, `Robotics` (⭐ 457)
-   - By boveyking | 187 points
-   - Source: hackernews
-
-10. **[Show HN: Brolly, a plain-text weather forecast site](https://brolly.sh/forecast/RWFP2qW8)** `NLP`, `Core` (⭐ 442)
-   - By jsax | 192 points
-   - Source: hackernews
-
-11. **[DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf)** `LLM`, `Core` (⭐ 378)
-   - By oliculipolicula | 150 points
-   - Source: hackernews
+3. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 428)
+   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+   - Source: github
 
 
 <!-- TRENDING_END -->
