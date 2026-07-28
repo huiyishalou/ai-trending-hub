@@ -14,19 +14,27 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-27
+### 2026-07-28
 
-1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1543)
+1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1807)
    - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
    - Source: github
 
-2. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 1057)
+2. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 1090)
    - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
    - Source: github
 
-3. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 428)
+3. **[A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)** `RL`, `Core`, `Tools` (⭐ 466)
+   - By ilreb | 199 points
+   - Source: hackernews
+
+4. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 462)
    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
+
+5. **[Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts](https://arsastronomica.com/)** `NLP` (⭐ 235)
+   - By sweisman | 64 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
