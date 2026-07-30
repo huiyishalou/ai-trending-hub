@@ -14,38 +14,38 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-29
+### 2026-07-30
 
-1. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 1495)
-   - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-   - Source: github
-
-2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1193)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-3. **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** `LLM`, `Research` (⭐ 788)
+1. **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** `LLM`, `Research` (⭐ 2585)
    - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
    - Source: github
 
-4. **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** `RL`, `Core` (⭐ 430)
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1591)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   - Source: github
+
+3. **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** `RL`, `Core` (⭐ 1510)
    - Build local voice agents with open-source models
    - Source: github
 
-5. **[Now is the time to give LLMs access to the ACM digital library](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/)** `LLM`, `Framework` (⭐ 421)
-   - By rbanffy | 167 points
-   - Source: hackernews
+4. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 1288)
+   - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+   - Source: github
 
-6. **[ChatGPT claims rogue AI attacked more companies](https://www.bbc.co.uk/news/articles/c2el319vzr3o)** `LLM`, `Core` (⭐ 214)
-   - By osrec | 19 points
-   - Source: hackernews
+5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1133)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
 
-7. **[Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)** `Robotics`, `Core` (⭐ 179)
-   - By ilreb | 53 points
-   - Source: hackernews
+6. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core`, `Tools` (⭐ 691)
+   - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+   - Source: github
 
-8. **[microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)** `RL`, `Robotics`, `Core` (⭐ 164)
-   - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
+7. **[different-ai/openwork](https://github.com/different-ai/openwork)** `LLM`, `Core` (⭐ 229)
+   - The open-source alternative to Claude Cowork (powered by opencode)
+   - Source: github
+
+8. **[maderix/ANE](https://github.com/maderix/ANE)** `Core` (⭐ 67)
+   - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
    - Source: github
 
 
