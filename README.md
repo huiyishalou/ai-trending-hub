@@ -14,39 +14,39 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-30
+### 2026-07-31
 
-1. **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** `LLM`, `Research` (⭐ 2585)
-   - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-   - Source: github
-
-2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1591)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-3. **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** `RL`, `Core` (⭐ 1510)
-   - Build local voice agents with open-source models
-   - Source: github
-
-4. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** `RL`, `Core` (⭐ 1288)
-   - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-   - Source: github
-
-5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1133)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-6. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core`, `Tools` (⭐ 691)
-   - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-   - Source: github
-
-7. **[different-ai/openwork](https://github.com/different-ai/openwork)** `LLM`, `Core` (⭐ 229)
+1. **[different-ai/openwork](https://github.com/different-ai/openwork)** `LLM`, `Core` (⭐ 1701)
    - The open-source alternative to Claude Cowork (powered by opencode)
    - Source: github
 
-8. **[maderix/ANE](https://github.com/maderix/ANE)** `Core` (⭐ 67)
-   - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1495)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
+
+3. **[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)** `LLM`, `Robotics`, `Core` (⭐ 1189)
+   - By ai2027 | 562 points
+   - Source: hackernews
+
+4. **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** `RL`, `Core` (⭐ 1151)
+   - Build local voice agents with open-source models
+   - Source: github
+
+5. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 710)
+   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+   - Source: github
+
+6. **[GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)** `RL`, `Core` (⭐ 624)
+   - By arto | 300 points
+   - Source: hackernews
+
+7. **[Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)** `LLM`, `RL` (⭐ 386)
+   - By cgorlla | 128 points
+   - Source: hackernews
+
+8. **[Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)** `RL`, `Core` (⭐ 196)
+   - By akbabu | 62 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
