@@ -14,39 +14,27 @@
 
 <!-- TRENDING_START -->
 
-### 2026-07-31
+### 2026-08-01
 
-1. **[different-ai/openwork](https://github.com/different-ai/openwork)** `LLM`, `Core` (⭐ 1701)
+1. **[different-ai/openwork](https://github.com/different-ai/openwork)** `LLM`, `Core` (⭐ 1505)
    - The open-source alternative to Claude Cowork (powered by opencode)
    - Source: github
 
-2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1495)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-3. **[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)** `LLM`, `Robotics`, `Core` (⭐ 1189)
-   - By ai2027 | 562 points
-   - Source: hackernews
-
-4. **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** `RL`, `Core` (⭐ 1151)
-   - Build local voice agents with open-source models
-   - Source: github
-
-5. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 710)
+2. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 1214)
    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
 
-6. **[GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)** `RL`, `Core` (⭐ 624)
-   - By arto | 300 points
+3. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** `LLM`, `RL`, `Research`, `Core` (⭐ 651)
+   - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+   - Source: github
+
+4. **[Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)** `Vision`, `Core` (⭐ 316)
+   - By vinhnx | 122 points
    - Source: hackernews
 
-7. **[Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)** `LLM`, `RL` (⭐ 386)
-   - By cgorlla | 128 points
-   - Source: hackernews
-
-8. **[Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)** `RL`, `Core` (⭐ 196)
-   - By akbabu | 62 points
-   - Source: hackernews
+5. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 97)
+   - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+   - Source: github
 
 
 <!-- TRENDING_END -->
