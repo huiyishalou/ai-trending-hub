@@ -14,26 +14,26 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-01
+### 2026-08-02
 
-1. **[different-ai/openwork](https://github.com/different-ai/openwork)** `LLM`, `Core` (⭐ 1505)
-   - The open-source alternative to Claude Cowork (powered by opencode)
-   - Source: github
-
-2. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 1214)
-   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-   - Source: github
-
-3. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** `LLM`, `RL`, `Research`, `Core` (⭐ 651)
+1. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** `LLM`, `RL`, `Research`, `Core` (⭐ 2424)
    - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
    - Source: github
 
-4. **[Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)** `Vision`, `Core` (⭐ 316)
-   - By vinhnx | 122 points
-   - Source: hackernews
+2. **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** `RL`, `Core` (⭐ 817)
+   - Build local voice agents with open-source models
+   - Source: github
 
-5. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 97)
+3. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `RL`, `Research`, `Tools` (⭐ 403)
+   - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+   - Source: github
+
+4. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 340)
    - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+   - Source: github
+
+5. **[abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)** `NLP`, `Core` (⭐ 155)
+   - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
    - Source: github
 
 
