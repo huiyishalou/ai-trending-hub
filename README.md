@@ -14,27 +14,59 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-02
+### 2026-08-03
 
-1. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** `LLM`, `RL`, `Research`, `Core` (⭐ 2424)
+1. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 3211)
+   - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+   - Source: github
+
+2. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** `LLM`, `RL`, `Research`, `Core` (⭐ 2102)
    - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
    - Source: github
 
-2. **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** `RL`, `Core` (⭐ 817)
-   - Build local voice agents with open-source models
+3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 1639)
+   - AirLLM 70B inference with single 4GB GPU
    - Source: github
 
-3. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `RL`, `Research`, `Tools` (⭐ 403)
-   - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+4. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1243)
+   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
    - Source: github
 
-4. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** `LLM`, `RL` (⭐ 340)
-   - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+5. **[Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)** `LLM`, `Core` (⭐ 1238)
+   - By ai2027 | 643 points
+   - Source: hackernews
+
+6. **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `LLM`, `RL`, `Core` (⭐ 692)
+   - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
    - Source: github
 
-5. **[abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)** `NLP`, `Core` (⭐ 155)
-   - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
+7. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** `LLM`, `RL` (⭐ 608)
+   - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
    - Source: github
+
+8. **[livekit/agents](https://github.com/livekit/agents)** `Framework`, `RL`, `Core` (⭐ 301)
+   - A framework for building realtime voice AI agents 🤖🎙️📹
+   - Source: github
+
+9. **[Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html)** `NLP`, `Core` (⭐ 301)
+   - By nmstoker | 114 points
+   - Source: hackernews
+
+10. **[antirez/ds4](https://github.com/antirez/ds4)** `LLM`, `Core` (⭐ 277)
+   - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+   - Source: github
+
+11. **[Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)** `Framework`, `Core` (⭐ 206)
+   - By KolmogorovComp | 68 points
+   - Source: hackernews
+
+12. **[Train Simulator Controller](https://z80.me/blog/tsc-2026-july/)** `Robotics`, `Core` (⭐ 113)
+   - By austinallegro | 16 points
+   - Source: hackernews
+
+13. **[Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler/)** `RL`, `Core` (⭐ 89)
+   - By NickySlicks | 3 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
