@@ -14,47 +14,51 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-04
+### 2026-08-05
 
-1. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** `LLM`, `RL`, `Research`, `Core` (⭐ 4451)
-   - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-   - Source: github
-
-2. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 3085)
+1. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 4599)
    - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
    - Source: github
 
-3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 2118)
+2. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** `LLM`, `RL`, `Research`, `Core` (⭐ 4183)
+   - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+   - Source: github
+
+3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 3245)
    - AirLLM 70B inference with single 4GB GPU
    - Source: github
 
-4. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1960)
-   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-   - Source: github
-
-5. **[LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)** `LLM`, `RL` (⭐ 1884)
-   - By MaxMussio | 980 points
-   - Source: hackernews
-
-6. **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `LLM`, `RL`, `Core` (⭐ 1682)
+4. **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `LLM`, `RL`, `Core` (⭐ 1753)
    - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
    - Source: github
 
-7. **[antirez/ds4](https://github.com/antirez/ds4)** `LLM`, `Core` (⭐ 718)
-   - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1199)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-8. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** `LLM`, `RL` (⭐ 584)
-   - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
-   - Source: github
+6. **[Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)** `LLM`, `Core` (⭐ 877)
+   - By riadsila | 427 points
+   - Source: hackernews
 
-9. **[livekit/agents](https://github.com/livekit/agents)** `Framework`, `RL`, `Core` (⭐ 335)
+7. **[livekit/agents](https://github.com/livekit/agents)** `Framework`, `RL`, `Core` (⭐ 847)
    - A framework for building realtime voice AI agents 🤖🎙️📹
    - Source: github
 
-10. **[The US is not a democracy but an oligarchy, study concludes (2014)](https://www.upi.com/Top_News/US/2014/04/16/The-US-is-not-a-democracy-but-an-oligarchy-study-concludes/2761397680051/)** `Vision`, `Research` (⭐ 195)
-   - By giov4 | 55 points
+8. **[uber/ADR](https://github.com/uber/ADR)** `Vision`, `RL`, `Research`, `Core` (⭐ 311)
+   - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
+   - Source: github
+
+9. **[When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://arxiv.org/abs/2602.16763)** `Research`, `Core` (⭐ 286)
+   - By doppp | 99 points
    - Source: hackernews
+
+10. **[Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)** `LLM`, `RL` (⭐ 197)
+   - By theanonymousone | 43 points
+   - Source: hackernews
+
+11. **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** `Framework`, `Core` (⭐ 142)
+   - A utility-first CSS framework for rapid UI development.
+   - Source: github
 
 
 <!-- TRENDING_END -->
