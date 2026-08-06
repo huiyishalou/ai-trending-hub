@@ -14,51 +14,55 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-05
+### 2026-08-06
 
-1. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 4599)
+1. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 2875)
    - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
    - Source: github
 
-2. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** `LLM`, `RL`, `Research`, `Core` (⭐ 4183)
-   - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-   - Source: github
-
-3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 3245)
-   - AirLLM 70B inference with single 4GB GPU
-   - Source: github
-
-4. **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `LLM`, `RL`, `Core` (⭐ 1753)
-   - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-   - Source: github
-
-5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1199)
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1700)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-6. **[Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)** `LLM`, `Core` (⭐ 877)
-   - By riadsila | 427 points
-   - Source: hackernews
-
-7. **[livekit/agents](https://github.com/livekit/agents)** `Framework`, `RL`, `Core` (⭐ 847)
-   - A framework for building realtime voice AI agents 🤖🎙️📹
+3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 1664)
+   - AirLLM 70B inference with single 4GB GPU
    - Source: github
 
-8. **[uber/ADR](https://github.com/uber/ADR)** `Vision`, `RL`, `Research`, `Core` (⭐ 311)
+4. **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `LLM`, `RL`, `Core` (⭐ 1438)
+   - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+   - Source: github
+
+5. **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** `Framework`, `Core` (⭐ 782)
+   - A utility-first CSS framework for rapid UI development.
+   - Source: github
+
+6. **[Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)** `LLM`, `Core` (⭐ 688)
+   - By moonikakiss | 322 points
+   - Source: hackernews
+
+7. **[uber/ADR](https://github.com/uber/ADR)** `Vision`, `RL`, `Research`, `Core` (⭐ 682)
    - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
    - Source: github
 
-9. **[When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://arxiv.org/abs/2602.16763)** `Research`, `Core` (⭐ 286)
-   - By doppp | 99 points
-   - Source: hackernews
-
-10. **[Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)** `LLM`, `RL` (⭐ 197)
-   - By theanonymousone | 43 points
-   - Source: hackernews
-
-11. **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** `Framework`, `Core` (⭐ 142)
-   - A utility-first CSS framework for rapid UI development.
+8. **[huangruiteng/loopx](https://github.com/huangruiteng/loopx)** `LLM`, `RL`, `Core` (⭐ 626)
+   - Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
    - Source: github
+
+9. **[Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html)** `LLM`, `Core` (⭐ 610)
+   - By lladnar | 279 points
+   - Source: hackernews
+
+10. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 464)
+   - Production-grade engineering skills for AI coding agents.
+   - Source: github
+
+11. **[Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)** `RL` (⭐ 429)
+   - By Xeophon | 185 points
+   - Source: hackernews
+
+12. **[Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](https://www.hyperprobe.co)** `RL`, `Core` (⭐ 161)
+   - By shailendraht | 58 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
