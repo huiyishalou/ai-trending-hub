@@ -14,55 +14,59 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-06
+### 2026-08-07
 
-1. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 2875)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3392)
+   - Skills for Real Engineers. Straight from my .agents directory.
+   - Source: github
+
+2. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 2169)
    - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
    - Source: github
 
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1700)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 1664)
-   - AirLLM 70B inference with single 4GB GPU
-   - Source: github
-
-4. **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `LLM`, `RL`, `Core` (⭐ 1438)
+3. **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `LLM`, `RL`, `Core` (⭐ 1691)
    - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
    - Source: github
 
-5. **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** `Framework`, `Core` (⭐ 782)
-   - A utility-first CSS framework for rapid UI development.
+4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1568)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-6. **[Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)** `LLM`, `Core` (⭐ 688)
-   - By moonikakiss | 322 points
-   - Source: hackernews
-
-7. **[uber/ADR](https://github.com/uber/ADR)** `Vision`, `RL`, `Research`, `Core` (⭐ 682)
-   - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
-   - Source: github
-
-8. **[huangruiteng/loopx](https://github.com/huangruiteng/loopx)** `LLM`, `RL`, `Core` (⭐ 626)
+5. **[huangruiteng/loopx](https://github.com/huangruiteng/loopx)** `LLM`, `RL`, `Core` (⭐ 1564)
    - Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
    - Source: github
 
-9. **[Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html)** `LLM`, `Core` (⭐ 610)
-   - By lladnar | 279 points
+6. **[AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)** `Vision`, `Core` (⭐ 1234)
+   - By itvision | 637 points
    - Source: hackernews
 
-10. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 464)
+7. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1124)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-11. **[Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)** `RL` (⭐ 429)
-   - By Xeophon | 185 points
+8. **[Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/)** `LLM` (⭐ 565)
+   - By tedsanders | 234 points
    - Source: hackernews
 
-12. **[Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](https://www.hyperprobe.co)** `RL`, `Core` (⭐ 161)
-   - By shailendraht | 58 points
+9. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** `NLP`, `Research`, `Core` (⭐ 460)
+   - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+   - Source: github
+
+10. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 349)
+   - 所有小初高、大学PDF教材。
+   - Source: github
+
+11. **[Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm)** `LLM`, `Core` (⭐ 293)
+   - By sebg | 103 points
    - Source: hackernews
+
+12. **[New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)** `RL`, `Core` (⭐ 187)
+   - By champagnepapi | 57 points
+   - Source: hackernews
+
+13. **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `LLM`, `Vision`, `Core` (⭐ 163)
+   - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+   - Source: github
 
 
 <!-- TRENDING_END -->
