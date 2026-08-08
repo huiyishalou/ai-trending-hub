@@ -14,58 +14,38 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-07
+### 2026-08-08
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3392)
+1. **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** `RL`, `Robotics`, `Core` (⭐ 4235)
+   - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+   - Source: github
+
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3895)
    - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-2. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 2169)
-   - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-   - Source: github
-
-3. **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `LLM`, `RL`, `Core` (⭐ 1691)
-   - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-   - Source: github
-
-4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1568)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-5. **[huangruiteng/loopx](https://github.com/huangruiteng/loopx)** `LLM`, `RL`, `Core` (⭐ 1564)
-   - Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
-   - Source: github
-
-6. **[AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)** `Vision`, `Core` (⭐ 1234)
-   - By itvision | 637 points
-   - Source: hackernews
-
-7. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1124)
+3. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 2093)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-8. **[Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/)** `LLM` (⭐ 565)
-   - By tedsanders | 234 points
-   - Source: hackernews
-
-9. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** `NLP`, `Research`, `Core` (⭐ 460)
-   - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1432)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-10. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 349)
-   - 所有小初高、大学PDF教材。
-   - Source: github
-
-11. **[Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm)** `LLM`, `Core` (⭐ 293)
-   - By sebg | 103 points
-   - Source: hackernews
-
-12. **[New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)** `RL`, `Core` (⭐ 187)
-   - By champagnepapi | 57 points
-   - Source: hackernews
-
-13. **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `LLM`, `Vision`, `Core` (⭐ 163)
+5. **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `LLM`, `Vision`, `Core` (⭐ 735)
    - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+   - Source: github
+
+6. **[Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)** `NLP`, `Framework` (⭐ 473)
+   - By aagha | 203 points
+   - Source: hackernews
+
+7. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 268)
+   - Graph-Native Infrastructure for Context and Accountable AI Systems
+   - Source: github
+
+8. **[unclebob/swarm-forge](https://github.com/unclebob/swarm-forge)** `RL`, `Core` (⭐ 167)
+   - A simple tool for coordinating several AI agents.
    - Source: github
 
 
