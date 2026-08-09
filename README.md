@@ -14,38 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-08
+### 2026-08-09
 
-1. **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** `RL`, `Robotics`, `Core` (⭐ 4235)
+1. **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** `RL`, `Robotics`, `Core` (⭐ 4577)
    - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
    - Source: github
 
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3895)
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2467)
    - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-3. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 2093)
+3. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1459)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1432)
-   - An agentic skills framework & software development methodology that works.
+4. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 389)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
    - Source: github
 
-5. **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `LLM`, `Vision`, `Core` (⭐ 735)
-   - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-   - Source: github
-
-6. **[Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)** `NLP`, `Framework` (⭐ 473)
-   - By aagha | 203 points
+5. **[The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)** `RL`, `Core` (⭐ 323)
+   - By doubletwoyou | 133 points
    - Source: hackernews
 
-7. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 268)
-   - Graph-Native Infrastructure for Context and Accountable AI Systems
-   - Source: github
-
-8. **[unclebob/swarm-forge](https://github.com/unclebob/swarm-forge)** `RL`, `Core` (⭐ 167)
-   - A simple tool for coordinating several AI agents.
+6. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 320)
+   - 所有小初高、大学PDF教材。
    - Source: github
 
 
