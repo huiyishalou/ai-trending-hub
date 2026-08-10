@@ -14,31 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-09
+### 2026-08-10
 
-1. **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** `RL`, `Robotics`, `Core` (⭐ 4577)
+1. **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** `RL`, `Robotics`, `Core` (⭐ 4349)
    - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
    - Source: github
 
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2467)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-3. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1459)
+2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1281)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-4. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 389)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+3. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 605)
+   - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
    - Source: github
 
-5. **[The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)** `RL`, `Core` (⭐ 323)
-   - By doubletwoyou | 133 points
+4. **[Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)** `Vision`, `Research` (⭐ 199)
+   - By dango2506 | 57 points
    - Source: hackernews
 
-6. **[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** `NLP`, `RL` (⭐ 320)
-   - 所有小初高、大学PDF教材。
+5. **[harveyai/harvey-labs](https://github.com/harveyai/harvey-labs)** `RL`, `Research`, `Core` (⭐ 154)
+   - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
    - Source: github
+
+6. **[The Philippines' big offshoring industry is growing despite AI](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)** `NLP`, `Core` (⭐ 139)
+   - By nlpnerd | 49 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
