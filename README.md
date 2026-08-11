@@ -14,30 +14,38 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-10
+### 2026-08-11
 
-1. **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** `RL`, `Robotics`, `Core` (⭐ 4349)
+1. **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** `RL`, `Robotics`, `Core` (⭐ 4864)
    - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
    - Source: github
 
-2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1281)
+2. **[Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)** `RL`, `Core` (⭐ 2077)
+   - By riordan | 1107 points
+   - Source: hackernews
+
+3. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 1794)
+   - Graph-Native Infrastructure for Context and Accountable AI Systems
+   - Source: github
+
+4. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1243)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-3. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 605)
-   - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-   - Source: github
-
-4. **[Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)** `Vision`, `Research` (⭐ 199)
-   - By dango2506 | 57 points
+5. **[Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)** `LLM`, `RL`, `Robotics` (⭐ 742)
+   - By HenryNdubuaku | 319 points
    - Source: hackernews
 
-5. **[harveyai/harvey-labs](https://github.com/harveyai/harvey-labs)** `RL`, `Research`, `Core` (⭐ 154)
-   - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
+6. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 440)
+   - The open-source app everyone uses to manage agents at work
    - Source: github
 
-6. **[The Philippines' big offshoring industry is growing despite AI](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)** `NLP`, `Core` (⭐ 139)
-   - By nlpnerd | 49 points
+7. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 433)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+   - Source: github
+
+8. **[How Claude marks AI-generated content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)** `LLM`, `Core` (⭐ 409)
+   - By mfiguiere | 167 points
    - Source: hackernews
 
 
