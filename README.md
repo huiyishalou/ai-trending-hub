@@ -14,39 +14,51 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-11
+### 2026-08-12
 
-1. **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** `RL`, `Robotics`, `Core` (⭐ 4864)
+1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 2936)
+   - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+   - Source: github
+
+2. **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** `RL`, `Robotics`, `Core` (⭐ 2156)
    - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
    - Source: github
 
-2. **[Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)** `RL`, `Core` (⭐ 2077)
-   - By riordan | 1107 points
-   - Source: hackernews
-
-3. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 1794)
+3. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 1655)
    - Graph-Native Infrastructure for Context and Accountable AI Systems
    - Source: github
 
-4. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1243)
-   - Production-grade engineering skills for AI coding agents.
+4. **[stablyai/orca](https://github.com/stablyai/orca)** `RL`, `Core` (⭐ 1623)
+   - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
    - Source: github
 
-5. **[Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)** `LLM`, `RL`, `Robotics` (⭐ 742)
-   - By HenryNdubuaku | 319 points
-   - Source: hackernews
-
-6. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 440)
+5. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 1430)
    - The open-source app everyone uses to manage agents at work
    - Source: github
 
-7. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 433)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+6. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1097)
+   - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-8. **[How Claude marks AI-generated content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)** `LLM`, `Core` (⭐ 409)
-   - By mfiguiere | 167 points
+7. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 857)
+   - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+   - Source: github
+
+8. **[WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)** `RL` (⭐ 494)
+   - By EwanG | 221 points
    - Source: hackernews
+
+9. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 491)
+   - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+   - Source: github
+
+10. **[huggingface/transformers](https://github.com/huggingface/transformers)** `Vision`, `NLP`, `Framework`, `Core` (⭐ 279)
+   - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+   - Source: github
+
+11. **[harveyai/harvey-labs](https://github.com/harveyai/harvey-labs)** `RL`, `Research`, `Core` (⭐ 119)
+   - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
+   - Source: github
 
 
 <!-- TRENDING_END -->
