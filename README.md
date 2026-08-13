@@ -14,50 +14,58 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-12
+### 2026-08-13
 
-1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 2936)
+1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 5166)
    - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
    - Source: github
 
-2. **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** `RL`, `Robotics`, `Core` (⭐ 2156)
-   - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-   - Source: github
-
-3. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 1655)
-   - Graph-Native Infrastructure for Context and Accountable AI Systems
-   - Source: github
-
-4. **[stablyai/orca](https://github.com/stablyai/orca)** `RL`, `Core` (⭐ 1623)
+2. **[stablyai/orca](https://github.com/stablyai/orca)** `RL`, `Core` (⭐ 2271)
    - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
    - Source: github
 
-5. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 1430)
+3. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 1569)
+   - Graph-Native Infrastructure for Context and Accountable AI Systems
+   - Source: github
+
+4. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 1112)
    - The open-source app everyone uses to manage agents at work
    - Source: github
 
-6. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1097)
-   - Production-grade engineering skills for AI coding agents.
+5. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** `RL`, `Core` (⭐ 878)
+   - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
    - Source: github
 
-7. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 857)
-   - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-   - Source: github
-
-8. **[WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)** `RL` (⭐ 494)
-   - By EwanG | 221 points
+6. **[Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights)** `LLM`, `Core` (⭐ 603)
+   - By gavinhking | 275 points
    - Source: hackernews
 
-9. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 491)
-   - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+7. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `Robotics`, `Core` (⭐ 588)
+   - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
    - Source: github
 
-10. **[huggingface/transformers](https://github.com/huggingface/transformers)** `Vision`, `NLP`, `Framework`, `Core` (⭐ 279)
-   - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+8. **[macro-inc/macro](https://github.com/macro-inc/macro)** `RL`, `Core` (⭐ 430)
+   - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
    - Source: github
 
-11. **[harveyai/harvey-labs](https://github.com/harveyai/harvey-labs)** `RL`, `Research`, `Core` (⭐ 119)
-   - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
+9. **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)** `RL`, `Core` (⭐ 329)
+   - By advaith08 | 136 points
+   - Source: hackernews
+
+10. **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `LLM`, `NLP`, `RL`, `Tools` (⭐ 319)
+   - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+   - Source: github
+
+11. **[ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)** `LLM` (⭐ 311)
+   - By allanrbo | 93 points
+   - Source: hackernews
+
+12. **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** `Core` (⭐ 144)
+   - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
+   - Source: github
+
+13. **[embabel/embabel-agent](https://github.com/embabel/embabel-agent)** `Framework`, `RL` (⭐ 132)
+   - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
    - Source: github
 
 
