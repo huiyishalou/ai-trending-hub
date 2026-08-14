@@ -14,58 +14,54 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-13
+### 2026-08-14
 
-1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 5166)
+1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 8082)
    - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
    - Source: github
 
-2. **[stablyai/orca](https://github.com/stablyai/orca)** `RL`, `Core` (⭐ 2271)
-   - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-   - Source: github
-
-3. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 1569)
-   - Graph-Native Infrastructure for Context and Accountable AI Systems
-   - Source: github
-
-4. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 1112)
-   - The open-source app everyone uses to manage agents at work
-   - Source: github
-
-5. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** `RL`, `Core` (⭐ 878)
-   - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-   - Source: github
-
-6. **[Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights)** `LLM`, `Core` (⭐ 603)
-   - By gavinhking | 275 points
-   - Source: hackernews
-
-7. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `Robotics`, `Core` (⭐ 588)
-   - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-   - Source: github
-
-8. **[macro-inc/macro](https://github.com/macro-inc/macro)** `RL`, `Core` (⭐ 430)
+2. **[macro-inc/macro](https://github.com/macro-inc/macro)** `RL`, `Core` (⭐ 2251)
    - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
    - Source: github
 
-9. **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)** `RL`, `Core` (⭐ 329)
-   - By advaith08 | 136 points
-   - Source: hackernews
+3. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `Robotics`, `Core` (⭐ 1405)
+   - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+   - Source: github
 
-10. **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `LLM`, `NLP`, `RL`, `Tools` (⭐ 319)
+4. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 1331)
+   - Graph-Native Infrastructure for Context and Accountable AI Systems
+   - Source: github
+
+5. **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `LLM`, `NLP`, `RL`, `Tools` (⭐ 906)
    - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
    - Source: github
 
-11. **[ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)** `LLM` (⭐ 311)
-   - By allanrbo | 93 points
+6. **[NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)** `LLM`, `Research`, `Core` (⭐ 788)
+   - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+   - Source: github
+
+7. **[Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)** `LLM`, `Vision` (⭐ 740)
+   - By spelk | 338 points
    - Source: hackernews
 
-12. **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** `Core` (⭐ 144)
+8. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** `LLM`, `Vision`, `Core` (⭐ 704)
+   - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+   - Source: github
+
+9. **[holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS)** `LLM`, `RL`, `Core` (⭐ 509)
+   - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
+   - Source: github
+
+10. **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** `Core` (⭐ 396)
    - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
    - Source: github
 
-13. **[embabel/embabel-agent](https://github.com/embabel/embabel-agent)** `Framework`, `RL` (⭐ 132)
-   - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+11. **[How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)** `LLM`, `Core` (⭐ 371)
+   - By malshe | 106 points
+   - Source: hackernews
+
+12. **[lightningpixel/modly](https://github.com/lightningpixel/modly)** `Vision`, `Core` (⭐ 245)
+   - Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
    - Source: github
 
 
