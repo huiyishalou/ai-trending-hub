@@ -14,55 +14,59 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-14
+### 2026-08-15
 
-1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 8082)
+1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 6590)
    - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
    - Source: github
 
-2. **[macro-inc/macro](https://github.com/macro-inc/macro)** `RL`, `Core` (⭐ 2251)
-   - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-   - Source: github
-
-3. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `Robotics`, `Core` (⭐ 1405)
-   - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-   - Source: github
-
-4. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 1331)
+2. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 2174)
    - Graph-Native Infrastructure for Context and Accountable AI Systems
    - Source: github
 
-5. **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `LLM`, `NLP`, `RL`, `Tools` (⭐ 906)
-   - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-   - Source: github
-
-6. **[NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)** `LLM`, `Research`, `Core` (⭐ 788)
-   - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
-   - Source: github
-
-7. **[Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)** `LLM`, `Vision` (⭐ 740)
-   - By spelk | 338 points
-   - Source: hackernews
-
-8. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** `LLM`, `Vision`, `Core` (⭐ 704)
-   - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
-   - Source: github
-
-9. **[holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS)** `LLM`, `RL`, `Core` (⭐ 509)
+3. **[holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS)** `LLM`, `RL`, `Core` (⭐ 1459)
    - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
    - Source: github
 
-10. **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** `Core` (⭐ 396)
-   - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
+4. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `Robotics`, `Core` (⭐ 1213)
+   - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
    - Source: github
 
-11. **[How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)** `LLM`, `Core` (⭐ 371)
-   - By malshe | 106 points
+5. **[lightningpixel/modly](https://github.com/lightningpixel/modly)** `Vision`, `Core`, `Tools` (⭐ 1081)
+   - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
+   - Source: github
+
+6. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** `LLM`, `Vision`, `Core` (⭐ 1016)
+   - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+   - Source: github
+
+7. **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `LLM`, `NLP`, `RL`, `Tools` (⭐ 920)
+   - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+   - Source: github
+
+8. **[macro-inc/macro](https://github.com/macro-inc/macro)** `RL`, `Core` (⭐ 806)
+   - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+   - Source: github
+
+9. **[deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)** `LLM`, `RL`, `Core` (⭐ 556)
+   - No description
+   - Source: github
+
+10. **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** `LLM`, `RL`, `Core` (⭐ 336)
+   - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+   - Source: github
+
+11. **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** `RL`, `Core` (⭐ 259)
+   - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+   - Source: github
+
+12. **[Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)** `RL`, `Research` (⭐ 208)
+   - By lajosdeme | 69 points
    - Source: hackernews
 
-12. **[lightningpixel/modly](https://github.com/lightningpixel/modly)** `Vision`, `Core` (⭐ 245)
-   - Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
-   - Source: github
+13. **[Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)** `LLM`, `NLP` (⭐ 161)
+   - By chatchan | 16 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
