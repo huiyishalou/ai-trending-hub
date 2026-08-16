@@ -14,58 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-15
+### 2026-08-16
 
-1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 6590)
+1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 2920)
    - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
    - Source: github
 
-2. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** `NLP`, `Core`, `Tools` (⭐ 2174)
-   - Graph-Native Infrastructure for Context and Accountable AI Systems
-   - Source: github
-
-3. **[holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS)** `LLM`, `RL`, `Core` (⭐ 1459)
-   - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
-   - Source: github
-
-4. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `Robotics`, `Core` (⭐ 1213)
-   - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-   - Source: github
-
-5. **[lightningpixel/modly](https://github.com/lightningpixel/modly)** `Vision`, `Core`, `Tools` (⭐ 1081)
-   - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
-   - Source: github
-
-6. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** `LLM`, `Vision`, `Core` (⭐ 1016)
-   - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
-   - Source: github
-
-7. **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `LLM`, `NLP`, `RL`, `Tools` (⭐ 920)
-   - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-   - Source: github
-
-8. **[macro-inc/macro](https://github.com/macro-inc/macro)** `RL`, `Core` (⭐ 806)
-   - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-   - Source: github
-
-9. **[deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)** `LLM`, `RL`, `Core` (⭐ 556)
-   - No description
-   - Source: github
-
-10. **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** `LLM`, `RL`, `Core` (⭐ 336)
+2. **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** `LLM`, `RL`, `Core` (⭐ 1020)
    - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
    - Source: github
 
-11. **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** `RL`, `Core` (⭐ 259)
+3. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `Robotics`, `Core` (⭐ 1006)
+   - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+   - Source: github
+
+4. **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** `RL`, `Core` (⭐ 1000)
    - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
    - Source: github
 
-12. **[Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)** `RL`, `Research` (⭐ 208)
-   - By lajosdeme | 69 points
-   - Source: hackernews
+5. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** `LLM`, `Vision`, `Core` (⭐ 895)
+   - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+   - Source: github
 
-13. **[Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)** `LLM`, `NLP` (⭐ 161)
-   - By chatchan | 16 points
+6. **[MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)** `LLM`, `Core`, `Tools` (⭐ 577)
+   - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+   - Source: github
+
+7. **[What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)** `LLM`, `Core` (⭐ 187)
+   - By porridgeraisin | 59 points
    - Source: hackernews
 
 
