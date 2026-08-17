@@ -14,34 +14,26 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-16
+### 2026-08-17
 
-1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 2920)
-   - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-   - Source: github
+1. **[Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)** `LLM`, `Tools` (⭐ 1253)
+   - By tosh | 643 points
+   - Source: hackernews
 
-2. **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** `LLM`, `RL`, `Core` (⭐ 1020)
-   - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-   - Source: github
-
-3. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `Robotics`, `Core` (⭐ 1006)
-   - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-   - Source: github
-
-4. **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** `RL`, `Core` (⭐ 1000)
-   - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-   - Source: github
-
-5. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** `LLM`, `Vision`, `Core` (⭐ 895)
+2. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** `LLM`, `Vision`, `Core` (⭐ 1144)
    - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
    - Source: github
 
-6. **[MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)** `LLM`, `Core`, `Tools` (⭐ 577)
-   - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+3. **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** `RL`, `Core` (⭐ 835)
+   - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
    - Source: github
 
-7. **[What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)** `LLM`, `Core` (⭐ 187)
-   - By porridgeraisin | 59 points
+4. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `Robotics`, `Core` (⭐ 818)
+   - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+   - Source: github
+
+5. **[Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)** `LLM`, `NLP` (⭐ 533)
+   - By ropbear | 223 points
    - Source: hackernews
 
 
