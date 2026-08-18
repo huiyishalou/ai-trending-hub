@@ -14,27 +14,39 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-17
+### 2026-08-18
 
-1. **[Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)** `LLM`, `Tools` (⭐ 1253)
-   - By tosh | 643 points
+1. **[GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)** `LLM`, `Vision`, `Core` (⭐ 811)
+   - By plurby | 337 points
    - Source: hackernews
 
-2. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** `LLM`, `Vision`, `Core` (⭐ 1144)
-   - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
-   - Source: github
-
-3. **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** `RL`, `Core` (⭐ 835)
-   - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-   - Source: github
-
-4. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `Robotics`, `Core` (⭐ 818)
-   - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-   - Source: github
-
-5. **[Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)** `LLM`, `NLP` (⭐ 533)
-   - By ropbear | 223 points
+2. **[AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)** `LLM`, `Core` (⭐ 769)
+   - By galnagli | 367 points
    - Source: hackernews
+
+3. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 443)
+   - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+   - Source: github
+
+4. **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** `LLM`, `Core` (⭐ 437)
+   - Hundreds of models & providers. One command to find what runs on your hardware.
+   - Source: github
+
+5. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 421)
+   - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+   - Source: github
+
+6. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 419)
+   - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+   - Source: github
+
+7. **[Judge sets framework for Nine PBS to retrieve archival data](https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/)** `Framework`, `RL` (⭐ 353)
+   - By qingcharles | 163 points
+   - Source: hackernews
+
+8. **[jundot/omlx](https://github.com/jundot/omlx)** `LLM`, `Core` (⭐ 167)
+   - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+   - Source: github
 
 
 <!-- TRENDING_END -->
