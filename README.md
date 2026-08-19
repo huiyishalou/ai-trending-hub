@@ -14,39 +14,27 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-18
+### 2026-08-19
 
-1. **[GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)** `LLM`, `Vision`, `Core` (⭐ 811)
-   - By plurby | 337 points
-   - Source: hackernews
-
-2. **[AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)** `LLM`, `Core` (⭐ 769)
-   - By galnagli | 367 points
-   - Source: hackernews
-
-3. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 443)
+1. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 1401)
    - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
    - Source: github
 
-4. **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** `LLM`, `Core` (⭐ 437)
-   - Hundreds of models & providers. One command to find what runs on your hardware.
-   - Source: github
-
-5. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 421)
+2. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 1214)
    - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
    - Source: github
 
-6. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 419)
-   - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
-   - Source: github
-
-7. **[Judge sets framework for Nine PBS to retrieve archival data](https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/)** `Framework`, `RL` (⭐ 353)
-   - By qingcharles | 163 points
-   - Source: hackernews
-
-8. **[jundot/omlx](https://github.com/jundot/omlx)** `LLM`, `Core` (⭐ 167)
+3. **[jundot/omlx](https://github.com/jundot/omlx)** `LLM`, `Core` (⭐ 693)
    - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
    - Source: github
+
+4. **[chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** `RL`, `Core` (⭐ 599)
+   - local multi-agent harness
+   - Source: github
+
+5. **[Claude writing a macOS driver for my obscure HP printer built only for Windows](https://twitter.com/kuberwastaken/status/2089377982536388964)** `LLM`, `Core` (⭐ 427)
+   - By porridgeraisin | 192 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
