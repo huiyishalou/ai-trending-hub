@@ -14,27 +14,39 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-19
+### 2026-08-20
 
-1. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 1401)
-   - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3430)
+   - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-2. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 1214)
-   - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-   - Source: github
-
-3. **[jundot/omlx](https://github.com/jundot/omlx)** `LLM`, `Core` (⭐ 693)
-   - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-   - Source: github
-
-4. **[chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** `RL`, `Core` (⭐ 599)
+2. **[chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** `RL`, `Core` (⭐ 1479)
    - local multi-agent harness
    - Source: github
 
-5. **[Claude writing a macOS driver for my obscure HP printer built only for Windows](https://twitter.com/kuberwastaken/status/2089377982536388964)** `LLM`, `Core` (⭐ 427)
-   - By porridgeraisin | 192 points
+3. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 1466)
+   - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+   - Source: github
+
+4. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 1139)
+   - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+   - Source: github
+
+5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1027)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+6. **[jundot/omlx](https://github.com/jundot/omlx)** `LLM`, `Core` (⭐ 877)
+   - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+   - Source: github
+
+7. **[Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)** `RL` (⭐ 537)
+   - By fg137 | 245 points
    - Source: hackernews
+
+8. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 383)
+   - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+   - Source: github
 
 
 <!-- TRENDING_END -->
