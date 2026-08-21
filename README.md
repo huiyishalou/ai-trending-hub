@@ -14,39 +14,43 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-20
+### 2026-08-21
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3430)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3967)
    - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-2. **[chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** `RL`, `Core` (⭐ 1479)
-   - local multi-agent harness
+2. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 1496)
+   - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
    - Source: github
 
-3. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** `LLM`, `Framework`, `RL`, `Core` (⭐ 1466)
-   - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-   - Source: github
-
-4. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 1139)
-   - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-   - Source: github
-
-5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1027)
+3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1333)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-6. **[jundot/omlx](https://github.com/jundot/omlx)** `LLM`, `Core` (⭐ 877)
-   - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+4. **[chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** `RL`, `Core` (⭐ 961)
+   - local multi-agent harness
    - Source: github
 
-7. **[Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)** `RL` (⭐ 537)
-   - By fg137 | 245 points
+5. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 646)
+   - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+   - Source: github
+
+6. **[Vomit: Clean up Claude 5's token output with a separate LLM](https://github.com/zachahn/vomit)** `LLM` (⭐ 590)
+   - By Bluestein | 248 points
    - Source: hackernews
 
-8. **[santifer/career-ops](https://github.com/santifer/career-ops)** `LLM`, `Core` (⭐ 383)
-   - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+7. **[Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)** `LLM`, `RL`, `Research`, `Core` (⭐ 165)
+   - A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
    - Source: github
+
+8. **[PostHog/posthog](https://github.com/PostHog/posthog)** `NLP`, `RL`, `Core` (⭐ 156)
+   - 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+   - Source: github
+
+9. **[Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](https://Argentic.network)** `RL`, `Core` (⭐ 97)
+   - By Ag0146 | 7 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
