@@ -14,43 +14,67 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-23
+### 2026-08-24
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 4850)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-2. **[openai/codex](https://github.com/openai/codex)** `RL`, `Core` (⭐ 2827)
+1. **[openai/codex](https://github.com/openai/codex)** `RL`, `Core` (⭐ 4935)
    - Lightweight coding agent that runs in your terminal
    - Source: github
 
-3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1090)
-   - An agentic skills framework & software development methodology that works.
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 4426)
+   - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-4. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 788)
+3. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** `LLM`, `RL` (⭐ 2030)
+   - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+   - Source: github
+
+4. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 901)
+   - The agent that grows with you
+   - Source: github
+
+5. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 860)
+   - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+   - Source: github
+
+6. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 817)
    - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-5. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 639)
-   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+7. **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** `LLM`, `Research` (⭐ 778)
+   - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
    - Source: github
 
-6. **[PostHog/posthog](https://github.com/PostHog/posthog)** `NLP`, `RL`, `Core` (⭐ 563)
-   - 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+8. **[My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)** `LLM`, `RL` (⭐ 658)
+   - By ibobev | 299 points
+   - Source: hackernews
+
+9. **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** `LLM`, `RL` (⭐ 365)
+   - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
    - Source: github
 
-7. **[Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)** `LLM`, `Core` (⭐ 545)
-   - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+10. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 293)
+   - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
    - Source: github
 
-8. **[Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)** `LLM`, `RL`, `Research`, `Core` (⭐ 345)
-   - A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
+11. **[OCR It – pull text out of un-copyable documents for your LLM](https://github.com/thiagotigaz/ocr-it)** `LLM`, `Vision`, `NLP` (⭐ 224)
+   - By thiagolima | 18 points
+   - Source: hackernews
+
+12. **[Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)** `LLM`, `Core` (⭐ 221)
+   - By porridgeraisin | 78 points
+   - Source: hackernews
+
+13. **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** `RL`, `Research`, `Core` (⭐ 127)
+   - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
    - Source: github
 
-9. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 337)
-   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+14. **[apache/maka](https://github.com/apache/maka)** `RL`, `Core` (⭐ 122)
+   - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
    - Source: github
+
+15. **[LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent](https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md)** `LLM`, `Core` (⭐ 119)
+   - By offaxis | 6 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
