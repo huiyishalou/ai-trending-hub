@@ -14,59 +14,59 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-25
+### 2026-08-26
 
-1. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 4546)
+1. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 3194)
    - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
    - Source: github
 
-2. **[openai/codex](https://github.com/openai/codex)** `RL`, `Core` (⭐ 3637)
-   - Lightweight coding agent that runs in your terminal
-   - Source: github
-
-3. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 1697)
-   - The agent that grows with you
-   - Source: github
-
-4. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** `LLM`, `RL` (⭐ 1688)
-   - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
-   - Source: github
-
-5. **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** `LLM`, `RL` (⭐ 1168)
-   - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
-   - Source: github
-
-6. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 1130)
-   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-   - Source: github
-
-7. **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** `RL`, `Research`, `Core` (⭐ 984)
-   - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
-   - Source: github
-
-8. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 847)
+2. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 2343)
    - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
    - Source: github
 
-9. **[apache/maka](https://github.com/apache/maka)** `RL`, `Core` (⭐ 770)
-   - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+3. **[openai/codex](https://github.com/openai/codex)** `RL`, `Core` (⭐ 2174)
+   - Lightweight coding agent that runs in your terminal
    - Source: github
 
-10. **[AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)** `LLM`, `Core` (⭐ 657)
+4. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 1816)
+   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+   - Source: github
+
+5. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 1566)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   - Source: github
+
+6. **[AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)** `LLM`, `Core` (⭐ 1562)
    - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
    - Source: github
 
-11. **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** `LLM`, `Core` (⭐ 403)
-   - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+7. **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** `RL`, `Research`, `Core` (⭐ 1033)
+   - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
    - Source: github
 
-12. **[LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)** `LLM`, `Robotics`, `Core` (⭐ 401)
-   - By zdw | 136 points
+8. **[apache/maka](https://github.com/apache/maka)** `RL`, `Core` (⭐ 1007)
+   - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+   - Source: github
+
+9. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 506)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+   - Source: github
+
+10. **[marin-community/marin](https://github.com/marin-community/marin)** `Framework`, `Research`, `Core` (⭐ 446)
+   - Open-source framework for the research and development of foundation models.
+   - Source: github
+
+11. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 389)
+   - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+   - Source: github
+
+12. **[Show HN: I made a Raspberry with Qwen my local car AI](https://github.com/ThinkOffApp/CarWatch)** `LLM`, `Core` (⭐ 351)
+   - By petruspennanen | 135 points
    - Source: hackernews
 
-13. **[PostHog/posthog](https://github.com/PostHog/posthog)** `NLP`, `RL`, `Core` (⭐ 197)
-   - 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-   - Source: github
+13. **[Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503)** `NLP`, `RL` (⭐ 198)
+   - By gdad | 50 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
