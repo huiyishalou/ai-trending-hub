@@ -14,55 +14,51 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-27
+### 2026-08-28
 
-1. **[tt-a1i/archify](https://github.com/tt-a1i/archify)** `RL`, `Core` (⭐ 7689)
+1. **[tt-a1i/archify](https://github.com/tt-a1i/archify)** `RL`, `Core` (⭐ 8231)
    - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
    - Source: github
 
-2. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 3905)
+2. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 3175)
    - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
    - Source: github
 
-3. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 2946)
+3. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 2561)
    - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
    - Source: github
 
-4. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 2344)
+4. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 2092)
    - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
    - Source: github
 
-5. **[AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)** `LLM`, `Core` (⭐ 1235)
-   - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
+5. **[tailscale/tailcat](https://github.com/tailscale/tailcat)** `Robotics`, `Core` (⭐ 1823)
+   - like netcat, but over Tailscale's data plane, without Tailscale's control plane
    - Source: github
 
-6. **[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)** `Vision` (⭐ 773)
-   - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
-   - Source: github
-
-7. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 695)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
-   - Source: github
-
-8. **[JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)** `RL`, `Core` (⭐ 613)
+6. **[JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)** `RL`, `Core` (⭐ 1081)
    - Help AI coding agents write modern Go
    - Source: github
 
-9. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 612)
-   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+7. **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** `LLM`, `Core` (⭐ 949)
+   - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
    - Source: github
 
-10. **[marin-community/marin](https://github.com/marin-community/marin)** `Framework`, `Research`, `Core` (⭐ 489)
+8. **[marin-community/marin](https://github.com/marin-community/marin)** `Framework`, `Research`, `Core` (⭐ 455)
    - Open-source framework for the research and development of foundation models.
    - Source: github
 
-11. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** `LLM`, `Core` (⭐ 306)
-   - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-   - Source: github
-
-12. **[MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://aiandeducation.mit.edu/report/)** `Research`, `Core` (⭐ 250)
-   - By pbui | 79 points
+9. **[Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment](https://arxiv.org/abs/2608.23691)** `RL`, `Robotics` (⭐ 211)
+   - By stephenchung | 37 points
    - Source: hackernews
+
+10. **[Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai)** `LLM`, `Core` (⭐ 117)
+   - By sudhendra1 | 5 points
+   - Source: hackernews
+
+11. **[livekit/agents](https://github.com/livekit/agents)** `Framework`, `RL`, `Core` (⭐ 94)
+   - A framework for building realtime voice AI agents 🤖🎙️📹
+   - Source: github
 
 
 <!-- TRENDING_END -->
