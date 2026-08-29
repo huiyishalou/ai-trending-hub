@@ -14,50 +14,42 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-28
+### 2026-08-29
 
-1. **[tt-a1i/archify](https://github.com/tt-a1i/archify)** `RL`, `Core` (⭐ 8231)
+1. **[tt-a1i/archify](https://github.com/tt-a1i/archify)** `RL`, `Core` (⭐ 7090)
    - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
    - Source: github
 
-2. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 3175)
-   - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-   - Source: github
-
-3. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 2561)
+2. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 2156)
    - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
    - Source: github
 
-4. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 2092)
+3. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 1519)
+   - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+   - Source: github
+
+4. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 1489)
    - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
    - Source: github
 
-5. **[tailscale/tailcat](https://github.com/tailscale/tailcat)** `Robotics`, `Core` (⭐ 1823)
+5. **[tailscale/tailcat](https://github.com/tailscale/tailcat)** `Robotics`, `Core` (⭐ 1470)
    - like netcat, but over Tailscale's data plane, without Tailscale's control plane
    - Source: github
 
-6. **[JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)** `RL`, `Core` (⭐ 1081)
-   - Help AI coding agents write modern Go
-   - Source: github
-
-7. **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** `LLM`, `Core` (⭐ 949)
+6. **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** `LLM`, `Core` (⭐ 1192)
    - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
    - Source: github
 
-8. **[marin-community/marin](https://github.com/marin-community/marin)** `Framework`, `Research`, `Core` (⭐ 455)
-   - Open-source framework for the research and development of foundation models.
+7. **[JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)** `RL`, `Core` (⭐ 577)
+   - Help AI coding agents write modern Go
    - Source: github
 
-9. **[Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment](https://arxiv.org/abs/2608.23691)** `RL`, `Robotics` (⭐ 211)
-   - By stephenchung | 37 points
-   - Source: hackernews
-
-10. **[Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai)** `LLM`, `Core` (⭐ 117)
-   - By sudhendra1 | 5 points
-   - Source: hackernews
-
-11. **[livekit/agents](https://github.com/livekit/agents)** `Framework`, `RL`, `Core` (⭐ 94)
+8. **[livekit/agents](https://github.com/livekit/agents)** `Framework`, `RL`, `Core` (⭐ 530)
    - A framework for building realtime voice AI agents 🤖🎙️📹
+   - Source: github
+
+9. **[marin-community/marin](https://github.com/marin-community/marin)** `Framework`, `Research`, `Core` (⭐ 323)
+   - Open-source framework for the research and development of foundation models.
    - Source: github
 
 
