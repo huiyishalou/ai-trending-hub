@@ -14,43 +14,43 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-29
+### 2026-08-30
 
-1. **[tt-a1i/archify](https://github.com/tt-a1i/archify)** `RL`, `Core` (⭐ 7090)
+1. **[tt-a1i/archify](https://github.com/tt-a1i/archify)** `RL`, `Core` (⭐ 6735)
    - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
    - Source: github
 
-2. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 2156)
-   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+2. **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** `RL`, `Core` (⭐ 1681)
+   - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
    - Source: github
 
-3. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 1519)
-   - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-   - Source: github
-
-4. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 1489)
-   - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-   - Source: github
-
-5. **[tailscale/tailcat](https://github.com/tailscale/tailcat)** `Robotics`, `Core` (⭐ 1470)
-   - like netcat, but over Tailscale's data plane, without Tailscale's control plane
-   - Source: github
-
-6. **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** `LLM`, `Core` (⭐ 1192)
+3. **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** `LLM`, `Core` (⭐ 999)
    - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
    - Source: github
 
-7. **[JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)** `RL`, `Core` (⭐ 577)
-   - Help AI coding agents write modern Go
+4. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 520)
+   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
 
-8. **[livekit/agents](https://github.com/livekit/agents)** `Framework`, `RL`, `Core` (⭐ 530)
+5. **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `LLM`, `Core` (⭐ 466)
+   - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+   - Source: github
+
+6. **[pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl)** `RL`, `Robotics`, `Core` (⭐ 427)
+   - RL training environments for Microduck (mjlab)
+   - Source: github
+
+7. **[livekit/agents](https://github.com/livekit/agents)** `Framework`, `RL`, `Core` (⭐ 305)
    - A framework for building realtime voice AI agents 🤖🎙️📹
    - Source: github
 
-9. **[marin-community/marin](https://github.com/marin-community/marin)** `Framework`, `Research`, `Core` (⭐ 323)
-   - Open-source framework for the research and development of foundation models.
+8. **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `NLP`, `Core` (⭐ 294)
+   - Fully automatic censorship removal for language models
    - Source: github
+
+9. **[Claude Session URL appended to commit messages and PR descriptions by default](https://github.com/anthropics/claude-code/issues/66504)** `LLM`, `RL` (⭐ 221)
+   - By sparsesignal | 56 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
