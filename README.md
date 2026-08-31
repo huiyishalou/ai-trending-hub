@@ -14,42 +14,66 @@
 
 <!-- TRENDING_START -->
 
-### 2026-08-30
+### 2026-08-31
 
-1. **[tt-a1i/archify](https://github.com/tt-a1i/archify)** `RL`, `Core` (⭐ 6735)
+1. **[tt-a1i/archify](https://github.com/tt-a1i/archify)** `RL`, `Core` (⭐ 7208)
    - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
    - Source: github
 
-2. **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** `RL`, `Core` (⭐ 1681)
+2. **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** `RL`, `Core` (⭐ 5122)
    - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
    - Source: github
 
-3. **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** `LLM`, `Core` (⭐ 999)
-   - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+3. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** `LLM`, `RL`, `Research`, `Core` (⭐ 2638)
+   - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
    - Source: github
 
-4. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 520)
-   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+4. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1034)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-5. **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `LLM`, `Core` (⭐ 466)
-   - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-   - Source: github
-
-6. **[pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl)** `RL`, `Robotics`, `Core` (⭐ 427)
-   - RL training environments for Microduck (mjlab)
-   - Source: github
-
-7. **[livekit/agents](https://github.com/livekit/agents)** `Framework`, `RL`, `Core` (⭐ 305)
-   - A framework for building realtime voice AI agents 🤖🎙️📹
-   - Source: github
-
-8. **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `NLP`, `Core` (⭐ 294)
+5. **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `NLP`, `Core` (⭐ 989)
    - Fully automatic censorship removal for language models
    - Source: github
 
-9. **[Claude Session URL appended to commit messages and PR descriptions by default](https://github.com/anthropics/claude-code/issues/66504)** `LLM`, `RL` (⭐ 221)
-   - By sparsesignal | 56 points
+6. **[kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)** `Research`, `Core`, `Tools` (⭐ 883)
+   - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.
+   - Source: github
+
+7. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `LLM`, `Core` (⭐ 877)
+   - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+   - Source: github
+
+8. **[pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl)** `RL`, `Robotics`, `Core` (⭐ 853)
+   - RL training environments for Microduck (mjlab)
+   - Source: github
+
+9. **[Osmantic/ODS](https://github.com/Osmantic/ODS)** `LLM`, `Vision`, `RL`, `Core`, `Tools` (⭐ 680)
+   - Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
+   - Source: github
+
+10. **[How to build a diffusion language model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/)** `Vision`, `NLP`, `Core` (⭐ 440)
+   - By volodia | 158 points
+   - Source: hackernews
+
+11. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 385)
+   - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+   - Source: github
+
+12. **[ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)** `LLM` (⭐ 265)
+   - By ijidak | 67 points
+   - Source: hackernews
+
+13. **[Navigation App for People with Blindness and Low Vision](https://seas.harvard.edu/news/smartphone-navigation-app-people-blindness-and-low-vision)** `Vision`, `Robotics` (⭐ 121)
+   - By geox | 7 points
+   - Source: hackernews
+
+14. **[Agentic Trust Controls](https://trustcontrols.ai/)** `RL`, `Robotics` (⭐ 116)
+   - By mooreds | 11 points
+   - Source: hackernews
+
+15. **[Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines](https://github.com/Hebbian-Robotics/hflow)** `Robotics` (⭐ 112)
+   - By kstonekuan | 9 points
    - Source: hackernews
 
 
