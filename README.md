@@ -14,47 +14,67 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-01
+### 2026-09-02
 
-1. **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** `RL`, `Core` (⭐ 5668)
-   - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+1. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 2503)
+   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
    - Source: github
 
-2. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `LLM`, `Core` (⭐ 1836)
-   - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2006)
+   - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1166)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+3. **[pacifio/atlas](https://github.com/pacifio/atlas)** `RL`, `Robotics` (⭐ 1635)
+   - Source control for agents. Use multiple coding agents, track their changes and query them in one place
    - Source: github
 
-4. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 1008)
-   - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-   - Source: github
-
-5. **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `LLM`, `Core` (⭐ 983)
-   - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-   - Source: github
-
-6. **[Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)** `Vision`, `Research` (⭐ 609)
-   - By Anon84 | 285 points
-   - Source: hackernews
-
-7. **[Cheap GPS jammers are filling the world with navigation dead zones](https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261)** `RL`, `Robotics` (⭐ 397)
-   - By vinnyglennon | 167 points
-   - Source: hackernews
-
-8. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 344)
+4. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 1496)
    - Academic Research Skills for Claude Code: research → write → review → revise → finalize
    - Source: github
 
-9. **[American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career](https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/)** `RL`, `Core` (⭐ 316)
-   - By NaOH | 129 points
+5. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 1087)
+   - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+   - Source: github
+
+6. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 1036)
+   - The agent that grows with you
+   - Source: github
+
+7. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 977)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   - Source: github
+
+8. **[The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)** `LLM` (⭐ 936)
+   - By timpera | 440 points
    - Source: hackernews
 
-10. **[We Let AI Agents Rewrite a 92M-Message-a-Day Service in Go](https://www.checklyhq.com/blog/agentic-rewrite-nodejs-to-go/)** `RL`, `Core` (⭐ 91)
-   - By tnolet | 4 points
+9. **[blader/humanizer](https://github.com/blader/humanizer)** `NLP`, `RL`, `Core` (⭐ 695)
+   - Agent skill that removes signs of AI-generated writing from text
+   - Source: github
+
+10. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** `RL`, `Core` (⭐ 649)
+   - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
+   - Source: github
+
+11. **[google-research/timesfm](https://github.com/google-research/timesfm)** `Research`, `Core` (⭐ 641)
+   - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+   - Source: github
+
+12. **[Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)** `Robotics` (⭐ 425)
+   - By AntonioLi | 183 points
    - Source: hackernews
+
+13. **[The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)** `LLM`, `Core` (⭐ 347)
+   - By philipkiely | 133 points
+   - Source: hackernews
+
+14. **[superlinked/sie](https://github.com/superlinked/sie)** `RL`, `Core` (⭐ 188)
+   - Open-source inference server and production cluster for all the models your agent needs.
+   - Source: github
+
+15. **[vercel-labs/portless](https://github.com/vercel-labs/portless)** `RL` (⭐ 148)
+   - Replace port numbers with stable, named local URLs. For humans and agents.
+   - Source: github
 
 
 <!-- TRENDING_END -->
