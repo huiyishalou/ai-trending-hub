@@ -14,66 +14,58 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-02
+### 2026-09-03
 
-1. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 2503)
+1. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 3896)
    - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
    - Source: github
 
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2006)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-3. **[pacifio/atlas](https://github.com/pacifio/atlas)** `RL`, `Robotics` (⭐ 1635)
-   - Source control for agents. Use multiple coding agents, track their changes and query them in one place
-   - Source: github
-
-4. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 1496)
-   - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-   - Source: github
-
-5. **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** `NLP`, `Framework` (⭐ 1087)
-   - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-   - Source: github
-
-6. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 1036)
-   - The agent that grows with you
-   - Source: github
-
-7. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 977)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-8. **[The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)** `LLM` (⭐ 936)
-   - By timpera | 440 points
-   - Source: hackernews
-
-9. **[blader/humanizer](https://github.com/blader/humanizer)** `NLP`, `RL`, `Core` (⭐ 695)
-   - Agent skill that removes signs of AI-generated writing from text
-   - Source: github
-
-10. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** `RL`, `Core` (⭐ 649)
-   - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-   - Source: github
-
-11. **[google-research/timesfm](https://github.com/google-research/timesfm)** `Research`, `Core` (⭐ 641)
+2. **[google-research/timesfm](https://github.com/google-research/timesfm)** `Research`, `Core` (⭐ 2981)
    - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
    - Source: github
 
-12. **[Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)** `Robotics` (⭐ 425)
-   - By AntonioLi | 183 points
-   - Source: hackernews
-
-13. **[The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)** `LLM`, `Core` (⭐ 347)
-   - By philipkiely | 133 points
-   - Source: hackernews
-
-14. **[superlinked/sie](https://github.com/superlinked/sie)** `RL`, `Core` (⭐ 188)
-   - Open-source inference server and production cluster for all the models your agent needs.
+3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2858)
+   - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-15. **[vercel-labs/portless](https://github.com/vercel-labs/portless)** `RL` (⭐ 148)
-   - Replace port numbers with stable, named local URLs. For humans and agents.
+4. **[blader/humanizer](https://github.com/blader/humanizer)** `NLP`, `RL`, `Core` (⭐ 2221)
+   - Agent skill that removes signs of AI-generated writing from text
+   - Source: github
+
+5. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 1484)
+   - The agent that grows with you
+   - Source: github
+
+6. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1396)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   - Source: github
+
+7. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 950)
+   - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+   - Source: github
+
+8. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 852)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+9. **[Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)** `RL`, `Core` (⭐ 595)
+   - By surreal_ | 284 points
+   - Source: hackernews
+
+10. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 561)
+   - Production-grade engineering skills for AI coding agents.
+   - Source: github
+
+11. **[f/prompts.chat](https://github.com/f/prompts.chat)** `LLM`, `Tools` (⭐ 416)
+   - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+   - Source: github
+
+12. **[ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)** `Vision`, `Core` (⭐ 308)
+   - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+   - Source: github
+
+13. **[magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)** `LLM`, `RL`, `Core` (⭐ 282)
+   - Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
    - Source: github
 
 
