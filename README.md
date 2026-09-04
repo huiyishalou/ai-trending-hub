@@ -14,59 +14,59 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-03
+### 2026-09-04
 
-1. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 3896)
-   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-   - Source: github
-
-2. **[google-research/timesfm](https://github.com/google-research/timesfm)** `Research`, `Core` (⭐ 2981)
-   - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-   - Source: github
-
-3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2858)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 4984)
    - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-4. **[blader/humanizer](https://github.com/blader/humanizer)** `NLP`, `RL`, `Core` (⭐ 2221)
-   - Agent skill that removes signs of AI-generated writing from text
+2. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 3077)
+   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
    - Source: github
 
-5. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 1484)
-   - The agent that grows with you
-   - Source: github
-
-6. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1396)
+3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2098)
    - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-7. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** `LLM`, `Research` (⭐ 950)
-   - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+4. **[blader/humanizer](https://github.com/blader/humanizer)** `NLP`, `RL`, `Core` (⭐ 2074)
+   - Agent skill that removes signs of AI-generated writing from text
    - Source: github
 
-8. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 852)
-   - An agentic skills framework & software development methodology that works.
+5. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 1382)
+   - The agent that grows with you
    - Source: github
 
-9. **[Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)** `RL`, `Core` (⭐ 595)
-   - By surreal_ | 284 points
+6. **[Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)** `LLM`, `Core` (⭐ 1172)
+   - By altertable | 591 points
    - Source: hackernews
 
-10. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 561)
-   - Production-grade engineering skills for AI coding agents.
+7. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 794)
+   - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-11. **[f/prompts.chat](https://github.com/f/prompts.chat)** `LLM`, `Tools` (⭐ 416)
-   - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-   - Source: github
-
-12. **[ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)** `Vision`, `Core` (⭐ 308)
-   - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-   - Source: github
-
-13. **[magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)** `LLM`, `RL`, `Core` (⭐ 282)
+8. **[magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)** `LLM`, `RL`, `Core` (⭐ 759)
    - Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
    - Source: github
+
+9. **[google-research/timesfm](https://github.com/google-research/timesfm)** `Research`, `Core` (⭐ 666)
+   - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+   - Source: github
+
+10. **[Xanadu was waiting for agents](https://zed.dev/blog/agentic-xanadu)** `RL`, `Core` (⭐ 318)
+   - By nsm | 130 points
+   - Source: hackernews
+
+11. **[radixark/miles](https://github.com/radixark/miles)** `LLM`, `Framework`, `RL`, `Core` (⭐ 159)
+   - Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.
+   - Source: github
+
+12. **[Discovery of a new OpenAI agent message board](https://collusion.wiki/)** `RL`, `Core` (⭐ 131)
+   - By moultano | 26 points
+   - Source: hackernews
+
+13. **[O&O ShutUp10 – The antispy tool for Windows 10 and 11](https://www.oo-software.com/en/shutup10)** `NLP`, `Tools` (⭐ 39)
+   - By embedding-shape | 10 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
