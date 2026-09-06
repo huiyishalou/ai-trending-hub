@@ -14,51 +14,55 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-05
+### 2026-09-06
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 4985)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-2. **[Discovery of a new OpenAI agent message board](https://collusion.wiki/)** `RL`, `Core` (⭐ 3256)
-   - By moultano | 1762 points
-   - Source: hackernews
-
-3. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 3070)
+1. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 5169)
    - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
    - Source: github
 
-4. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2091)
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 4867)
+   - Skills for Real Engineers. Straight from my .agents directory.
+   - Source: github
+
+3. **[Discovery of a new OpenAI agent message board](https://collusion.wiki/)** `RL`, `Core` (⭐ 4046)
+   - By moultano | 2201 points
+   - Source: hackernews
+
+4. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2413)
    - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-5. **[blader/humanizer](https://github.com/blader/humanizer)** `NLP`, `RL`, `Core` (⭐ 2070)
+5. **[blader/humanizer](https://github.com/blader/humanizer)** `NLP`, `RL`, `Core` (⭐ 1818)
    - Agent skill that removes signs of AI-generated writing from text
    - Source: github
 
-6. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 1380)
-   - The agent that grows with you
-   - Source: github
-
-7. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 814)
+6. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 1566)
    - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-8. **[magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)** `LLM`, `RL`, `Core` (⭐ 752)
+7. **[magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)** `LLM`, `RL`, `Core` (⭐ 1261)
    - Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
    - Source: github
 
-9. **[WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)** `LLM`, `RL`, `Core` (⭐ 325)
+8. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 1119)
+   - The agent that grows with you
+   - Source: github
+
+9. **[GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)** `LLM`, `Robotics` (⭐ 487)
+   - By Anon84 | 204 points
+   - Source: hackernews
+
+10. **[Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)** `Vision`, `Core` (⭐ 420)
+   - By torutofu | 180 points
+   - Source: hackernews
+
+11. **[WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)** `LLM`, `RL`, `Core` (⭐ 339)
    - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
    - Source: github
 
-10. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 286)
+12. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 302)
    - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
    - Source: github
-
-11. **[GPT-6 Astra in code review: Gains, privacy, and cost](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)** `LLM`, `Core` (⭐ 205)
-   - By cebert | 54 points
-   - Source: hackernews
 
 
 <!-- TRENDING_END -->
