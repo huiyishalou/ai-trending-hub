@@ -14,54 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-06
+### 2026-09-07
 
-1. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 5169)
-   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-   - Source: github
-
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 4867)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-3. **[Discovery of a new OpenAI agent message board](https://collusion.wiki/)** `RL`, `Core` (⭐ 4046)
-   - By moultano | 2201 points
-   - Source: hackernews
-
-4. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2413)
+1. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 3477)
    - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-5. **[blader/humanizer](https://github.com/blader/humanizer)** `NLP`, `RL`, `Core` (⭐ 1818)
-   - Agent skill that removes signs of AI-generated writing from text
+2. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 1150)
+   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
    - Source: github
 
-6. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 1566)
-   - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+3. **[The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)** `RL`, `Robotics`, `Core` (⭐ 1007)
+   - Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
    - Source: github
 
-7. **[magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)** `LLM`, `RL`, `Core` (⭐ 1261)
-   - Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
-   - Source: github
-
-8. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** `RL`, `Research` (⭐ 1119)
-   - The agent that grows with you
-   - Source: github
-
-9. **[GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)** `LLM`, `Robotics` (⭐ 487)
-   - By Anon84 | 204 points
-   - Source: hackernews
-
-10. **[Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)** `Vision`, `Core` (⭐ 420)
-   - By torutofu | 180 points
-   - Source: hackernews
-
-11. **[WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)** `LLM`, `RL`, `Core` (⭐ 339)
-   - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
-   - Source: github
-
-12. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 302)
+4. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 763)
    - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+   - Source: github
+
+5. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `RL`, `Research`, `Tools` (⭐ 365)
+   - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+   - Source: github
+
+6. **[Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)** `NLP`, `Tools` (⭐ 260)
+   - By ur-whale | 98 points
+   - Source: hackernews
+
+7. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 243)
+   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
    - Source: github
 
 
