@@ -14,35 +14,55 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-07
+### 2026-09-08
 
-1. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 3477)
+1. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2615)
    - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-2. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 1150)
+2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 1953)
+   - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+   - Source: github
+
+3. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 1265)
    - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
    - Source: github
 
-3. **[The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)** `RL`, `Robotics`, `Core` (⭐ 1007)
+4. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 1264)
+   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+   - Source: github
+
+5. **[Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)** `LLM`, `Core` (⭐ 1174)
+   - By kuberwastaken | 592 points
+   - Source: hackernews
+
+6. **[The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)** `RL`, `Robotics`, `Core` (⭐ 922)
    - Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
    - Source: github
 
-4. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 763)
-   - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+7. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 827)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-5. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `RL`, `Research`, `Tools` (⭐ 365)
-   - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+8. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 657)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
    - Source: github
 
-6. **[Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)** `NLP`, `Tools` (⭐ 260)
-   - By ur-whale | 98 points
+9. **[browser-use/browser-use](https://github.com/browser-use/browser-use)** `RL`, `Core` (⭐ 615)
+   - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+   - Source: github
+
+10. **[Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL` (⭐ 313)
+   - By fittingopposite | 74 points
    - Source: hackernews
 
-7. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 243)
-   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-   - Source: github
+11. **[The VMs Powering Mobile Agents (Instinct, Claude Code)](https://rohanadwankar.github.io/posts/platforms.html)** `LLM`, `RL` (⭐ 201)
+   - By RohanAdwankar | 45 points
+   - Source: hackernews
+
+12. **[End-to-end infrastructure for training and inferencing open weight models](https://docs.appliedcompute.com)** `Core` (⭐ 146)
+   - By Bluestein | 21 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
