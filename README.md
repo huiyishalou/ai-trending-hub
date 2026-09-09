@@ -14,55 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-08
+### 2026-09-09
 
-1. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2615)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 1953)
+1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 4142)
    - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-3. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 1265)
-   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2120)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-4. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 1264)
-   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-   - Source: github
-
-5. **[Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)** `LLM`, `Core` (⭐ 1174)
-   - By kuberwastaken | 592 points
-   - Source: hackernews
-
-6. **[The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)** `RL`, `Robotics`, `Core` (⭐ 922)
-   - Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
-   - Source: github
-
-7. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 827)
+3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1266)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-8. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 657)
-   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+4. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 1240)
+   - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
    - Source: github
 
-9. **[browser-use/browser-use](https://github.com/browser-use/browser-use)** `RL`, `Core` (⭐ 615)
-   - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+5. **[Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)** `RL`, `Core` (⭐ 1078)
+   - By yks | 552 points
+   - Source: hackernews
+
+6. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 1025)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
    - Source: github
 
-10. **[Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL` (⭐ 313)
-   - By fittingopposite | 74 points
+7. **[vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)** `RL`, `Core` (⭐ 728)
+   - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+   - Source: github
+
+8. **[Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)** `LLM`, `Research`, `Tools` (⭐ 609)
+   - By stared | 265 points
    - Source: hackernews
 
-11. **[The VMs Powering Mobile Agents (Instinct, Claude Code)](https://rohanadwankar.github.io/posts/platforms.html)** `LLM`, `RL` (⭐ 201)
-   - By RohanAdwankar | 45 points
+9. **[Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)** `NLP`, `Core` (⭐ 429)
+   - By paimapi | 180 points
    - Source: hackernews
 
-12. **[End-to-end infrastructure for training and inferencing open weight models](https://docs.appliedcompute.com)** `Core` (⭐ 146)
-   - By Bluestein | 21 points
-   - Source: hackernews
+10. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** `NLP`, `Framework`, `RL` (⭐ 259)
+   - A library of agent skills for CAD, CAE and CAM
+   - Source: github
 
 
 <!-- TRENDING_END -->
