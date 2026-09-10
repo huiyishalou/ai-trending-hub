@@ -14,46 +14,50 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-09
+### 2026-09-10
 
-1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 4142)
+1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 4075)
    - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2120)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+2. **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** `RL`, `Core` (⭐ 1499)
+   - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
    - Source: github
 
-3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1266)
+3. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 1407)
+   - Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
+   - Source: github
+
+4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1262)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-4. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 1240)
-   - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+5. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 1172)
+   - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors
    - Source: github
 
-5. **[Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)** `RL`, `Core` (⭐ 1078)
-   - By yks | 552 points
+6. **[GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and)** `LLM`, `Framework`, `Core` (⭐ 966)
+   - By ModelForge | 465 points
    - Source: hackernews
 
-6. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 1025)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
-   - Source: github
-
-7. **[vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)** `RL`, `Core` (⭐ 728)
+7. **[vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)** `RL`, `Core` (⭐ 772)
    - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
    - Source: github
 
-8. **[Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)** `LLM`, `Research`, `Tools` (⭐ 609)
-   - By stared | 265 points
+8. **[alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 601)
+   - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+   - Source: github
+
+9. **[Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)** `LLM` (⭐ 551)
+   - By wsxiaoys | 226 points
    - Source: hackernews
 
-9. **[Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)** `NLP`, `Core` (⭐ 429)
-   - By paimapi | 180 points
-   - Source: hackernews
+10. **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** `LLM`, `Core` (⭐ 526)
+   - Hundreds of models & providers. One command to find what runs on your hardware.
+   - Source: github
 
-10. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** `NLP`, `Framework`, `RL` (⭐ 259)
-   - A library of agent skills for CAD, CAE and CAM
+11. **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** `LLM`, `RL`, `Core`, `Tools` (⭐ 268)
+   - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
    - Source: github
 
 
