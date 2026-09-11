@@ -14,50 +14,58 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-10
+### 2026-09-11
 
-1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 4075)
-   - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-   - Source: github
-
-2. **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** `RL`, `Core` (⭐ 1499)
-   - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-   - Source: github
-
-3. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** `LLM`, `Vision`, `Tools` (⭐ 1407)
-   - Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-   - Source: github
-
-4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1262)
+1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1342)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-5. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** `LLM`, `Core` (⭐ 1172)
-   - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors
-   - Source: github
-
-6. **[GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and)** `LLM`, `Framework`, `Core` (⭐ 966)
-   - By ModelForge | 465 points
-   - Source: hackernews
-
-7. **[vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)** `RL`, `Core` (⭐ 772)
+2. **[vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)** `RL`, `Core` (⭐ 1144)
    - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
    - Source: github
 
-8. **[alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 601)
+3. **[Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)** `LLM`, `Core` (⭐ 875)
+   - By seelos | 426 points
+   - Source: hackernews
+
+4. **[OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)** `RL`, `Core` (⭐ 592)
+   - By aquir | 282 points
+   - Source: hackernews
+
+5. **[alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 562)
    - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
    - Source: github
 
-9. **[Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)** `LLM` (⭐ 551)
-   - By wsxiaoys | 226 points
-   - Source: hackernews
-
-10. **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** `LLM`, `Core` (⭐ 526)
-   - Hundreds of models & providers. One command to find what runs on your hardware.
+6. **[alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)** `RL`, `Research`, `Core` (⭐ 435)
+   - Run parallel research agents with any model
    - Source: github
 
-11. **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** `LLM`, `RL`, `Core`, `Tools` (⭐ 268)
+7. **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** `LLM`, `RL`, `Core`, `Tools` (⭐ 355)
    - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+   - Source: github
+
+8. **[Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)** `LLM`, `Core` (⭐ 349)
+   - By Muhammad523 | 134 points
+   - Source: hackernews
+
+9. **[jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent)** `RL`, `Research`, `Core` (⭐ 331)
+   - 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
+   - Source: github
+
+10. **[jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch)** `RL`, `Research` (⭐ 260)
+   - Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
+   - Source: github
+
+11. **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** `RL`, `Core` (⭐ 248)
+   - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+   - Source: github
+
+12. **[Moonshot serves Claude instead of Kimi and collects exchanges for model training](https://twitter.com/DavidAgranovich/status/2098168522862215449)** `LLM`, `Core` (⭐ 194)
+   - By MrBuddyCasino | 8 points
+   - Source: hackernews
+
+13. **[pascalorg/editor](https://github.com/pascalorg/editor)** `RL`, `Core` (⭐ 170)
+   - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
    - Source: github
 
 
