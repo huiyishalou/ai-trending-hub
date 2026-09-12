@@ -14,59 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-11
+### 2026-09-12
 
-1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1342)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-2. **[vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)** `RL`, `Core` (⭐ 1144)
-   - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
-   - Source: github
-
-3. **[Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)** `LLM`, `Core` (⭐ 875)
-   - By seelos | 426 points
+1. **[OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)** `RL`, `Core` (⭐ 1456)
+   - By chao- | 762 points
    - Source: hackernews
 
-4. **[OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)** `RL`, `Core` (⭐ 592)
-   - By aquir | 282 points
-   - Source: hackernews
-
-5. **[alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 562)
+2. **[alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 1190)
    - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
    - Source: github
 
-6. **[alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)** `RL`, `Research`, `Core` (⭐ 435)
-   - Run parallel research agents with any model
+3. **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** `RL`, `Robotics`, `Core` (⭐ 531)
+   - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
    - Source: github
 
-7. **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** `LLM`, `RL`, `Core`, `Tools` (⭐ 355)
-   - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+4. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `LLM`, `RL`, `Core`, `Tools` (⭐ 526)
+   - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
    - Source: github
 
-8. **[Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)** `LLM`, `Core` (⭐ 349)
-   - By Muhammad523 | 134 points
-   - Source: hackernews
+5. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 506)
+   - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+   - Source: github
 
-9. **[jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent)** `RL`, `Research`, `Core` (⭐ 331)
+6. **[jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent)** `RL`, `Research`, `Core` (⭐ 325)
    - 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
    - Source: github
 
-10. **[jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch)** `RL`, `Research` (⭐ 260)
-   - Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
+7. **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** `LLM`, `Framework`, `Core` (⭐ 298)
+   - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
    - Source: github
 
-11. **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** `RL`, `Core` (⭐ 248)
+8. **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** `RL`, `Core` (⭐ 295)
    - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
    - Source: github
 
-12. **[Moonshot serves Claude instead of Kimi and collects exchanges for model training](https://twitter.com/DavidAgranovich/status/2098168522862215449)** `LLM`, `Core` (⭐ 194)
-   - By MrBuddyCasino | 8 points
-   - Source: hackernews
-
-13. **[pascalorg/editor](https://github.com/pascalorg/editor)** `RL`, `Core` (⭐ 170)
-   - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
+9. **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** `RL`, `Core` (⭐ 100)
+   - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
    - Source: github
+
+10. **[The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)** `RL`, `Core` (⭐ 97)
+   - By ColinWright | 7 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
