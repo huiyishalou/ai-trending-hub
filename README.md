@@ -14,54 +14,50 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-13
+### 2026-09-14
 
-1. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1426)
-   - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
-   - Source: github
-
-2. **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** `RL`, `Robotics`, `Core` (⭐ 1184)
-   - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-   - Source: github
-
-3. **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** `LLM`, `Framework`, `Core` (⭐ 1033)
-   - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-   - Source: github
-
-4. **[alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)** `RL`, `Research`, `Core` (⭐ 871)
-   - Run parallel research agents with any model
-   - Source: github
-
-5. **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** `RL`, `Core` (⭐ 820)
-   - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
-   - Source: github
-
-6. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 722)
-   - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-   - Source: github
-
-7. **[Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)** `RL`, `Core` (⭐ 692)
-   - By jonifico | 338 points
-   - Source: hackernews
-
-8. **[jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent)** `RL`, `Research`, `Core` (⭐ 575)
-   - 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
-   - Source: github
-
-9. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 514)
+1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 3272)
    - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
    - Source: github
 
-10. **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** `LLM`, `RL`, `Core` (⭐ 480)
-   - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+2. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1503)
+   - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
    - Source: github
 
-11. **[huggingface/transformers](https://github.com/huggingface/transformers)** `Vision`, `NLP`, `Framework`, `Core` (⭐ 319)
+3. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 1475)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+   - Source: github
+
+4. **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** `LLM`, `Framework`, `Core` (⭐ 1211)
+   - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+   - Source: github
+
+5. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1209)
+   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+   - Source: github
+
+6. **[huggingface/transformers](https://github.com/huggingface/transformers)** `Vision`, `NLP`, `Framework`, `Core` (⭐ 1085)
    - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
    - Source: github
 
-12. **[AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/)** `RL`, `Research`, `Core` (⭐ 246)
-   - By ZihuiGeorgia | 70 points
+7. **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** `LLM`, `RL`, `Core` (⭐ 1004)
+   - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+   - Source: github
+
+8. **[Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)** `LLM`, `Core` (⭐ 518)
+   - By tosh | 148 points
+   - Source: hackernews
+
+9. **[OpenArch – PyTorch implementations of modern LLM architectures](https://github.com/anuj0456/OpenArch)** `LLM`, `Framework` (⭐ 298)
+   - By anuj0456 | 99 points
+   - Source: hackernews
+
+10. **[rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** `RL`, `Core` (⭐ 163)
+   - All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+   - Source: github
+
+11. **[Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/)** `LLM`, `Tools` (⭐ 116)
+   - By 0o_MrPatrick_o0 | 11 points
    - Source: hackernews
 
 
