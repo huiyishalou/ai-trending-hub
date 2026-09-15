@@ -14,51 +14,43 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-14
+### 2026-09-15
 
-1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 3272)
+1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 4991)
    - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
    - Source: github
 
-2. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1503)
-   - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+2. **[pacifio/atlas](https://github.com/pacifio/atlas)** `RL`, `Robotics` (⭐ 1988)
+   - Source control for agents. Use multiple coding agents, track their changes and query them in one place
    - Source: github
 
-3. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 1475)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+3. **[alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)** `RL`, `Research` (⭐ 1070)
+   - Turn your coding agents into research agents
    - Source: github
 
-4. **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** `LLM`, `Framework`, `Core` (⭐ 1211)
-   - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-   - Source: github
-
-5. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1209)
-   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-   - Source: github
-
-6. **[huggingface/transformers](https://github.com/huggingface/transformers)** `Vision`, `NLP`, `Framework`, `Core` (⭐ 1085)
-   - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-   - Source: github
-
-7. **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** `LLM`, `RL`, `Core` (⭐ 1004)
-   - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
-   - Source: github
-
-8. **[Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)** `LLM`, `Core` (⭐ 518)
-   - By tosh | 148 points
+4. **[Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)** `RL`, `Robotics` (⭐ 886)
+   - By lukaspetersson | 439 points
    - Source: hackernews
 
-9. **[OpenArch – PyTorch implementations of modern LLM architectures](https://github.com/anuj0456/OpenArch)** `LLM`, `Framework` (⭐ 298)
-   - By anuj0456 | 99 points
-   - Source: hackernews
-
-10. **[rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** `RL`, `Core` (⭐ 163)
-   - All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+5. **[earendil-works/pi](https://github.com/earendil-works/pi)** `LLM`, `RL`, `Core` (⭐ 826)
+   - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
    - Source: github
 
-11. **[Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/)** `LLM`, `Tools` (⭐ 116)
-   - By 0o_MrPatrick_o0 | 11 points
+6. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 694)
+   - Production-grade engineering skills for AI coding agents.
+   - Source: github
+
+7. **[Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)** `RL`, `Core` (⭐ 516)
+   - By choult | 240 points
    - Source: hackernews
+
+8. **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** `RL`, `Core` (⭐ 390)
+   - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+   - Source: github
+
+9. **[MG1937/ASC](https://github.com/MG1937/ASC)** `RL`, `Research` (⭐ 241)
+   - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+   - Source: github
 
 
 <!-- TRENDING_END -->
