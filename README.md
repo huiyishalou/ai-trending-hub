@@ -14,42 +14,46 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-15
+### 2026-09-16
 
-1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 4991)
+1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 5826)
    - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
    - Source: github
 
-2. **[pacifio/atlas](https://github.com/pacifio/atlas)** `RL`, `Robotics` (⭐ 1988)
-   - Source control for agents. Use multiple coding agents, track their changes and query them in one place
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1931)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-3. **[alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)** `RL`, `Research` (⭐ 1070)
+3. **[alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)** `RL`, `Research` (⭐ 1913)
    - Turn your coding agents into research agents
    - Source: github
 
-4. **[Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)** `RL`, `Robotics` (⭐ 886)
-   - By lukaspetersson | 439 points
-   - Source: hackernews
-
-5. **[earendil-works/pi](https://github.com/earendil-works/pi)** `LLM`, `RL`, `Core` (⭐ 826)
-   - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+4. **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** `LLM`, `Framework`, `Core` (⭐ 1378)
+   - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
    - Source: github
 
-6. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 694)
+5. **[Tencent/WeKnora](https://github.com/Tencent/WeKnora)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 1310)
+   - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+   - Source: github
+
+6. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1238)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-7. **[Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)** `RL`, `Core` (⭐ 516)
-   - By choult | 240 points
+7. **[Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)** `LLM`, `Core` (⭐ 437)
+   - By vertigoruntime | 183 points
    - Source: hackernews
 
-8. **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** `RL`, `Core` (⭐ 390)
-   - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+8. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 387)
+   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
    - Source: github
 
-9. **[MG1937/ASC](https://github.com/MG1937/ASC)** `RL`, `Research` (⭐ 241)
-   - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+9. **[cline/cline](https://github.com/cline/cline)** `RL`, `Robotics` (⭐ 208)
+   - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+   - Source: github
+
+10. **[rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** `RL`, `Core` (⭐ 202)
+   - All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
    - Source: github
 
 
