@@ -14,47 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-16
+### 2026-09-17
 
-1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 5826)
+1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 5961)
    - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
    - Source: github
 
-2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1931)
+2. **[Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)** `RL`, `Core` (⭐ 2451)
+   - Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+   - Source: github
+
+3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2159)
    - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-3. **[alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)** `RL`, `Research` (⭐ 1913)
-   - Turn your coding agents into research agents
-   - Source: github
-
-4. **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** `LLM`, `Framework`, `Core` (⭐ 1378)
-   - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-   - Source: github
-
-5. **[Tencent/WeKnora](https://github.com/Tencent/WeKnora)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 1310)
+4. **[Tencent/WeKnora](https://github.com/Tencent/WeKnora)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 2078)
    - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
    - Source: github
 
-6. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1238)
+5. **[alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)** `RL`, `Research` (⭐ 1740)
+   - Turn your coding agents into research agents
+   - Source: github
+
+6. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1281)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-7. **[Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)** `LLM`, `Core` (⭐ 437)
-   - By vertigoruntime | 183 points
+7. **[Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)** `Core` (⭐ 1179)
+   - By polyphilz | 595 points
    - Source: hackernews
 
-8. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 387)
+8. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1076)
    - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
    - Source: github
 
-9. **[cline/cline](https://github.com/cline/cline)** `RL`, `Robotics` (⭐ 208)
+9. **[cline/cline](https://github.com/cline/cline)** `RL`, `Robotics` (⭐ 710)
    - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
    - Source: github
 
-10. **[rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** `RL`, `Core` (⭐ 202)
-   - All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
-   - Source: github
+10. **[OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)** `Framework`, `Core` (⭐ 377)
+   - By etoxin | 163 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
