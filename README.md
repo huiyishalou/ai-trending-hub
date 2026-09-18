@@ -14,47 +14,39 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-17
+### 2026-09-18
 
-1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 5961)
-   - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 4942)
+   - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
    - Source: github
 
-2. **[Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)** `RL`, `Core` (⭐ 2451)
+2. **[Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)** `RL`, `Core` (⭐ 2395)
    - Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
    - Source: github
 
-3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2159)
+3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1785)
    - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-4. **[Tencent/WeKnora](https://github.com/Tencent/WeKnora)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 2078)
-   - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-   - Source: github
-
-5. **[alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)** `RL`, `Research` (⭐ 1740)
-   - Turn your coding agents into research agents
-   - Source: github
-
-6. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1281)
+4. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1276)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-7. **[Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)** `Core` (⭐ 1179)
-   - By polyphilz | 595 points
-   - Source: hackernews
-
-8. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1076)
+5. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 904)
    - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
    - Source: github
 
-9. **[cline/cline](https://github.com/cline/cline)** `RL`, `Robotics` (⭐ 710)
-   - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+6. **[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)** `NLP`, `Core` (⭐ 303)
+   - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
    - Source: github
 
-10. **[OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)** `Framework`, `Core` (⭐ 377)
-   - By etoxin | 163 points
+7. **[Diplodocus, Long Thought Exclusively American, Turns Up in Spain](https://www.sci.news/paleontology/spanish-diplodocus-15064.html)** `NLP`, `Core`, `Tools` (⭐ 196)
+   - By embedding-shape | 77 points
    - Source: hackernews
+
+8. **[tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)** `LLM`, `Core` (⭐ 142)
+   - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
+   - Source: github
 
 
 <!-- TRENDING_END -->
