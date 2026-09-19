@@ -14,39 +14,39 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-18
+### 2026-09-19
 
-1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 4942)
-   - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-   - Source: github
-
-2. **[Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)** `RL`, `Core` (⭐ 2395)
-   - Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-   - Source: github
-
-3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1785)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-4. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1276)
+1. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1042)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-5. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 904)
+2. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 976)
    - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
    - Source: github
 
-6. **[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)** `NLP`, `Core` (⭐ 303)
-   - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
+3. **[trycua/cua](https://github.com/trycua/cua)** `Research`, `Core` (⭐ 725)
+   - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
    - Source: github
 
-7. **[Diplodocus, Long Thought Exclusively American, Turns Up in Spain](https://www.sci.news/paleontology/spanish-diplodocus-15064.html)** `NLP`, `Core`, `Tools` (⭐ 196)
-   - By embedding-shape | 77 points
+4. **[higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield)** `Framework`, `Core` (⭐ 660)
+   - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
+   - Source: github
+
+5. **[Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle)** `LLM`, `Core` (⭐ 472)
+   - By HenryNdubuaku | 202 points
    - Source: hackernews
 
-8. **[tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)** `LLM`, `Core` (⭐ 142)
-   - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
+6. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `NLP`, `Robotics`, `Core`, `Tools` (⭐ 427)
+   - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
    - Source: github
+
+7. **[How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)** `LLM`, `Core` (⭐ 355)
+   - By maxall4 | 137 points
+   - Source: hackernews
+
+8. **[Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](https://arxiv.org/abs/2510.03215)** `LLM`, `Tools` (⭐ 267)
+   - By rochansinha | 95 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
