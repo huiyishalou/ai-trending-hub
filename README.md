@@ -14,39 +14,43 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-19
+### 2026-09-20
 
-1. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1042)
-   - Production-grade engineering skills for AI coding agents.
+1. **[I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/)** `RL`, `Core` (⭐ 2312)
+   - By nandakishor_ml | 1238 points
+   - Source: hackernews
+
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1870)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-2. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 976)
-   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-   - Source: github
-
-3. **[trycua/cua](https://github.com/trycua/cua)** `Research`, `Core` (⭐ 725)
+3. **[trycua/cua](https://github.com/trycua/cua)** `Research`, `Core` (⭐ 1858)
    - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
    - Source: github
 
-4. **[higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield)** `Framework`, `Core` (⭐ 660)
+4. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1369)
+   - Production-grade engineering skills for AI coding agents.
+   - Source: github
+
+5. **[higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield)** `Framework`, `Core` (⭐ 905)
    - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
    - Source: github
 
-5. **[Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle)** `LLM`, `Core` (⭐ 472)
-   - By HenryNdubuaku | 202 points
-   - Source: hackernews
-
-6. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** `NLP`, `Robotics`, `Core`, `Tools` (⭐ 427)
-   - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
+6. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 855)
+   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
    - Source: github
 
-7. **[How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)** `LLM`, `Core` (⭐ 355)
-   - By maxall4 | 137 points
+7. **[Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)** `RL`, `Research` (⭐ 307)
+   - By farlight | 144 points
    - Source: hackernews
 
-8. **[Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](https://arxiv.org/abs/2510.03215)** `LLM`, `Tools` (⭐ 267)
-   - By rochansinha | 95 points
-   - Source: hackernews
+8. **[BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)** `Framework`, `RL` (⭐ 220)
+   - A framework for building agentic apps
+   - Source: github
+
+9. **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `RL`, `Research` (⭐ 154)
+   - A community-supported supercharged document management system: scan, index and archive all your documents
+   - Source: github
 
 
 <!-- TRENDING_END -->
