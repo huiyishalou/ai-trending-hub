@@ -14,38 +14,22 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-21
+### 2026-09-22
 
-1. **[Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)** `LLM`, `Vision` (⭐ 1379)
-   - By jmillikin | 693 points
+1. **[Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)** `Vision`, `Framework`, `Core` (⭐ 1012)
+   - By aray07 | 482 points
    - Source: hackernews
 
-2. **[BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)** `Framework`, `RL` (⭐ 1153)
-   - A framework for building agentic apps
+2. **[Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)** `NLP`, `Core` (⭐ 510)
+   - By networked | 230 points
+   - Source: hackernews
+
+3. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 385)
+   - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
    - Source: github
 
-3. **[trycua/cua](https://github.com/trycua/cua)** `Research`, `Core` (⭐ 1132)
-   - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-   - Source: github
-
-4. **[Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)** `LLM`, `Core` (⭐ 553)
-   - By tosh | 247 points
-   - Source: hackernews
-
-5. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 439)
-   - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-   - Source: github
-
-6. **[Heretic removes restrictions from language models](https://heretic-project.org/)** `NLP`, `Core` (⭐ 341)
-   - By Bluestein | 136 points
-   - Source: hackernews
-
-7. **[M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/)** `RL`, `Core` (⭐ 145)
-   - By piotrgrabowski | 34 points
-   - Source: hackernews
-
-8. **[macOS 27: Workaround to avoid downloading AI models and save storage](https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/)** `Core`, `Tools` (⭐ 110)
-   - By ano-ther | 8 points
+4. **[Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)** `LLM`, `Core` (⭐ 335)
+   - By corvad | 126 points
    - Source: hackernews
 
 
