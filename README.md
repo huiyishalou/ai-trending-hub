@@ -14,22 +14,38 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-22
+### 2026-09-23
 
-1. **[Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)** `Vision`, `Framework`, `Core` (⭐ 1012)
-   - By aray07 | 482 points
-   - Source: hackernews
-
-2. **[Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)** `NLP`, `Core` (⭐ 510)
-   - By networked | 230 points
-   - Source: hackernews
-
-3. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 385)
+1. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 2073)
    - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
    - Source: github
 
-4. **[Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)** `LLM`, `Core` (⭐ 335)
-   - By corvad | 126 points
+2. **[OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)** `LLM`, `Core` (⭐ 1350)
+   - By sohkamyung | 690 points
+   - Source: hackernews
+
+3. **[BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)** `Framework`, `RL` (⭐ 1156)
+   - A framework for building agentic apps
+   - Source: github
+
+4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 974)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+5. **[Claude Code reads AGENTS.md only when telemetry is on](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)** `LLM`, `RL` (⭐ 352)
+   - By pszypowicz | 129 points
+   - Source: hackernews
+
+6. **[TNT-Likely/PanWatch](https://github.com/TNT-Likely/PanWatch)** `RL`, `Core` (⭐ 336)
+   - 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送
+   - Source: github
+
+7. **[OpenAI is enlisting an influencer army to make it look 'good for the world'](https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9)** `RL`, `Core` (⭐ 160)
+   - By cdrnsf | 42 points
+   - Source: hackernews
+
+8. **[Show HN: RxFilm Studio–Create and edit your product videos with AI agent](https://filmstudio.rxlab.app)** `RL`, `Core` (⭐ 102)
+   - By zilue | 10 points
    - Source: hackernews
 
 
