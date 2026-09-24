@@ -14,39 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-23
+### 2026-09-24
 
-1. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 2073)
+1. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 1929)
    - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
    - Source: github
 
-2. **[OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)** `LLM`, `Core` (⭐ 1350)
-   - By sohkamyung | 690 points
-   - Source: hackernews
-
-3. **[BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)** `Framework`, `RL` (⭐ 1156)
-   - A framework for building agentic apps
-   - Source: github
-
-4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 974)
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1115)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-5. **[Claude Code reads AGENTS.md only when telemetry is on](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)** `LLM`, `RL` (⭐ 352)
-   - By pszypowicz | 129 points
+3. **[ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)** `RL`, `Research` (⭐ 480)
+   - By JohnHammersley | 220 points
    - Source: hackernews
 
-6. **[TNT-Likely/PanWatch](https://github.com/TNT-Likely/PanWatch)** `RL`, `Core` (⭐ 336)
-   - 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送
+4. **[Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)** `RL`, `Core` (⭐ 440)
+   - By snikolaev | 171 points
+   - Source: hackernews
+
+5. **[OpenAI agent hacked Australian government website, PM says](https://www.bbc.com/news/live/cvgl73pxgndwt)** `RL`, `Core` (⭐ 336)
+   - By rudy6912 | 140 points
+   - Source: hackernews
+
+6. **[FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)** `Vision`, `NLP` (⭐ 327)
+   - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
    - Source: github
 
-7. **[OpenAI is enlisting an influencer army to make it look 'good for the world'](https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9)** `RL`, `Core` (⭐ 160)
-   - By cdrnsf | 42 points
+7. **[Contrastive Language Models](https://contrastive-lm.notion.site/)** `NLP`, `Core` (⭐ 281)
+   - By erichocean | 103 points
    - Source: hackernews
 
-8. **[Show HN: RxFilm Studio–Create and edit your product videos with AI agent](https://filmstudio.rxlab.app)** `RL`, `Core` (⭐ 102)
-   - By zilue | 10 points
+8. **[Hackers influence ChatGPT and Gemini to direct users to scam centers](https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073)** `LLM` (⭐ 261)
+   - By ArielSimon | 25 points
    - Source: hackernews
+
+9. **[leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)** `LLM`, `Vision`, `Core` (⭐ 170)
+   - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+   - Source: github
+
+10. **[NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** `LLM`, `Framework`, `Core`, `Tools` (⭐ 163)
+   - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+   - Source: github
 
 
 <!-- TRENDING_END -->
