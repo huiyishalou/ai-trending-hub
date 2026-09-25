@@ -14,46 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-24
+### 2026-09-25
 
-1. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 1929)
+1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 3419)
+   - The open-source app everyone uses to manage agents at work
+   - Source: github
+
+2. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 1907)
    - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
    - Source: github
 
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1115)
+3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1229)
+   - Skills for Real Engineers. Straight from my .agents directory.
+   - Source: github
+
+4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 861)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-3. **[ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)** `RL`, `Research` (⭐ 480)
-   - By JohnHammersley | 220 points
-   - Source: hackernews
-
-4. **[Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)** `RL`, `Core` (⭐ 440)
-   - By snikolaev | 171 points
-   - Source: hackernews
-
-5. **[OpenAI agent hacked Australian government website, PM says](https://www.bbc.com/news/live/cvgl73pxgndwt)** `RL`, `Core` (⭐ 336)
-   - By rudy6912 | 140 points
-   - Source: hackernews
-
-6. **[FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)** `Vision`, `NLP` (⭐ 327)
-   - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
-   - Source: github
-
-7. **[Contrastive Language Models](https://contrastive-lm.notion.site/)** `NLP`, `Core` (⭐ 281)
-   - By erichocean | 103 points
-   - Source: hackernews
-
-8. **[Hackers influence ChatGPT and Gemini to direct users to scam centers](https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073)** `LLM` (⭐ 261)
-   - By ArielSimon | 25 points
-   - Source: hackernews
-
-9. **[leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)** `LLM`, `Vision`, `Core` (⭐ 170)
-   - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
-   - Source: github
-
-10. **[NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** `LLM`, `Framework`, `Core`, `Tools` (⭐ 163)
+5. **[NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** `LLM`, `Framework`, `Core`, `Tools` (⭐ 771)
    - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+   - Source: github
+
+6. **[Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)** `RL`, `Core` (⭐ 739)
+   - By an0malous | 364 points
+   - Source: hackernews
+
+7. **[androoAGI/starnet](https://github.com/androoAGI/starnet)** `RL`, `Core` (⭐ 224)
+   - A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
    - Source: github
 
 
