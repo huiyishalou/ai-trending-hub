@@ -14,34 +14,50 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-25
+### 2026-09-26
 
-1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 3419)
+1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 4744)
    - The open-source app everyone uses to manage agents at work
    - Source: github
 
-2. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 1907)
+2. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 1542)
    - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
    - Source: github
 
-3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1229)
-   - Skills for Real Engineers. Straight from my .agents directory.
+3. **[Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)** `Framework`, `RL`, `Core` (⭐ 1091)
+   - By specked-citrus | 533 points
+   - Source: hackernews
+
+4. **[Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)** `LLM`, `Core` (⭐ 988)
+   - By Ardakilic | 489 points
+   - Source: hackernews
+
+5. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** `LLM`, `RL`, `Research`, `Core` (⭐ 784)
+   - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
    - Source: github
 
-4. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 861)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-5. **[NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** `LLM`, `Framework`, `Core`, `Tools` (⭐ 771)
+6. **[NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** `LLM`, `Framework`, `Core`, `Tools` (⭐ 760)
    - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
    - Source: github
 
-6. **[Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)** `RL`, `Core` (⭐ 739)
-   - By an0malous | 364 points
+7. **[A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)** `LLM`, `Vision`, `Core` (⭐ 346)
+   - By allanrbo | 99 points
    - Source: hackernews
 
-7. **[androoAGI/starnet](https://github.com/androoAGI/starnet)** `RL`, `Core` (⭐ 224)
-   - A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
+8. **[mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)** `NLP`, `Core` (⭐ 281)
+   - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
+   - Source: github
+
+9. **[A new world airport and its baggage](https://computer.rip/2026-09-20-denver-baggage.html)** `RL`, `Core` (⭐ 151)
+   - By firloop | 37 points
+   - Source: hackernews
+
+10. **[From Thin Air to Bootable Images: The Tine Build System](https://amutable.com/blog/tine-build-system)** `Vision`, `Core` (⭐ 134)
+   - By Levitating | 21 points
+   - Source: hackernews
+
+11. **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** `Framework`, `Core` (⭐ 125)
+   - An Open Source Machine Learning Framework for Everyone
    - Source: github
 
 
