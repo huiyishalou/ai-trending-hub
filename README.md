@@ -14,51 +14,39 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-26
+### 2026-09-27
 
-1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 4744)
+1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 4633)
    - The open-source app everyone uses to manage agents at work
    - Source: github
 
-2. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 1542)
+2. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 1677)
    - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
    - Source: github
 
-3. **[Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)** `Framework`, `RL`, `Core` (⭐ 1091)
-   - By specked-citrus | 533 points
+3. **[OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)** `RL`, `Research`, `Core` (⭐ 757)
+   - By papergirl | 389 points
    - Source: hackernews
 
-4. **[Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)** `LLM`, `Core` (⭐ 988)
-   - By Ardakilic | 489 points
+4. **[How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)** `LLM`, `RL` (⭐ 601)
+   - By signa11 | 267 points
    - Source: hackernews
 
-5. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** `LLM`, `RL`, `Research`, `Core` (⭐ 784)
-   - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+5. **[A searchable library of forgotten public-domain film clips from 1915 onward](https://www.movingimagearchive.com/)** `Framework`, `Core` (⭐ 419)
+   - By momentmaker | 186 points
+   - Source: hackernews
+
+6. **["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)** `LLM`, `NLP`, `Core` (⭐ 289)
+   - By yu3zhou4 | 67 points
+   - Source: hackernews
+
+7. **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)** `LLM`, `RL` (⭐ 235)
+   - Multi-agent harness that runs Claude Code and Codex together as one system
    - Source: github
 
-6. **[NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** `LLM`, `Framework`, `Core`, `Tools` (⭐ 760)
-   - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
-   - Source: github
-
-7. **[A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)** `LLM`, `Vision`, `Core` (⭐ 346)
-   - By allanrbo | 99 points
+8. **[Teaching a World Model to Play Pokemon](https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/)** `RL`, `Core` (⭐ 118)
+   - By stmonty | 19 points
    - Source: hackernews
-
-8. **[mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)** `NLP`, `Core` (⭐ 281)
-   - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
-   - Source: github
-
-9. **[A new world airport and its baggage](https://computer.rip/2026-09-20-denver-baggage.html)** `RL`, `Core` (⭐ 151)
-   - By firloop | 37 points
-   - Source: hackernews
-
-10. **[From Thin Air to Bootable Images: The Tine Build System](https://amutable.com/blog/tine-build-system)** `Vision`, `Core` (⭐ 134)
-   - By Levitating | 21 points
-   - Source: hackernews
-
-11. **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** `Framework`, `Core` (⭐ 125)
-   - An Open Source Machine Learning Framework for Everyone
-   - Source: github
 
 
 <!-- TRENDING_END -->
