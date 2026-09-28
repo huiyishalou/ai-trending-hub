@@ -14,38 +14,26 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-27
+### 2026-09-28
 
-1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 4633)
+1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 5817)
    - The open-source app everyone uses to manage agents at work
    - Source: github
 
-2. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 1677)
+2. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 2010)
    - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
    - Source: github
 
-3. **[OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)** `RL`, `Research`, `Core` (⭐ 757)
-   - By papergirl | 389 points
-   - Source: hackernews
-
-4. **[How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)** `LLM`, `RL` (⭐ 601)
-   - By signa11 | 267 points
-   - Source: hackernews
-
-5. **[A searchable library of forgotten public-domain film clips from 1915 onward](https://www.movingimagearchive.com/)** `Framework`, `Core` (⭐ 419)
-   - By momentmaker | 186 points
-   - Source: hackernews
-
-6. **["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)** `LLM`, `NLP`, `Core` (⭐ 289)
-   - By yu3zhou4 | 67 points
-   - Source: hackernews
-
-7. **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)** `LLM`, `RL` (⭐ 235)
+3. **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)** `LLM`, `RL` (⭐ 1436)
    - Multi-agent harness that runs Claude Code and Codex together as one system
    - Source: github
 
-8. **[Teaching a World Model to Play Pokemon](https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/)** `RL`, `Core` (⭐ 118)
-   - By stmonty | 19 points
+4. **[Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)** `RL`, `Core` (⭐ 478)
+   - By davidcollantes | 219 points
+   - Source: hackernews
+
+5. **[Nvidia wants to put a watchdog chip next to every AI agent](https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/)** `RL`, `Core` (⭐ 136)
+   - By jonbaer | 29 points
    - Source: hackernews
 
 
