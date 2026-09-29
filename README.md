@@ -14,26 +14,42 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-28
+### 2026-09-29
 
-1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 5817)
+1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 4426)
    - The open-source app everyone uses to manage agents at work
    - Source: github
 
-2. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 2010)
-   - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+2. **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `RL`, `Robotics`, `Core` (⭐ 1793)
+   - OpenShell is the safe, private runtime for autonomous AI agents.
    - Source: github
 
-3. **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)** `LLM`, `RL` (⭐ 1436)
+3. **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** `RL`, `Core`, `Tools` (⭐ 1540)
+   - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+   - Source: github
+
+4. **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)** `LLM`, `RL` (⭐ 1349)
    - Multi-agent harness that runs Claude Code and Codex together as one system
    - Source: github
 
-4. **[Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)** `RL`, `Core` (⭐ 478)
-   - By davidcollantes | 219 points
+5. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 1267)
+   - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+   - Source: github
+
+6. **[ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)** `NLP`, `Core` (⭐ 334)
+   - By nkko | 132 points
    - Source: hackernews
 
-5. **[Nvidia wants to put a watchdog chip next to every AI agent](https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/)** `RL`, `Core` (⭐ 136)
-   - By jonbaer | 29 points
+7. **[1 in 8 cancer cases worldwide are caused by infections, study finds](https://www.cbc.ca/lite/story/9.7361622)** `RL`, `Research` (⭐ 170)
+   - By colinprince | 48 points
+   - Source: hackernews
+
+8. **[Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions](https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions)** `RL`, `Core` (⭐ 124)
+   - By dkobia | 22 points
+   - Source: hackernews
+
+9. **[Google ending ChromeOS support two years early](https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674)** `RL` (⭐ 123)
+   - By rbanffy | 15 points
    - Source: hackernews
 
 
