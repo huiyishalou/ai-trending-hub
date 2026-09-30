@@ -14,42 +14,50 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-29
+### 2026-09-30
 
-1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 4426)
-   - The open-source app everyone uses to manage agents at work
-   - Source: github
-
-2. **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `RL`, `Robotics`, `Core` (⭐ 1793)
+1. **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `RL`, `Robotics`, `Core` (⭐ 2337)
    - OpenShell is the safe, private runtime for autonomous AI agents.
    - Source: github
 
-3. **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** `RL`, `Core`, `Tools` (⭐ 1540)
+2. **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** `RL`, `Core`, `Tools` (⭐ 2031)
    - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
    - Source: github
 
-4. **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)** `LLM`, `RL` (⭐ 1349)
+3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1346)
+   - Skills for Real Engineers. Straight from my .agents directory.
+   - Source: github
+
+4. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 1263)
+   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+   - Source: github
+
+5. **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)** `LLM`, `RL` (⭐ 1150)
    - Multi-agent harness that runs Claude Code and Codex together as one system
    - Source: github
 
-5. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 1267)
-   - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+6. **[Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev)** `NLP`, `Core` (⭐ 455)
+   - By Anon84 | 166 points
+   - Source: hackernews
+
+7. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** `LLM`, `Core` (⭐ 293)
+   - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
    - Source: github
 
-6. **[ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)** `NLP`, `Core` (⭐ 334)
-   - By nkko | 132 points
-   - Source: hackernews
+8. **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** `LLM`, `RL` (⭐ 275)
+   - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+   - Source: github
 
-7. **[1 in 8 cancer cases worldwide are caused by infections, study finds](https://www.cbc.ca/lite/story/9.7361622)** `RL`, `Research` (⭐ 170)
-   - By colinprince | 48 points
-   - Source: hackernews
+9. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 248)
+   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+   - Source: github
 
-8. **[Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions](https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions)** `RL`, `Core` (⭐ 124)
-   - By dkobia | 22 points
-   - Source: hackernews
+10. **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** `NLP`, `Core` (⭐ 182)
+   - Model Context Protocol Servers
+   - Source: github
 
-9. **[Google ending ChromeOS support two years early](https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674)** `RL` (⭐ 123)
-   - By rbanffy | 15 points
+11. **[Getting out of the way: my robotics crash course](https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/)** `Robotics` (⭐ 101)
+   - By systemerror | 3 points
    - Source: hackernews
 
 
