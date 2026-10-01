@@ -14,50 +14,38 @@
 
 <!-- TRENDING_START -->
 
-### 2026-09-30
+### 2026-10-01
 
-1. **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `RL`, `Robotics`, `Core` (⭐ 2337)
+1. **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `RL`, `Robotics`, `Core` (⭐ 4538)
    - OpenShell is the safe, private runtime for autonomous AI agents.
    - Source: github
 
-2. **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** `RL`, `Core`, `Tools` (⭐ 2031)
-   - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-   - Source: github
-
-3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1346)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-4. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 1263)
+2. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 2170)
    - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
    - Source: github
 
-5. **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)** `LLM`, `RL` (⭐ 1150)
-   - Multi-agent harness that runs Claude Code and Codex together as one system
+3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1619)
+   - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-6. **[Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev)** `NLP`, `Core` (⭐ 455)
-   - By Anon84 | 166 points
-   - Source: hackernews
-
-7. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** `LLM`, `Core` (⭐ 293)
-   - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+4. **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)** `LLM`, `NLP`, `RL` (⭐ 1197)
+   - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
    - Source: github
 
-8. **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** `LLM`, `RL` (⭐ 275)
-   - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 881)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-9. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 248)
+6. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 733)
    - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
    - Source: github
 
-10. **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** `NLP`, `Core` (⭐ 182)
-   - Model Context Protocol Servers
+7. **[earendil-works/pi](https://github.com/earendil-works/pi)** `LLM`, `RL`, `Core` (⭐ 568)
+   - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
    - Source: github
 
-11. **[Getting out of the way: my robotics crash course](https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/)** `Robotics` (⭐ 101)
-   - By systemerror | 3 points
+8. **[Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)** `RL`, `Core` (⭐ 418)
+   - By anerli | 179 points
    - Source: hackernews
 
 
