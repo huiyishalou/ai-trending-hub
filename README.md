@@ -14,54 +14,54 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-02
+### 2026-10-03
 
-1. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 2620)
-   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-   - Source: github
-
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1740)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-3. **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)** `LLM`, `NLP`, `RL` (⭐ 1289)
-   - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
-   - Source: github
-
-4. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1286)
+1. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 3086)
    - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
    - Source: github
 
-5. **[Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)** `RL`, `Core` (⭐ 1094)
-   - By jasondavies | 561 points
-   - Source: hackernews
-
-6. **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `RL`, `Robotics`, `Core` (⭐ 1084)
-   - OpenShell is the safe, private runtime for autonomous AI agents.
+2. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 2368)
+   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
    - Source: github
 
-7. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1034)
+3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1371)
+   - Skills for Real Engineers. Straight from my .agents directory.
+   - Source: github
+
+4. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1088)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   - Source: github
+
+5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1064)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-8. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 587)
+6. **[earendil-works/pi](https://github.com/earendil-works/pi)** `LLM`, `RL`, `Core` (⭐ 773)
+   - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+   - Source: github
+
+7. **[Sites in ChatGPT](https://chatgpt.com/features/sites/)** `LLM` (⭐ 684)
+   - By polvi | 300 points
+   - Source: hackernews
+
+8. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 551)
    - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
    - Source: github
 
-9. **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** `LLM`, `RL` (⭐ 500)
-   - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+9. **[jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)** `RL`, `Core`, `Tools` (⭐ 454)
+   - No description
    - Source: github
 
-10. **[Context Language Models](https://arxiv.org/abs/2609.37725)** `NLP`, `Core` (⭐ 444)
-   - By emersonmacro | 160 points
-   - Source: hackernews
+10. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 397)
+   - Production-grade engineering skills for AI coding agents.
+   - Source: github
 
-11. **[ArXiv's Updated Rate Limit Policy](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/)** `RL`, `Research` (⭐ 329)
-   - By 50kIters | 136 points
-   - Source: hackernews
+11. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 351)
+   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+   - Source: github
 
-12. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 316)
-   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+12. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 337)
+   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
    - Source: github
 
 
