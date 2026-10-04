@@ -14,54 +14,38 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-03
+### 2026-10-04
 
-1. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 3086)
-   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-   - Source: github
-
-2. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 2368)
+1. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 3457)
    - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
    - Source: github
 
-3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1371)
-   - Skills for Real Engineers. Straight from my .agents directory.
+2. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1819)
+   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
    - Source: github
 
-4. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1088)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1064)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-6. **[earendil-works/pi](https://github.com/earendil-works/pi)** `LLM`, `RL`, `Core` (⭐ 773)
-   - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-   - Source: github
-
-7. **[Sites in ChatGPT](https://chatgpt.com/features/sites/)** `LLM` (⭐ 684)
-   - By polvi | 300 points
-   - Source: hackernews
-
-8. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 551)
-   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-   - Source: github
-
-9. **[jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)** `RL`, `Core`, `Tools` (⭐ 454)
-   - No description
-   - Source: github
-
-10. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 397)
-   - Production-grade engineering skills for AI coding agents.
-   - Source: github
-
-11. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 351)
+3. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1273)
    - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
    - Source: github
 
-12. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 337)
-   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+4. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 687)
+   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+   - Source: github
+
+5. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 662)
+   - Production-grade engineering skills for AI coding agents.
+   - Source: github
+
+6. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 559)
+   - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+   - Source: github
+
+7. **[antirez/ds4](https://github.com/antirez/ds4)** `LLM`, `Core` (⭐ 407)
+   - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+   - Source: github
+
+8. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** `NLP`, `RL` (⭐ 207)
+   - Give your agent CAD superpowers.
    - Source: github
 
 
