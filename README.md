@@ -14,39 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-04
+### 2026-10-05
 
-1. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 3457)
-   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-   - Source: github
-
-2. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1819)
+1. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 2138)
    - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
    - Source: github
 
-3. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1273)
-   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-   - Source: github
-
-4. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `LLM`, `RL`, `Core` (⭐ 687)
-   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-   - Source: github
-
-5. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 662)
-   - Production-grade engineering skills for AI coding agents.
-   - Source: github
-
-6. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 559)
+2. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 1397)
    - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
    - Source: github
 
-7. **[antirez/ds4](https://github.com/antirez/ds4)** `LLM`, `Core` (⭐ 407)
-   - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+3. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1105)
+   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
    - Source: github
 
-8. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** `NLP`, `RL` (⭐ 207)
+4. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** `NLP`, `RL` (⭐ 893)
    - Give your agent CAD superpowers.
    - Source: github
+
+5. **[michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)** `LLM`, `RL` (⭐ 502)
+   - Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+   - Source: github
+
+6. **[The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news](https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/)** `RL`, `Core` (⭐ 194)
+   - By giuliomagnifico | 61 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
