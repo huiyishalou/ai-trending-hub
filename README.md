@@ -14,30 +14,42 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-05
+### 2026-10-06
 
-1. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 2138)
-   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 5393)
+   - Reverse engineer anything with agents, from app behavior down to native binaries.
    - Source: github
 
-2. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** `RL`, `Core` (⭐ 1397)
-   - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1871)
+   - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-3. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1105)
-   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-   - Source: github
-
-4. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** `NLP`, `RL` (⭐ 893)
+3. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** `NLP`, `RL` (⭐ 1188)
    - Give your agent CAD superpowers.
    - Source: github
 
-5. **[michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)** `LLM`, `RL` (⭐ 502)
-   - Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+4. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1109)
+   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
    - Source: github
 
-6. **[The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news](https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/)** `RL`, `Core` (⭐ 194)
-   - By giuliomagnifico | 61 points
+5. **[deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)** `LLM`, `Framework`, `Core` (⭐ 773)
+   - DeepGEMM: clean and efficient BLAS kernel library on GPU
+   - Source: github
+
+6. **[Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)** `Framework`, `Core` (⭐ 550)
+   - By E-Reverance | 239 points
+   - Source: hackernews
+
+7. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 454)
+   - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+   - Source: github
+
+8. **[Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl](https://mastodon.social/@bagder/117392573268225646)** `RL`, `Core` (⭐ 111)
+   - By torutofu | 15 points
+   - Source: hackernews
+
+9. **[Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)** `Framework`, `Core` (⭐ 106)
+   - By faithraven | 27 points
    - Source: hackernews
 
 
