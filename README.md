@@ -14,50 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-07
+### 2026-10-08
 
-1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 8459)
+1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 13999)
    - Reverse engineer anything with agents, from app behavior down to native binaries.
    - Source: github
 
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2552)
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3207)
    - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-3. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 1535)
+3. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 2138)
    - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-4. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1184)
+4. **[Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)** `LLM`, `Core` (⭐ 1861)
+   - By sfkgtbor | 974 points
+   - Source: hackernews
+
+5. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1336)
    - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
    - Source: github
 
-5. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 872)
-   - Production-grade engineering skills for AI coding agents.
-   - Source: github
-
-6. **[EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/)** `NLP`, `Core`, `Tools` (⭐ 831)
-   - By ilreb | 395 points
-   - Source: hackernews
-
-7. **[trycua/cua](https://github.com/trycua/cua)** `Research`, `Core` (⭐ 448)
-   - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-   - Source: github
-
-8. **[Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse)** `RL`, `Core` (⭐ 172)
-   - By ilreb | 49 points
-   - Source: hackernews
-
-9. **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** `RL`, `Core` (⭐ 138)
-   - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-   - Source: github
-
-10. **[We Built an Alternative to Vector RAG for AI Agent Memory](https://www.claix.dev/blog/rag-for-ai-agents-agentic-retrieval)** `RL`, `Core`, `Tools` (⭐ 137)
-   - By gael_dev | 3 points
-   - Source: hackernews
-
-11. **[Device detection and occupancy monitoring for Airbnb hosts](https://www.minut.com/features/occupancy-monitoring)** `Vision`, `Core` (⭐ 112)
-   - By mikeodds | 9 points
+6. **[I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities](https://quesma.com/blog/invisible-cities-one-shot/)** `Vision`, `Tools` (⭐ 403)
+   - By stared | 177 points
    - Source: hackernews
 
 
