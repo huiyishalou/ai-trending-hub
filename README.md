@@ -14,31 +14,39 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-08
+### 2026-10-09
 
-1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 13999)
+1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 27663)
    - Reverse engineer anything with agents, from app behavior down to native binaries.
    - Source: github
 
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3207)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-3. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 2138)
+2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 3184)
    - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-4. **[Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)** `LLM`, `Core` (⭐ 1861)
-   - By sfkgtbor | 974 points
-   - Source: hackernews
-
-5. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 1336)
-   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3074)
+   - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-6. **[I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities](https://quesma.com/blog/invisible-cities-one-shot/)** `Vision`, `Tools` (⭐ 403)
-   - By stared | 177 points
+4. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1409)
+   - Production-grade engineering skills for AI coding agents.
+   - Source: github
+
+5. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 620)
+   - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+   - Source: github
+
+6. **[Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)** `NLP`, `RL`, `Core` (⭐ 526)
+   - By franze | 212 points
    - Source: hackernews
+
+7. **[Iranian campaign planted fake articles in real U.S. publications using ChatGPT](https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/)** `LLM`, `Core` (⭐ 344)
+   - By cainxinth | 91 points
+   - Source: hackernews
+
+8. **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** `NLP`, `Research` (⭐ 220)
+   - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
+   - Source: github
 
 
 <!-- TRENDING_END -->
