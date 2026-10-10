@@ -14,38 +14,42 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-09
+### 2026-10-10
 
-1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 27663)
+1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 46471)
    - Reverse engineer anything with agents, from app behavior down to native binaries.
    - Source: github
 
-2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 3184)
-   - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-   - Source: github
-
-3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3074)
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3148)
    - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-4. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1409)
-   - Production-grade engineering skills for AI coding agents.
+3. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 2185)
+   - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-5. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 620)
-   - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+4. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** `RL`, `Core` (⭐ 691)
+   - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
    - Source: github
 
-6. **[Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)** `NLP`, `RL`, `Core` (⭐ 526)
-   - By franze | 212 points
-   - Source: hackernews
+5. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 574)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   - Source: github
 
-7. **[Iranian campaign planted fake articles in real U.S. publications using ChatGPT](https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/)** `LLM`, `Core` (⭐ 344)
-   - By cainxinth | 91 points
-   - Source: hackernews
+6. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 410)
+   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+   - Source: github
 
-8. **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** `NLP`, `Research` (⭐ 220)
-   - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
+7. **[huggingface/transformers](https://github.com/huggingface/transformers)** `Vision`, `NLP`, `Framework`, `Core` (⭐ 304)
+   - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+   - Source: github
+
+8. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** `Framework`, `Core` (⭐ 203)
+   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+   - Source: github
+
+9. **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** `Framework`, `Core` (⭐ 112)
+   - An Open Source Machine Learning Framework for Everyone
    - Source: github
 
 
