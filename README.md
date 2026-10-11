@@ -14,43 +14,27 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-10
+### 2026-10-11
 
-1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 46471)
+1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 46113)
    - Reverse engineer anything with agents, from app behavior down to native binaries.
    - Source: github
 
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3148)
-   - Skills for Real Engineers. Straight from my .agents directory.
+2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 1994)
+   - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-3. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 2185)
-   - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 1139)
+   - AirLLM 70B inference with single 4GB GPU
    - Source: github
 
-4. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** `RL`, `Core` (⭐ 691)
-   - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-   - Source: github
-
-5. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 574)
-   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-   - Source: github
-
-6. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 410)
-   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-   - Source: github
-
-7. **[huggingface/transformers](https://github.com/huggingface/transformers)** `Vision`, `NLP`, `Framework`, `Core` (⭐ 304)
-   - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-   - Source: github
-
-8. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** `Framework`, `Core` (⭐ 203)
+4. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** `Framework`, `Core` (⭐ 622)
    - Tensors and Dynamic neural networks in Python with strong GPU acceleration
    - Source: github
 
-9. **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** `Framework`, `Core` (⭐ 112)
-   - An Open Source Machine Learning Framework for Everyone
-   - Source: github
+5. **[Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)** `NLP`, `Core` (⭐ 251)
+   - By theanonymousone | 86 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
