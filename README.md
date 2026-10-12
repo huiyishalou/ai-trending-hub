@@ -14,27 +14,35 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-11
+### 2026-10-12
 
-1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 46113)
+1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 81951)
    - Reverse engineer anything with agents, from app behavior down to native binaries.
    - Source: github
 
-2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 1994)
+2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 3825)
    - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 1139)
+3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 1760)
    - AirLLM 70B inference with single 4GB GPU
    - Source: github
 
-4. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** `Framework`, `Core` (⭐ 622)
-   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+4. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** `LLM`, `RL`, `Core` (⭐ 1362)
+   - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
    - Source: github
 
-5. **[Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)** `NLP`, `Core` (⭐ 251)
-   - By theanonymousone | 86 points
-   - Source: hackernews
+5. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 799)
+   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+   - Source: github
+
+6. **[open-webui/open-webui](https://github.com/open-webui/open-webui)** `LLM`, `RL`, `Core` (⭐ 295)
+   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+   - Source: github
+
+7. **[microsoft/BitNet](https://github.com/microsoft/BitNet)** `LLM`, `Framework`, `Core` (⭐ 280)
+   - Official inference framework for 1-bit LLMs
+   - Source: github
 
 
 <!-- TRENDING_END -->
