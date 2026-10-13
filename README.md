@@ -14,35 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-12
+### 2026-10-13
 
-1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 81951)
+1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 98531)
    - Reverse engineer anything with agents, from app behavior down to native binaries.
    - Source: github
 
-2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 3825)
+2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 3308)
    - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 1760)
-   - AirLLM 70B inference with single 4GB GPU
+3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 1972)
+   - AirLLM 2.8T LLM inference with single 4GB GPU
    - Source: github
 
-4. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** `LLM`, `RL`, `Core` (⭐ 1362)
-   - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
-   - Source: github
-
-5. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 799)
+4. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 1850)
    - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
    - Source: github
 
-6. **[open-webui/open-webui](https://github.com/open-webui/open-webui)** `LLM`, `RL`, `Core` (⭐ 295)
-   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-   - Source: github
+5. **[We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)** `NLP`, `Core`, `Tools` (⭐ 635)
+   - By amrrs | 253 points
+   - Source: hackernews
 
-7. **[microsoft/BitNet](https://github.com/microsoft/BitNet)** `LLM`, `Framework`, `Core` (⭐ 280)
-   - Official inference framework for 1-bit LLMs
-   - Source: github
+6. **[Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)** `LLM`, `Core` (⭐ 436)
+   - By khalidkhair | 197 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
