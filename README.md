@@ -14,30 +14,26 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-13
+### 2026-10-14
 
-1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 98531)
+1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 74197)
    - Reverse engineer anything with agents, from app behavior down to native binaries.
    - Source: github
 
-2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 3308)
-   - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+2. **[ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)** `RL`, `Core` (⭐ 3917)
+   - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
    - Source: github
 
-3. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `LLM`, `RL`, `Core` (⭐ 1972)
-   - AirLLM 2.8T LLM inference with single 4GB GPU
+3. **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** `RL`, `Robotics`, `Core` (⭐ 3355)
+   - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
    - Source: github
 
-4. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 1850)
+4. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 1793)
    - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
    - Source: github
 
-5. **[We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)** `NLP`, `Core`, `Tools` (⭐ 635)
-   - By amrrs | 253 points
-   - Source: hackernews
-
-6. **[Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)** `LLM`, `Core` (⭐ 436)
-   - By khalidkhair | 197 points
+5. **[TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)** `RL`, `Core` (⭐ 156)
+   - By tobr | 40 points
    - Source: hackernews
 
 
