@@ -14,27 +14,35 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-14
+### 2026-10-15
 
-1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 74197)
+1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 58168)
    - Reverse engineer anything with agents, from app behavior down to native binaries.
    - Source: github
 
-2. **[ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)** `RL`, `Core` (⭐ 3917)
-   - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1875)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-3. **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** `RL`, `Robotics`, `Core` (⭐ 3355)
-   - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-   - Source: github
-
-4. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 1793)
+3. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 1714)
    - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
    - Source: github
 
-5. **[TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)** `RL`, `Core` (⭐ 156)
-   - By tobr | 40 points
-   - Source: hackernews
+4. **[xerj-org/xerj](https://github.com/xerj-org/xerj)** `RL`, `Core`, `Tools` (⭐ 1332)
+   - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
+   - Source: github
+
+5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 985)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+6. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 326)
+   - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+   - Source: github
+
+7. **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** `LLM`, `Core` (⭐ 72)
+   - TokenSpeed is a speed-of-light LLM inference engine.
+   - Source: github
 
 
 <!-- TRENDING_END -->
