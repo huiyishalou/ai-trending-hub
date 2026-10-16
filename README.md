@@ -14,35 +14,35 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-15
+### 2026-10-16
 
-1. **[morluto/rea](https://github.com/morluto/rea)** `RL` (⭐ 58168)
-   - Reverse engineer anything with agents, from app behavior down to native binaries.
-   - Source: github
-
-2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1875)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-3. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 1714)
-   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-   - Source: github
-
-4. **[xerj-org/xerj](https://github.com/xerj-org/xerj)** `RL`, `Core`, `Tools` (⭐ 1332)
+1. **[xerj-org/xerj](https://github.com/xerj-org/xerj)** `RL`, `Core`, `Tools` (⭐ 2992)
    - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
    - Source: github
 
-5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 985)
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1951)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   - Source: github
+
+3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1775)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-6. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 326)
+4. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 1648)
+   - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+   - Source: github
+
+5. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 1273)
    - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
    - Source: github
 
-7. **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** `LLM`, `Core` (⭐ 72)
-   - TokenSpeed is a speed-of-light LLM inference engine.
+6. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** `NLP`, `RL`, `Core` (⭐ 898)
+   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
    - Source: github
+
+7. **[Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)** `Vision`, `Core` (⭐ 674)
+   - By dvrp | 321 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
