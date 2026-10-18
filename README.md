@@ -14,46 +14,26 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-17
+### 2026-10-18
 
-1. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 2581)
+1. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 4049)
    - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
    - Source: github
 
-2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2109)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+2. **[stablyai/orca](https://github.com/stablyai/orca)** `LLM`, `RL`, `Core` (⭐ 2129)
+   - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
    - Source: github
 
-3. **[stablyai/orca](https://github.com/stablyai/orca)** `RL`, `Core` (⭐ 2032)
-   - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+3. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 971)
+   - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
    - Source: github
 
-4. **[xerj-org/xerj](https://github.com/xerj-org/xerj)** `RL`, `Core`, `Tools` (⭐ 2011)
-   - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
-   - Source: github
-
-5. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 794)
+4. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 967)
    - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
    - Source: github
 
-6. **[How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)** `LLM`, `NLP` (⭐ 751)
-   - By pretext | 369 points
-   - Source: hackernews
-
-7. **[Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)** `LLM`, `Core` (⭐ 688)
-   - By Anon84 | 302 points
-   - Source: hackernews
-
-8. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `LLM`, `NLP`, `RL`, `Core` (⭐ 410)
-   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-   - Source: github
-
-9. **[Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)** `LLM`, `NLP` (⭐ 355)
-   - By pretext | 149 points
-   - Source: hackernews
-
-10. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 334)
-   - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+5. **[mlabonne/llm-course](https://github.com/mlabonne/llm-course)** `LLM`, `NLP`, `Core` (⭐ 242)
+   - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
    - Source: github
 
 
