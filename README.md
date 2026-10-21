@@ -14,47 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-20
+### 2026-10-21
 
-1. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 7068)
+1. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 5702)
    - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
    - Source: github
 
-2. **[stablyai/orca](https://github.com/stablyai/orca)** `LLM`, `RL`, `Core` (⭐ 2872)
-   - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-   - Source: github
+2. **[DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)** `LLM`, `Framework`, `Core` (⭐ 4282)
+   - By ggcr | 2272 points
+   - Source: hackernews
 
-3. **[YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)** `LLM`, `Core`, `Tools` (⭐ 2144)
-   - DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
-   - Source: github
-
-4. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 1861)
+3. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 3740)
    - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
    - Source: github
 
-5. **[DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)** `LLM`, `Core` (⭐ 1802)
-   - By ggcr | 941 points
-   - Source: hackernews
+4. **[stablyai/orca](https://github.com/stablyai/orca)** `LLM`, `RL`, `Core` (⭐ 2843)
+   - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+   - Source: github
 
-6. **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** `LLM`, `Core`, `Tools` (⭐ 1403)
+5. **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** `LLM`, `Core`, `Tools` (⭐ 2632)
    - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
    - Source: github
 
-7. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** `LLM`, `RL`, `Robotics`, `Core`, `Tools` (⭐ 1292)
-   - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+6. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 1506)
+   - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
    - Source: github
 
-8. **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** `LLM`, `Framework`, `RL`, `Core`, `Tools` (⭐ 1083)
+7. **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** `LLM`, `Framework`, `RL`, `Core`, `Tools` (⭐ 943)
    - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
    - Source: github
 
-9. **[vllm-project/vllm](https://github.com/vllm-project/vllm)** `LLM`, `Core` (⭐ 257)
+8. **[vllm-project/vllm](https://github.com/vllm-project/vllm)** `LLM`, `Core` (⭐ 871)
    - A high-throughput and memory-efficient inference and serving engine for LLMs
    - Source: github
 
-10. **[sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)** `RL`, `Robotics` (⭐ 164)
-   - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
-   - Source: github
+9. **[Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)** `RL`, `Core` (⭐ 325)
+   - By firloop | 154 points
+   - Source: hackernews
+
+10. **[LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)** `RL`, `Core` (⭐ 106)
+   - By l2dy | 12 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
