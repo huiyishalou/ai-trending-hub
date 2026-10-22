@@ -14,46 +14,22 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-21
+### 2026-10-22
 
-1. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** `LLM`, `Framework`, `Core` (⭐ 5702)
-   - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
-   - Source: github
-
-2. **[DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)** `LLM`, `Framework`, `Core` (⭐ 4282)
-   - By ggcr | 2272 points
-   - Source: hackernews
-
-3. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 3740)
+1. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 3556)
    - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
    - Source: github
 
-4. **[stablyai/orca](https://github.com/stablyai/orca)** `LLM`, `RL`, `Core` (⭐ 2843)
-   - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-   - Source: github
-
-5. **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** `LLM`, `Core`, `Tools` (⭐ 2632)
+2. **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** `LLM`, `Core`, `Tools` (⭐ 2584)
    - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
    - Source: github
 
-6. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `RL`, `Core` (⭐ 1506)
-   - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+3. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** `LLM`, `Vision`, `RL` (⭐ 869)
+   - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
    - Source: github
 
-7. **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** `LLM`, `Framework`, `RL`, `Core`, `Tools` (⭐ 943)
-   - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-   - Source: github
-
-8. **[vllm-project/vllm](https://github.com/vllm-project/vllm)** `LLM`, `Core` (⭐ 871)
-   - A high-throughput and memory-efficient inference and serving engine for LLMs
-   - Source: github
-
-9. **[Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)** `RL`, `Core` (⭐ 325)
-   - By firloop | 154 points
-   - Source: hackernews
-
-10. **[LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)** `RL`, `Core` (⭐ 106)
-   - By l2dy | 12 points
+4. **[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)** `RL`, `Core` (⭐ 732)
+   - By alphax314 | 340 points
    - Source: hackernews
 
 
