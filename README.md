@@ -14,23 +14,23 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-22
+### 2026-10-23
 
-1. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** `RL`, `Core` (⭐ 3556)
-   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-   - Source: github
-
-2. **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** `LLM`, `Core`, `Tools` (⭐ 2584)
-   - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-   - Source: github
-
-3. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** `LLM`, `Vision`, `RL` (⭐ 869)
-   - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-   - Source: github
-
-4. **[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)** `RL`, `Core` (⭐ 732)
-   - By alphax314 | 340 points
+1. **[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)** `RL`, `Core` (⭐ 1137)
+   - By alphax314 | 565 points
    - Source: hackernews
+
+2. **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** `LLM`, `Framework`, `Core` (⭐ 496)
+   - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+   - Source: github
+
+3. **[Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)** `LLM` (⭐ 419)
+   - By armcat | 113 points
+   - Source: hackernews
+
+4. **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `RL`, `Robotics`, `Core` (⭐ 413)
+   - OpenShell is the safe, private runtime for autonomous AI agents.
+   - Source: github
 
 
 <!-- TRENDING_END -->
