@@ -14,23 +14,43 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-23
+### 2026-10-24
 
-1. **[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)** `RL`, `Core` (⭐ 1137)
-   - By alphax314 | 565 points
-   - Source: hackernews
-
-2. **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** `LLM`, `Framework`, `Core` (⭐ 496)
-   - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+1. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** `LLM`, `Vision`, `RL` (⭐ 1994)
+   - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
    - Source: github
 
-3. **[Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)** `LLM` (⭐ 419)
-   - By armcat | 113 points
-   - Source: hackernews
-
-4. **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `RL`, `Robotics`, `Core` (⭐ 413)
+2. **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `RL`, `Robotics`, `Core` (⭐ 1640)
    - OpenShell is the safe, private runtime for autonomous AI agents.
    - Source: github
+
+3. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 1120)
+   - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+   - Source: github
+
+4. **[makecindy/cindy](https://github.com/makecindy/cindy)** `RL`, `Core` (⭐ 869)
+   - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+   - Source: github
+
+5. **[pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)** `Robotics` (⭐ 854)
+   - A Tiny biped duck robot 🦆
+   - Source: github
+
+6. **[A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)** `Vision`, `RL`, `Core` (⭐ 484)
+   - By westsmith | 122 points
+   - Source: hackernews
+
+7. **[AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)** `Framework`, `Research`, `Core` (⭐ 178)
+   - By TangerineDream | 32 points
+   - Source: hackernews
+
+8. **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** `LLM`, `RL`, `Core` (⭐ 161)
+   - An open-source AI agent that brings the power of Gemini directly into your terminal.
+   - Source: github
+
+9. **[The Chalk and the Airplane](https://unintendedconsequenc.es/chalk-and-the-airplane/)** `RL`, `Core` (⭐ 64)
+   - By paulorlando | 9 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
