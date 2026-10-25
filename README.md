@@ -14,42 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-24
+### 2026-10-25
 
-1. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** `LLM`, `Vision`, `RL` (⭐ 1994)
-   - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-   - Source: github
-
-2. **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `RL`, `Robotics`, `Core` (⭐ 1640)
-   - OpenShell is the safe, private runtime for autonomous AI agents.
-   - Source: github
-
-3. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 1120)
+1. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 2545)
    - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
    - Source: github
 
-4. **[makecindy/cindy](https://github.com/makecindy/cindy)** `RL`, `Core` (⭐ 869)
-   - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-   - Source: github
-
-5. **[pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)** `Robotics` (⭐ 854)
+2. **[pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)** `Robotics` (⭐ 1279)
    - A Tiny biped duck robot 🦆
    - Source: github
 
-6. **[A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)** `Vision`, `RL`, `Core` (⭐ 484)
-   - By westsmith | 122 points
-   - Source: hackernews
-
-7. **[AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)** `Framework`, `Research`, `Core` (⭐ 178)
-   - By TangerineDream | 32 points
-   - Source: hackernews
-
-8. **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** `LLM`, `RL`, `Core` (⭐ 161)
-   - An open-source AI agent that brings the power of Gemini directly into your terminal.
+3. **[makecindy/cindy](https://github.com/makecindy/cindy)** `RL`, `Core` (⭐ 1240)
+   - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
    - Source: github
 
-9. **[The Chalk and the Airplane](https://unintendedconsequenc.es/chalk-and-the-airplane/)** `RL`, `Core` (⭐ 64)
-   - By paulorlando | 9 points
+4. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 670)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+   - Source: github
+
+5. **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** `LLM`, `RL` (⭐ 424)
+   - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+   - Source: github
+
+6. **[Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)** `Vision`, `Framework`, `Core` (⭐ 315)
+   - By mashally | 95 points
+   - Source: hackernews
+
+7. **[Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions](https://pragtical.dev/blog/pragtical-v3140-release)** `NLP`, `Tools` (⭐ 122)
+   - By rd07 | 21 points
    - Source: hackernews
 
 
