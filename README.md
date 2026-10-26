@@ -14,35 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-25
+### 2026-10-26
 
-1. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 2545)
+1. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 4122)
    - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
    - Source: github
 
-2. **[pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)** `Robotics` (⭐ 1279)
-   - A Tiny biped duck robot 🦆
-   - Source: github
-
-3. **[makecindy/cindy](https://github.com/makecindy/cindy)** `RL`, `Core` (⭐ 1240)
-   - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-   - Source: github
-
-4. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 670)
+2. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 2591)
    - TradingAgents: Multi-Agents LLM Financial Trading Framework
    - Source: github
 
-5. **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** `LLM`, `RL` (⭐ 424)
-   - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+3. **[makecindy/cindy](https://github.com/makecindy/cindy)** `RL`, `Core` (⭐ 2303)
+   - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
    - Source: github
 
-6. **[Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)** `Vision`, `Framework`, `Core` (⭐ 315)
-   - By mashally | 95 points
-   - Source: hackernews
+4. **[pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)** `Robotics` (⭐ 1615)
+   - A Tiny biped duck robot 🦆
+   - Source: github
 
-7. **[Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions](https://pragtical.dev/blog/pragtical-v3140-release)** `NLP`, `Tools` (⭐ 122)
-   - By rd07 | 21 points
-   - Source: hackernews
+5. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1583)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   - Source: github
+
+6. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1358)
+   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+   - Source: github
+
+7. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 895)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   - Source: github
+
+8. **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** `LLM`, `RL`, `Core`, `Tools` (⭐ 410)
+   - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+   - Source: github
+
+9. **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** `LLM`, `RL`, `Core` (⭐ 385)
+   - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
+   - Source: github
+
+10. **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 206)
+   - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+   - Source: github
 
 
 <!-- TRENDING_END -->
