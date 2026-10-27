@@ -14,47 +14,31 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-26
+### 2026-10-27
 
-1. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 4122)
+1. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 5245)
    - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
    - Source: github
 
-2. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `LLM`, `Framework`, `RL`, `Research` (⭐ 2591)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
-   - Source: github
-
-3. **[makecindy/cindy](https://github.com/makecindy/cindy)** `RL`, `Core` (⭐ 2303)
+2. **[makecindy/cindy](https://github.com/makecindy/cindy)** `RL`, `Core` (⭐ 2624)
    - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
    - Source: github
 
-4. **[pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)** `Robotics` (⭐ 1615)
-   - A Tiny biped duck robot 🦆
-   - Source: github
-
-5. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1583)
+3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2177)
    - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
    - Source: github
 
-6. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** `RL`, `Core` (⭐ 1358)
-   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-   - Source: github
-
-7. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `LLM`, `Core` (⭐ 895)
-   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-   - Source: github
-
-8. **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** `LLM`, `RL`, `Core`, `Tools` (⭐ 410)
-   - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
-   - Source: github
-
-9. **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** `LLM`, `RL`, `Core` (⭐ 385)
-   - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
-   - Source: github
-
-10. **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 206)
+4. **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 1480)
    - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
    - Source: github
+
+5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1118)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+6. **[Kauldron: Modular, scalable library to train ML models](https://github.com/google-research/kauldron)** `Framework`, `Core` (⭐ 129)
+   - By nateb2022 | 5 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
