@@ -14,31 +14,43 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-27
+### 2026-10-28
 
-1. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 5245)
+1. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `LLM`, `Core` (⭐ 3895)
    - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
    - Source: github
 
-2. **[makecindy/cindy](https://github.com/makecindy/cindy)** `RL`, `Core` (⭐ 2624)
-   - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+2. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** `RL`, `Core` (⭐ 2669)
+   - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
    - Source: github
 
-3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 2177)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-   - Source: github
-
-4. **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 1480)
-   - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-   - Source: github
-
-5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1118)
+3. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1997)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-6. **[Kauldron: Modular, scalable library to train ML models](https://github.com/google-research/kauldron)** `Framework`, `Core` (⭐ 129)
-   - By nateb2022 | 5 points
+4. **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 1946)
+   - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+   - Source: github
+
+5. **[makecindy/cindy](https://github.com/makecindy/cindy)** `RL`, `Core` (⭐ 1353)
+   - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+   - Source: github
+
+6. **[Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)** `LLM`, `Framework`, `Core` (⭐ 946)
+   - By Luc | 439 points
    - Source: hackernews
+
+7. **[Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)** `LLM`, `RL` (⭐ 620)
+   - By dataking | 278 points
+   - Source: hackernews
+
+8. **[expo/skills](https://github.com/expo/skills)** `RL`, `Core` (⭐ 403)
+   - A collection of AI agent skills for working with Expo projects and Expo Application Services
+   - Source: github
+
+9. **[macro-inc/macro](https://github.com/macro-inc/macro)** `RL`, `Core` (⭐ 212)
+   - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+   - Source: github
 
 
 <!-- TRENDING_END -->
