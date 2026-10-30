@@ -14,31 +14,47 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-29
+### 2026-10-30
 
-1. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** `RL`, `Core` (⭐ 5207)
+1. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** `RL`, `Core` (⭐ 4159)
    - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
    - Source: github
 
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1891)
+2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2283)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-3. **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** `LLM`, `RL`, `Robotics`, `Core` (⭐ 1320)
-   - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-   - Source: github
-
-4. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 727)
+3. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 2205)
    - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
    - Source: github
 
-5. **[OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)** `RL`, `Core` (⭐ 615)
-   - By limbicsystem | 295 points
-   - Source: hackernews
+4. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1609)
+   - Skills for Real Engineers. Straight from my .agents directory.
+   - Source: github
 
-6. **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** `LLM`, `RL`, `Core` (⭐ 525)
+5. **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** `LLM`, `RL`, `Core` (⭐ 1366)
    - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
    - Source: github
+
+6. **[macro-inc/macro](https://github.com/macro-inc/macro)** `RL`, `Core` (⭐ 703)
+   - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+   - Source: github
+
+7. **[We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)** `RL`, `Core` (⭐ 703)
+   - By sandslash | 344 points
+   - Source: hackernews
+
+8. **[US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)** `Vision`, `RL`, `Core` (⭐ 637)
+   - By DeepLogin | 274 points
+   - Source: hackernews
+
+9. **[expo/skills](https://github.com/expo/skills)** `RL`, `Core` (⭐ 440)
+   - A collection of AI agent skills for working with Expo projects and Expo Application Services
+   - Source: github
+
+10. **[Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)** `Framework`, `Core` (⭐ 212)
+   - By maitland | 86 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
