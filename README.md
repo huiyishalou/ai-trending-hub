@@ -14,47 +14,39 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-30
+### 2026-10-31
 
-1. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** `RL`, `Core` (⭐ 4159)
+1. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 3245)
+   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+   - Source: github
+
+2. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** `RL`, `Core` (⭐ 2431)
    - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
    - Source: github
 
-2. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 2283)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-3. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 2205)
-   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+3. **[Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas)** `LLM`, `RL`, `Core` (⭐ 1882)
+   - Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
    - Source: github
 
 4. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1609)
    - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-5. **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** `LLM`, `RL`, `Core` (⭐ 1366)
-   - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1217)
+   - An agentic skills framework & software development methodology that works.
    - Source: github
 
-6. **[macro-inc/macro](https://github.com/macro-inc/macro)** `RL`, `Core` (⭐ 703)
-   - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+6. **[Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)** `RL`, `Core` (⭐ 930)
+   - By input_sh | 470 points
+   - Source: hackernews
+
+7. **[We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)** `LLM` (⭐ 335)
+   - By armcat | 106 points
+   - Source: hackernews
+
+8. **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** `RL`, `Core` (⭐ 255)
+   - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
    - Source: github
-
-7. **[We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)** `RL`, `Core` (⭐ 703)
-   - By sandslash | 344 points
-   - Source: hackernews
-
-8. **[US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)** `Vision`, `RL`, `Core` (⭐ 637)
-   - By DeepLogin | 274 points
-   - Source: hackernews
-
-9. **[expo/skills](https://github.com/expo/skills)** `RL`, `Core` (⭐ 440)
-   - A collection of AI agent skills for working with Expo projects and Expo Application Services
-   - Source: github
-
-10. **[Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)** `Framework`, `Core` (⭐ 212)
-   - By maitland | 86 points
-   - Source: hackernews
 
 
 <!-- TRENDING_END -->
