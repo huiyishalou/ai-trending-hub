@@ -14,39 +14,39 @@
 
 <!-- TRENDING_START -->
 
-### 2026-10-31
+### 2026-11-01
 
-1. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 3245)
+1. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 2893)
    - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
    - Source: github
 
-2. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** `RL`, `Core` (⭐ 2431)
-   - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+2. **[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1115)
+   - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
    - Source: github
 
-3. **[Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas)** `LLM`, `RL`, `Core` (⭐ 1882)
-   - Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
+3. **[beenuar/AiSOC](https://github.com/beenuar/AiSOC)** `LLM`, `RL`, `Core` (⭐ 869)
+   - Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
    - Source: github
 
-4. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1609)
-   - Skills for Real Engineers. Straight from my .agents directory.
+4. **[cjpais/Handy](https://github.com/cjpais/Handy)** `NLP`, `Core` (⭐ 740)
+   - A free, open source, and extensible speech-to-text application that works completely offline.
    - Source: github
 
-5. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1217)
-   - An agentic skills framework & software development methodology that works.
-   - Source: github
-
-6. **[Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)** `RL`, `Core` (⭐ 930)
-   - By input_sh | 470 points
+5. **[Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)** `LLM`, `Core` (⭐ 693)
+   - By guregodevo | 325 points
    - Source: hackernews
 
-7. **[We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)** `LLM` (⭐ 335)
-   - By armcat | 106 points
-   - Source: hackernews
-
-8. **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** `RL`, `Core` (⭐ 255)
-   - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+6. **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** `LLM`, `RL`, `Core` (⭐ 413)
+   - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
    - Source: github
+
+7. **[kornia/kornia](https://github.com/kornia/kornia)** `Vision`, `Framework`, `Core` (⭐ 194)
+   - 🐍 Geometric Computer Vision Library for Spatial AI
+   - Source: github
+
+8. **[AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)** `RL`, `Core` (⭐ 134)
+   - By entryleveljobsc | 28 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
