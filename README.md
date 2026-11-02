@@ -14,38 +14,46 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-01
+### 2026-11-02
 
-1. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 2893)
+1. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 3382)
    - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
    - Source: github
 
-2. **[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)** `LLM`, `RL`, `Core`, `Tools` (⭐ 1115)
-   - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1767)
+   - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-3. **[beenuar/AiSOC](https://github.com/beenuar/AiSOC)** `LLM`, `RL`, `Core` (⭐ 869)
-   - Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
+3. **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Framework`, `Core` (⭐ 1565)
+   - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
    - Source: github
 
-4. **[cjpais/Handy](https://github.com/cjpais/Handy)** `NLP`, `Core` (⭐ 740)
-   - A free, open source, and extensible speech-to-text application that works completely offline.
+4. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 896)
+   - The open-source app everyone uses to manage agents at work
    - Source: github
 
-5. **[Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)** `LLM`, `Core` (⭐ 693)
-   - By guregodevo | 325 points
-   - Source: hackernews
-
-6. **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** `LLM`, `RL`, `Core` (⭐ 413)
-   - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
-   - Source: github
-
-7. **[kornia/kornia](https://github.com/kornia/kornia)** `Vision`, `Framework`, `Core` (⭐ 194)
+5. **[kornia/kornia](https://github.com/kornia/kornia)** `Vision`, `Framework`, `Core` (⭐ 778)
    - 🐍 Geometric Computer Vision Library for Spatial AI
    - Source: github
 
-8. **[AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)** `RL`, `Core` (⭐ 134)
-   - By entryleveljobsc | 28 points
+6. **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `NLP`, `Core` (⭐ 769)
+   - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
+   - Source: github
+
+7. **[karpathy/nanochat](https://github.com/karpathy/nanochat)** `LLM` (⭐ 621)
+   - The best ChatGPT that $100 can buy.
+   - Source: github
+
+8. **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** `RL`, `Core` (⭐ 266)
+   - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+   - Source: github
+
+9. **[Last night an AI agent performed brain surgery on a mouse](https://twitter.com/OcanaSantero/status/2115442964574908902)** `RL`, `Core` (⭐ 241)
+   - By FacZap | 87 points
+   - Source: hackernews
+
+10. **[LongCat-2.5: Native Multimodality for Agentic Tasks](https://longcat.ai/blog/longcat-2.5/)** `NLP`, `RL` (⭐ 142)
+   - By pretext | 44 points
    - Source: hackernews
 
 
