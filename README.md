@@ -14,46 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-02
+### 2026-11-03
 
-1. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 3382)
-   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+1. **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** `RL`, `Core` (⭐ 6883)
+   - Computer use CLI for AI agents
    - Source: github
 
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 1767)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-3. **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Framework`, `Core` (⭐ 1565)
+2. **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Framework`, `Core` (⭐ 3005)
    - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
    - Source: github
 
-4. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `RL`, `Research`, `Core` (⭐ 896)
-   - The open-source app everyone uses to manage agents at work
+3. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 2192)
+   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
    - Source: github
 
-5. **[kornia/kornia](https://github.com/kornia/kornia)** `Vision`, `Framework`, `Core` (⭐ 778)
-   - 🐍 Geometric Computer Vision Library for Spatial AI
+4. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2116)
+   - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-6. **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `NLP`, `Core` (⭐ 769)
+5. **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `NLP`, `Core` (⭐ 1300)
    - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
    - Source: github
 
-7. **[karpathy/nanochat](https://github.com/karpathy/nanochat)** `LLM` (⭐ 621)
-   - The best ChatGPT that $100 can buy.
-   - Source: github
-
-8. **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** `RL`, `Core` (⭐ 266)
+6. **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** `RL`, `Core` (⭐ 808)
    - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
    - Source: github
 
-9. **[Last night an AI agent performed brain surgery on a mouse](https://twitter.com/OcanaSantero/status/2115442964574908902)** `RL`, `Core` (⭐ 241)
-   - By FacZap | 87 points
-   - Source: hackernews
-
-10. **[LongCat-2.5: Native Multimodality for Agentic Tasks](https://longcat.ai/blog/longcat-2.5/)** `NLP`, `RL` (⭐ 142)
-   - By pretext | 44 points
+7. **[Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)** `Robotics`, `Core` (⭐ 106)
+   - By xx_ns | 12 points
    - Source: hackernews
 
 
