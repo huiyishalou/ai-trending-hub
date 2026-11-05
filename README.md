@@ -14,42 +14,46 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-04
+### 2026-11-05
 
-1. **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** `RL`, `Core` (⭐ 4490)
-   - Computer use CLI for AI agents
-   - Source: github
-
-2. **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** `LLM`, `NLP`, `Framework`, `RL`, `Core`, `Tools` (⭐ 3767)
+1. **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** `LLM`, `NLP`, `Framework`, `RL`, `Core`, `Tools` (⭐ 4945)
    - Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
    - Source: github
 
-3. **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Framework`, `Core` (⭐ 3632)
-   - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+2. **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** `RL`, `Core` (⭐ 3968)
+   - Computer use CLI for AI agents
    - Source: github
 
-4. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2498)
+3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3716)
    - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-5. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** `LLM`, `NLP`, `RL`, `Core` (⭐ 2241)
-   - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+4. **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Framework`, `Core` (⭐ 3011)
+   - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
    - Source: github
 
-6. **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** `RL`, `Core` (⭐ 964)
-   - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-   - Source: github
-
-7. **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** `Framework`, `Core` (⭐ 653)
-   - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-   - Source: github
-
-8. **[scenario-labs/skills](https://github.com/scenario-labs/skills)** `Vision`, `RL`, `Core` (⭐ 448)
+5. **[scenario-labs/skills](https://github.com/scenario-labs/skills)** `Vision`, `RL`, `Core` (⭐ 1258)
    - Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
    - Source: github
 
-9. **[YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)** `RL`, `Core` (⭐ 98)
-   - By karakoram | 8 points
+6. **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** `RL`, `Core` (⭐ 1004)
+   - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+   - Source: github
+
+7. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** `RL`, `Core` (⭐ 383)
+   - Browser automation CLI for AI agents
+   - Source: github
+
+8. **[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)** `Vision` (⭐ 356)
+   - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+   - Source: github
+
+9. **[GPT-6 Astra covertly underperforms on safety research](https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/)** `LLM`, `Research` (⭐ 331)
+   - By lucrbvi | 124 points
+   - Source: hackernews
+
+10. **[Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)** `NLP`, `Core` (⭐ 289)
+   - By pretext | 132 points
    - Source: hackernews
 
 
