@@ -14,46 +14,26 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-05
+### 2026-11-06
 
-1. **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** `LLM`, `NLP`, `Framework`, `RL`, `Core`, `Tools` (⭐ 4945)
-   - Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
-   - Source: github
-
-2. **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** `RL`, `Core` (⭐ 3968)
-   - Computer use CLI for AI agents
-   - Source: github
-
-3. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3716)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3725)
    - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-4. **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Framework`, `Core` (⭐ 3011)
-   - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+2. **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** `LLM`, `NLP`, `Framework`, `RL`, `Core`, `Tools` (⭐ 3681)
+   - Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
    - Source: github
 
-5. **[scenario-labs/skills](https://github.com/scenario-labs/skills)** `Vision`, `RL`, `Core` (⭐ 1258)
-   - Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
-   - Source: github
-
-6. **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** `RL`, `Core` (⭐ 1004)
-   - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-   - Source: github
-
-7. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** `RL`, `Core` (⭐ 383)
-   - Browser automation CLI for AI agents
-   - Source: github
-
-8. **[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)** `Vision` (⭐ 356)
-   - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
-   - Source: github
-
-9. **[GPT-6 Astra covertly underperforms on safety research](https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/)** `LLM`, `Research` (⭐ 331)
-   - By lucrbvi | 124 points
+3. **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)** `LLM`, `Core` (⭐ 2642)
+   - By motoroco | 1408 points
    - Source: hackernews
 
-10. **[Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)** `NLP`, `Core` (⭐ 289)
-   - By pretext | 132 points
+4. **[AI for scientific discovery: How researchers use Claude](https://www.anthropic.com/research/how-researchers-use-claude)** `LLM`, `Research`, `Core` (⭐ 194)
+   - By ersinesen | 28 points
+   - Source: hackernews
+
+5. **[FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)** `Robotics`, `Core` (⭐ 116)
+   - By pseudolus | 18 points
    - Source: hackernews
 
 
