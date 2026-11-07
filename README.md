@@ -14,26 +14,26 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-06
+### 2026-11-07
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 3725)
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2021)
    - Skills for Real Engineers. Straight from my .agents directory.
    - Source: github
 
-2. **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** `LLM`, `NLP`, `Framework`, `RL`, `Core`, `Tools` (⭐ 3681)
-   - Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
+2. **[US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)** `Robotics`, `Core` (⭐ 739)
+   - By ChrisArchitect | 364 points
+   - Source: hackernews
+
+3. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** `RL`, `Core` (⭐ 381)
+   - Browser automation CLI for AI agents
    - Source: github
 
-3. **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)** `LLM`, `Core` (⭐ 2642)
-   - By motoroco | 1408 points
-   - Source: hackernews
+4. **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** `Framework`, `Core` (⭐ 322)
+   - A utility-first CSS framework for rapid UI development.
+   - Source: github
 
-4. **[AI for scientific discovery: How researchers use Claude](https://www.anthropic.com/research/how-researchers-use-claude)** `LLM`, `Research`, `Core` (⭐ 194)
-   - By ersinesen | 28 points
-   - Source: hackernews
-
-5. **[FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)** `Robotics`, `Core` (⭐ 116)
-   - By pseudolus | 18 points
+5. **[Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5](https://github.com/hyphatech/spindle)** `Framework`, `Core` (⭐ 91)
+   - By zaiev | 19 points
    - Source: hackernews
 
 
