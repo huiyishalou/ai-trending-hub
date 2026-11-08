@@ -14,26 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-07
+### 2026-11-08
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2021)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-2. **[US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)** `Robotics`, `Core` (⭐ 739)
-   - By ChrisArchitect | 364 points
-   - Source: hackernews
-
-3. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** `RL`, `Core` (⭐ 381)
+1. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** `RL`, `Core` (⭐ 1519)
    - Browser automation CLI for AI agents
    - Source: github
 
-4. **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** `Framework`, `Core` (⭐ 322)
-   - A utility-first CSS framework for rapid UI development.
-   - Source: github
+2. **[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)** `LLM`, `Core` (⭐ 954)
+   - By shmulc | 470 points
+   - Source: hackernews
 
-5. **[Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5](https://github.com/hyphatech/spindle)** `Framework`, `Core` (⭐ 91)
-   - By zaiev | 19 points
+3. **[Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)** `LLM`, `Tools` (⭐ 915)
+   - By karagenit | 465 points
+   - Source: hackernews
+
+4. **[Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)** `LLM` (⭐ 292)
+   - By joshcsimmons | 82 points
+   - Source: hackernews
+
+5. **[JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)** `NLP`, `Robotics` (⭐ 193)
+   - By dmit | 47 points
+   - Source: hackernews
+
+6. **[Quadrillion-parameter transformers and how to train them](https://qlabs.sh/research/parameters)** `Framework`, `Core` (⭐ 124)
+   - By frozenseven | 22 points
    - Source: hackernews
 
 
