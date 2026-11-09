@@ -14,31 +14,35 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-08
+### 2026-11-09
 
-1. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** `RL`, `Core` (⭐ 1519)
+1. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** `RL`, `Core` (⭐ 1702)
    - Browser automation CLI for AI agents
    - Source: github
 
-2. **[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)** `LLM`, `Core` (⭐ 954)
-   - By shmulc | 470 points
+2. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 963)
+   - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+   - Source: github
+
+3. **[garrytan/gbrain](https://github.com/garrytan/gbrain)** `RL`, `Core` (⭐ 435)
+   - Garry's Opinionated OpenClaw/Hermes Agent Brain
+   - Source: github
+
+4. **[Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)** `NLP`, `Core` (⭐ 395)
+   - By theanonymousone | 166 points
    - Source: hackernews
 
-3. **[Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)** `LLM`, `Tools` (⭐ 915)
-   - By karagenit | 465 points
+5. **[Magenta solar panels may be agrivoltaics' cleverest trick yet](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)** `RL`, `Core` (⭐ 311)
+   - By speckx | 126 points
    - Source: hackernews
 
-4. **[Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)** `LLM` (⭐ 292)
-   - By joshcsimmons | 82 points
+6. **[Drones built to look like birds evaded detection at Air Force tech exercise](https://taskandpurpose.com/news/drone-mimicking-bird-test/)** `Vision`, `Core` (⭐ 202)
+   - By bushwart | 59 points
    - Source: hackernews
 
-5. **[JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)** `NLP`, `Robotics` (⭐ 193)
-   - By dmit | 47 points
-   - Source: hackernews
-
-6. **[Quadrillion-parameter transformers and how to train them](https://qlabs.sh/research/parameters)** `Framework`, `Core` (⭐ 124)
-   - By frozenseven | 22 points
-   - Source: hackernews
+7. **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** `LLM`, `Core` (⭐ 146)
+   - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+   - Source: github
 
 
 <!-- TRENDING_END -->
