@@ -14,30 +14,30 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-10
+### 2026-11-11
 
-1. **[mattpocock/skills](https://github.com/mattpocock/skills)** `RL`, `Core` (⭐ 2222)
-   - Skills for Real Engineers. Straight from my .agents directory.
-   - Source: github
-
-2. **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** `LLM`, `Core` (⭐ 1516)
-   - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
-   - Source: github
-
-3. **[Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)** `LLM`, `Core` (⭐ 1507)
-   - By lairv | 792 points
-   - Source: hackernews
-
-4. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** `RL`, `Core` (⭐ 1452)
-   - Browser automation CLI for AI agents
-   - Source: github
-
-5. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 894)
+1. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** `RL`, `Core` (⭐ 1475)
    - Production-grade engineering skills for AI coding agents.
    - Source: github
 
-6. **[Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)** `LLM`, `Core` (⭐ 153)
-   - By meetpateltech | 25 points
+2. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** `RL`, `Core` (⭐ 1339)
+   - Browser automation CLI for AI agents
+   - Source: github
+
+3. **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** `LLM`, `Core` (⭐ 1242)
+   - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+   - Source: github
+
+4. **[Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)** `RL`, `Core` (⭐ 1072)
+   - By eyvindn | 549 points
+   - Source: hackernews
+
+5. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 826)
+   - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+   - Source: github
+
+6. **[Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)** `RL`, `Core` (⭐ 215)
+   - By saikatsg | 88 points
    - Source: hackernews
 
 
