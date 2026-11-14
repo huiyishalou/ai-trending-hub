@@ -14,31 +14,43 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-13
+### 2026-11-14
 
-1. **[Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)** `LLM`, `Core` (⭐ 824)
-   - By __vivek | 398 points
-   - Source: hackernews
-
-2. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** `LLM`, `Core` (⭐ 544)
-   - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-   - Source: github
-
-3. **[Foundation Models framework](https://developer.apple.com/foundation-models-framework/)** `Framework`, `Core` (⭐ 529)
-   - By kermatt | 247 points
-   - Source: hackernews
-
-4. **[Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)** `Vision`, `Core` (⭐ 480)
-   - Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
-   - Source: github
-
-5. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 410)
+1. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 1654)
    - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
    - Source: github
 
-6. **[tailscale/tailcat](https://github.com/tailscale/tailcat)** `Robotics`, `Core` (⭐ 359)
-   - like netcat, but over Tailscale's data plane, without Tailscale's control plane
+2. **[QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** `LLM`, `RL`, `Core` (⭐ 925)
+   - An open-source AI coding agent that lives in your terminal.
    - Source: github
+
+3. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 912)
+   - Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+   - Source: github
+
+4. **[Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)** `Vision`, `Core` (⭐ 800)
+   - Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
+   - Source: github
+
+5. **[After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)** `RL`, `Core` (⭐ 575)
+   - By halcdev | 273 points
+   - Source: hackernews
+
+6. **[Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)** `LLM`, `Tools` (⭐ 460)
+   - By Retro_Dev | 202 points
+   - Source: hackernews
+
+7. **[ashhart/TensorFold](https://github.com/ashhart/TensorFold)** `LLM`, `Core` (⭐ 365)
+   - LLM Inference Engine for Metal, CUDA and Vulkan.
+   - Source: github
+
+8. **[Tencent/LoopForge](https://github.com/Tencent/LoopForge)** `LLM`, `RL` (⭐ 343)
+   - Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
+   - Source: github
+
+9. **[Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)** `NLP`, `Core` (⭐ 166)
+   - By DeepLogin | 39 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
