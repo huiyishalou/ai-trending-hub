@@ -14,38 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-15
+### 2026-11-16
 
-1. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 1895)
+1. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 3401)
    - Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
    - Source: github
 
-2. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 1277)
+2. **[NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** `Vision`, `Framework`, `RL`, `Research`, `Core`, `Tools` (⭐ 1799)
+   - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+   - Source: github
+
+3. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 1742)
    - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
    - Source: github
 
-3. **[Tencent/LoopForge](https://github.com/Tencent/LoopForge)** `LLM`, `RL` (⭐ 901)
-   - Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
-   - Source: github
-
-4. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 506)
+4. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 1032)
    - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
    - Source: github
 
-5. **[NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** `Vision`, `Framework`, `RL`, `Research`, `Core`, `Tools` (⭐ 323)
-   - Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+5. **[google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)** `Framework`, `RL`, `Research`, `Core` (⭐ 656)
+   - PaperOrchestra is a multi-agent framework for automated AI research paper writing.
    - Source: github
 
-6. **[ggml-org/ggml](https://github.com/ggml-org/ggml)** `Framework`, `Core` (⭐ 298)
-   - Tensor library for machine learning
+6. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 250)
+   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
 
-7. **[Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)** `LLM`, `NLP`, `Tools` (⭐ 284)
-   - By vismit2000 | 71 points
-   - Source: hackernews
-
-8. **[What thousands of conversations look like inside a language model](https://operator0x.com/field-notes/qwen-conversation-state-space/)** `NLP`, `Core` (⭐ 181)
-   - By josip208 | 47 points
+7. **[Show HN: ThingStudio, Node-RED style programming for microcontrollers](https://thingstudio.net/)** `RL`, `Robotics` (⭐ 121)
+   - By mkarliner | 34 points
    - Source: hackernews
 
 
