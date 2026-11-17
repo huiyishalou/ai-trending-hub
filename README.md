@@ -14,34 +14,54 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-16
+### 2026-11-17
 
-1. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 3401)
+1. **[dream-num/univer](https://github.com/dream-num/univer)** `RL`, `Core` (⭐ 3218)
    - Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
    - Source: github
 
-2. **[NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** `Vision`, `Framework`, `RL`, `Research`, `Core`, `Tools` (⭐ 1799)
-   - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
-   - Source: github
-
-3. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 1742)
-   - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-   - Source: github
-
-4. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 1032)
-   - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-   - Source: github
-
-5. **[google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)** `Framework`, `RL`, `Research`, `Core` (⭐ 656)
+2. **[google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)** `Framework`, `RL`, `Research`, `Core` (⭐ 2220)
    - PaperOrchestra is a multi-agent framework for automated AI research paper writing.
    - Source: github
 
-6. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 250)
+3. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** `LLM`, `RL`, `Research`, `Core` (⭐ 1672)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   - Source: github
+
+4. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 1420)
    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
 
-7. **[Show HN: ThingStudio, Node-RED style programming for microcontrollers](https://thingstudio.net/)** `RL`, `Robotics` (⭐ 121)
-   - By mkarliner | 34 points
+5. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** `LLM`, `RL`, `Core` (⭐ 1414)
+   - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+   - Source: github
+
+6. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1100)
+   - An agentic skills framework & software development methodology that works.
+   - Source: github
+
+7. **[Tencent/LoopForge](https://github.com/Tencent/LoopForge)** `LLM`, `RL` (⭐ 1092)
+   - Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
+   - Source: github
+
+8. **[Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame)** `RL`, `Research` (⭐ 962)
+   - By geerlingguy | 508 points
+   - Source: hackernews
+
+9. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 690)
+   - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+   - Source: github
+
+10. **[VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/)** `Vision`, `RL` (⭐ 412)
+   - By broast | 169 points
+   - Source: hackernews
+
+11. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `LLM`, `Core` (⭐ 365)
+   - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+   - Source: github
+
+12. **[How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)** `LLM`, `Core` (⭐ 365)
+   - By craigmart | 158 points
    - Source: hackernews
 
 
