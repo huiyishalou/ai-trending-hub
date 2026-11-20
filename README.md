@@ -14,27 +14,35 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-19
+### 2026-11-20
 
-1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 3676)
+1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1622)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-2. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 1744)
+2. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `LLM`, `Core` (⭐ 1541)
+   - 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
+   - Source: github
+
+3. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 1263)
    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
 
-3. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 643)
+4. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 1186)
    - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-4. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 605)
+5. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 627)
    - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
    - Source: github
 
-5. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `LLM`, `Core` (⭐ 569)
-   - 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
-   - Source: github
+6. **[I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)** `Framework`, `Core` (⭐ 383)
+   - By unchar1 | 166 points
+   - Source: hackernews
+
+7. **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)** `NLP`, `Core` (⭐ 112)
+   - By lwhsiao | 9 points
+   - Source: hackernews
 
 
 <!-- TRENDING_END -->
