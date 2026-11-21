@@ -14,34 +14,38 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-20
+### 2026-11-21
 
-1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1622)
+1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1615)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-2. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `LLM`, `Core` (⭐ 1541)
-   - 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
-   - Source: github
-
-3. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 1263)
-   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-   - Source: github
-
-4. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 1186)
+2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 1093)
    - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
    - Source: github
 
-5. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 627)
+3. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 1049)
+   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+   - Source: github
+
+4. **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)** `NLP`, `Core` (⭐ 906)
+   - By lwhsiao | 450 points
+   - Source: hackernews
+
+5. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `LLM`, `Core` (⭐ 905)
+   - 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
+   - Source: github
+
+6. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 643)
    - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
    - Source: github
 
-6. **[I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)** `Framework`, `Core` (⭐ 383)
-   - By unchar1 | 166 points
+7. **[NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)** `RL`, `Core` (⭐ 606)
+   - By CharlesW | 310 points
    - Source: hackernews
 
-7. **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)** `NLP`, `Core` (⭐ 112)
-   - By lwhsiao | 9 points
+8. **[ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)** `RL`, `Core` (⭐ 309)
+   - By Ricapar | 125 points
    - Source: hackernews
 
 
