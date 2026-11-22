@@ -14,38 +14,34 @@
 
 <!-- TRENDING_START -->
 
-### 2026-11-21
+### 2026-11-22
 
-1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1615)
+1. **[obra/superpowers](https://github.com/obra/superpowers)** `Framework`, `RL` (⭐ 1437)
    - An agentic skills framework & software development methodology that works.
    - Source: github
 
-2. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 1093)
-   - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-   - Source: github
-
-3. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 1049)
+2. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `RL`, `Research`, `Core` (⭐ 1241)
    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
    - Source: github
 
-4. **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)** `NLP`, `Core` (⭐ 906)
-   - By lwhsiao | 450 points
-   - Source: hackernews
-
-5. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `LLM`, `Core` (⭐ 905)
-   - 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
-   - Source: github
-
-6. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 643)
+3. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `LLM`, `Framework`, `RL` (⭐ 989)
    - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
    - Source: github
 
-7. **[NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)** `RL`, `Core` (⭐ 606)
-   - By CharlesW | 310 points
+4. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** `LLM`, `Core` (⭐ 968)
+   - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+   - Source: github
+
+5. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `LLM`, `Core` (⭐ 878)
+   - 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
+   - Source: github
+
+6. **[87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)** `RL`, `Core` (⭐ 754)
+   - By happosai | 407 points
    - Source: hackernews
 
-8. **[ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)** `RL`, `Core` (⭐ 309)
-   - By Ricapar | 125 points
+7. **[Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io)** `RL`, `Core` (⭐ 305)
+   - By vasie | 123 points
    - Source: hackernews
 
 
